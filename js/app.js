@@ -39,9 +39,19 @@ function vuePour(page, parametre, option) {
   }
 }
 
+/** Dernière page visitée hors Réglages : le bouton ⚙ y ramène quand on est déjà dans les Réglages. */
+let pageAvantReglages = '#/accueil';
+
+function basculerReglages(evenement) {
+  if (!location.hash.startsWith('#/reglages')) return; // le lien ouvre normalement les Réglages
+  evenement.preventDefault();
+  location.hash = pageAvantReglages;
+}
+
 function afficher() {
   arreterSon();
   const [page = 'accueil', parametre, option] = location.hash.replace(/^#\/?/, '').split('/');
+  if (page !== 'reglages') pageAvantReglages = location.hash || '#/accueil';
   const vue = document.getElementById('vue');
   vue.dataset.page = page; // choisit le décor botanique de l'onglet (voir style.css)
   vue.replaceChildren(vuePour(page, parametre, option));
@@ -64,6 +74,7 @@ async function demarrer() {
     return;
   }
   window.addEventListener('hashchange', afficher);
+  document.querySelector('.entete .reglages').addEventListener('click', basculerReglages);
   afficher();
 }
 
