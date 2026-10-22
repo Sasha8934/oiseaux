@@ -3,7 +3,7 @@
 // IMPORTANT : à chaque mise en ligne d'une nouvelle version, augmenter VERSION.
 // C'est ce qui déclenche la mise à jour sur l'ordinateur, l'iPhone et l'iPad.
 
-const VERSION = 'v6';
+const VERSION = 'v7';
 const CACHE_APP = `oiseaux-app-${VERSION}`;
 const CACHE_MEDIAS = 'oiseaux-medias'; // même nom que dans js/hors-ligne.js
 
@@ -23,6 +23,7 @@ const FICHIERS_APP = [
   'js/lecteur.js',
   'js/hors-ligne.js',
   'js/theme.js',
+  'js/barres.js',
   'js/calendrier.js',
   'js/vues/accueil.js',
   'js/vues/flashcards.js',

@@ -125,7 +125,7 @@ body {
   font: 300 17px/1.6 var(--sans);
   -webkit-font-smoothing: antialiased;
   /* place pour la barre d'onglets en bas sur téléphone */
-  padding-bottom: calc(84px + env(safe-area-inset-bottom));
+  padding-bottom: calc(66px + env(safe-area-inset-bottom));
 }
 
 a { color: var(--accent-fonce); }
@@ -165,7 +165,8 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   display: grid;
   grid-template-columns: 44px 1fr 44px;
   align-items: center;
-  padding: calc(8px + env(safe-area-inset-top)) 12px 8px;
+  padding: calc(5px + env(safe-area-inset-top)) 12px 5px;
+  transition: top 0.25s ease;
   /* pas de flou ici : un flou sur l'en-tête empêcherait la barre d'onglets de se fixer en bas */
   background: var(--fond);
   border-bottom: 1px solid var(--bordure);
@@ -181,10 +182,10 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   color: var(--accent-fonce);
 }
 
-.marque svg { width: 34px; height: 34px; }
+.marque svg { width: 28px; height: 28px; }
 
 .marque span {
-  font: 500 1.35rem/1 var(--serif);
+  font: 500 1.2rem/1 var(--serif);
   letter-spacing: 0.34em;
   margin-right: -0.34em; /* compense l'espacement après la dernière lettre */
 }
@@ -194,8 +195,8 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   justify-self: end;
   display: grid;
   place-items: center;
-  width: 40px;
-  height: 40px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
   color: var(--texte-doux);
 }
@@ -210,8 +211,9 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   right: 0;
   bottom: 0;
   display: flex;
-  padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+  padding: 2px 4px calc(2px + env(safe-area-inset-bottom));
   background: var(--barre);
+  transition: transform 0.25s ease;
   -webkit-backdrop-filter: blur(16px);
   backdrop-filter: blur(16px);
   border-top: 1px solid var(--bordure);
@@ -222,16 +224,22 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 3px;
-  padding: 6px 0 4px;
-  font: 400 0.58rem/1 var(--sans);
+  gap: 2px;
+  padding: 5px 0 4px;
+  font: 400 0.55rem/1 var(--sans);
   letter-spacing: 0.14em;
   text-transform: uppercase;
   text-decoration: none;
   color: var(--barre-texte);
 }
 
-.onglets svg { width: 24px; height: 24px; }
+.onglets svg { width: 22px; height: 22px; }
+
+/* Barres effacées pendant le défilement vers le bas (js/barres.js).
+   L'en-tête est décalé avec « top » et non « transform » : un transform sur l'en-tête
+   ferait sortir la barre d'onglets (qu'il contient) de sa place en bas de l'écran. */
+.barres-cachees .entete { top: calc(-80px - env(safe-area-inset-top)); }
+.barres-cachees .onglets { transform: translateY(100%); }
 .onglets a[aria-current] { color: var(--barre-actif); }
 .onglets a[aria-current] .icone-trait { stroke-width: 1.6; }
 
@@ -241,6 +249,7 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   body { padding-bottom: 40px; }
   .entete { grid-template-columns: auto 1fr auto; gap: 16px; padding: 12px 24px; }
   .marque { grid-column: 1; justify-self: start; }
+  .barres-cachees .onglets { transform: none; }
   .onglets {
     position: static;
     grid-column: 2;

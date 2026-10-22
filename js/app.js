@@ -5,6 +5,7 @@ import { h } from './outils.js';
 import { chargerEspeces } from './donnees.js';
 import { arreterSon } from './lecteur.js';
 import { activerHorsLigne } from './hors-ligne.js';
+import { activerBarresMasquables } from './barres.js';
 import { vueAccueil } from './vues/accueil.js';
 import { vueChoixFlashcards, vueSessionFlashcards, vueSessionCiblee } from './vues/flashcards.js';
 import { vueChoixQuiz, vueQuiz } from './vues/quiz.js';
@@ -54,6 +55,7 @@ function afficher() {
 
 async function demarrer() {
   activerHorsLigne();
+  activerBarresMasquables();
   try {
     await chargerEspeces();
   } catch (erreur) {
