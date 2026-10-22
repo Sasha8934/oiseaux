@@ -4,6 +4,7 @@ import { h, credit } from '../outils.js';
 import { toutesLesEspeces } from '../donnees.js';
 import { exporter, importer, reinitialiser } from '../progression.js';
 import { CACHE_MEDIAS } from '../hors-ligne.js';
+import { THEMES, themeChoisi, choisirTheme } from '../theme.js';
 
 export function vueReglages() {
   const message = h('p', { class: 'message', 'aria-live': 'polite' });
@@ -48,6 +49,9 @@ export function vueReglages() {
 
     h('p', { class: 'intro' }, 'La progression détaillée et le calendrier sont dans l\'onglet ', h('a', { href: '#/suivi' }, 'Suivi'), '.'),
 
+    h('h2', {}, 'Apparence'),
+    selecteurTheme(),
+
     h('h2', {}, 'Sauvegarde et transfert'),
     h('p', {}, 'La progression (cartes, sessions, tests) est enregistrée sur chaque appareil séparément. '
       + 'Pour la transférer, exportez-la ici, puis importez le fichier sur l\'autre appareil.'),
@@ -68,6 +72,21 @@ export function vueReglages() {
         h('strong', {}, e.nom),
         credit(e.photo),
         e.sons.map((son) => credit(son)))))));
+}
+
+/** Boutons Automatique / Clair / Sombre. */
+function selecteurTheme() {
+  const boutons = Object.entries(THEMES).map(([theme, libelle]) => h('button', {
+    type: 'button',
+    'aria-pressed': String(theme === themeChoisi()),
+    onclick: () => {
+      choisirTheme(theme);
+      for (const b of boutons) b.setAttribute('aria-pressed', String(b === boutons[Object.keys(THEMES).indexOf(theme)]));
+    },
+  }, libelle));
+  return h('div', {},
+    h('div', { class: 'selecteur', role: 'group', 'aria-label': 'Thème' }, boutons),
+    h('p', { class: 'texte-doux petit' }, 'Automatique : suit le réglage clair ou sombre de votre appareil.'));
 }
 
 /** Télécharge tous les sons et photos sur l'appareil pour une utilisation hors ligne. */

@@ -3,7 +3,7 @@
 // IMPORTANT : à chaque mise en ligne d'une nouvelle version, augmenter VERSION.
 // C'est ce qui déclenche la mise à jour sur l'ordinateur, l'iPhone et l'iPad.
 
-const VERSION = 'v5';
+const VERSION = 'v6';
 const CACHE_APP = `oiseaux-app-${VERSION}`;
 const CACHE_MEDIAS = 'oiseaux-medias'; // même nom que dans js/hors-ligne.js
 
@@ -22,6 +22,7 @@ const FICHIERS_APP = [
   'js/progression.js',
   'js/lecteur.js',
   'js/hors-ligne.js',
+  'js/theme.js',
   'js/calendrier.js',
   'js/vues/accueil.js',
   'js/vues/flashcards.js',
@@ -34,7 +35,11 @@ const FICHIERS_APP = [
   'data/medias.json',
   'data/savoirs.json',
   'icones/logo.svg',
-  'icones/branche.svg',
+  'icones/decor-branche.svg',
+  'icones/decor-plume.svg',
+  'icones/decor-graminees.svg',
+  'icones/decor-fougere.svg',
+  'icones/decor-ombelle.svg',
   'icones/icone-180.png',
   'icones/icone-192.png',
   'icones/icone-512.png',

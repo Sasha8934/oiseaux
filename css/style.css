@@ -5,37 +5,37 @@
 @import url('../polices/polices.css');
 
 :root {
-  --fond: #f3eee3;
-  --fond-degrade: #f3eee3;
-  --surface: #fbf8f2;
-  --surface-forte: #fbf8f2;
+  --fond: #f2ecdf;
+  --fond-degrade: #f2ecdf;
+  --surface: #f7f2e7;
+  --surface-forte: #f7f2e7;
   --texte: #2f3529;
   --texte-doux: #6b6354;
   --accent: #4a5a3f;
   --accent-fonce: #34402c;
-  --accent-clair: #e4e4d5;
+  --accent-clair: #e7e3d2;
   --sur-accent: #f3eee3;
   --sauge: #a9b79a;
   --en-cours: #b8c2a8;
-  --bordure: #ddd4c3;
-  --bordure-forte: #c9bfac;
+  --bordure: #e2d9c8;
+  --bordure-forte: #cfc4b0;
   --juste: #4f7a4c;
   --juste-fond: #e2eadb;
   --faux: #a0523d;
   --faux-fond: #f1e1d9;
-  --barre: #34402c;
-  --barre-texte: #c9cfbd;
-  --barre-actif: #f3eee3;
-  --spectro-fond: #fbf8f2;
+  --barre: rgb(242 236 223 / 0.94);
+  --barre-texte: #8a8576;
+  --barre-actif: #34402c;
+  --spectro-fond: #f7f2e7;
   --spectro-encre: #34402c;
   --niveau-0: transparent;
-  --niveau-1: #e4e4d5;
+  --niveau-1: #e7e3d2;
   --niveau-2: #c4cdb5;
   --niveau-3: #8e9e7f;
   --niveau-4: #4a5a3f;
   --flou: none;
   --rayon: 18px;
-  --ombre: 0 1px 2px rgb(52 64 44 / 0.05), 0 8px 24px rgb(52 64 44 / 0.06);
+  --ombre: 0 1px 2px rgb(91 83 71 / 0.04), 0 8px 24px rgb(91 83 71 / 0.05);
   --serif: 'Cormorant Garamond', 'Times New Roman', serif;
   --sans: 'Jost', system-ui, -apple-system, 'Segoe UI', sans-serif;
   color-scheme: light;
@@ -233,9 +233,9 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
 
 .onglets svg { width: 24px; height: 24px; }
 .onglets a[aria-current] { color: var(--barre-actif); }
-.onglets a[aria-current] svg { stroke-width: 1.9; }
+.onglets a[aria-current] .icone-trait { stroke-width: 1.6; }
 
-.icone-trait { fill: none; stroke: currentColor; stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+.icone-trait { fill: none; stroke: currentColor; stroke-width: 1.15; stroke-linecap: round; stroke-linejoin: round; }
 
 @media (min-width: 760px) {
   body { padding-bottom: 40px; }
@@ -302,22 +302,54 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
 .encart h2, .encart h3 { margin-top: 0; }
 .encart p { margin-bottom: 0; }
 
-/* Décor botanique discret (accueil et fins de session) */
-.decor::before {
+/* Décors botaniques discrets : un dessin par onglet, et le rameau sur l'accueil et les fins de session */
+.page::before {
   content: '';
   position: absolute;
-  top: 6px;
+  top: 4px;
   right: 0;
-  width: 150px;
-  height: 190px;
+  width: 160px;
+  height: 205px;
   background: var(--accent);
-  opacity: 0.16;
+  opacity: 0.1;
   pointer-events: none;
-  -webkit-mask: url('../icones/branche.svg') no-repeat center / contain;
-  mask: url('../icones/branche.svg') no-repeat center / contain;
+  -webkit-mask: no-repeat center / contain;
+  mask: no-repeat center / contain;
 }
 
-.decor > * { position: relative; }
+.page > * { position: relative; }
+
+#vue[data-page="flashcards"] .page::before, #vue[data-page="reglages"] .page::before {
+  -webkit-mask-image: url('../icones/decor-plume.svg'); mask-image: url('../icones/decor-plume.svg');
+}
+#vue[data-page="quiz"] .page::before {
+  -webkit-mask-image: url('../icones/decor-graminees.svg'); mask-image: url('../icones/decor-graminees.svg');
+}
+#vue[data-page="fiches"] .page::before, #vue[data-page="savoirs"] .page::before {
+  -webkit-mask-image: url('../icones/decor-fougere.svg'); mask-image: url('../icones/decor-fougere.svg');
+}
+#vue[data-page="suivi"] .page::before {
+  -webkit-mask-image: url('../icones/decor-ombelle.svg'); mask-image: url('../icones/decor-ombelle.svg');
+}
+#vue[data-page="accueil"] .page::before, #vue .page.decor::before {
+  -webkit-mask-image: url('../icones/decor-branche.svg'); mask-image: url('../icones/decor-branche.svg');
+  opacity: 0.16;
+}
+
+/* Choix du thème (Réglages) */
+.selecteur { display: inline-flex; padding: 4px; gap: 4px; border: 1px solid var(--bordure-forte); border-radius: 999px; }
+.selecteur button {
+  padding: 8px 16px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--texte-doux);
+  font: 400 0.72rem var(--sans);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.selecteur button[aria-pressed="true"] { background: var(--accent); color: var(--sur-accent); }
 
 /* --- Boutons ------------------------------------------------------------------ */
 
@@ -601,7 +633,7 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
 button.jour { cursor: pointer; }
 .jour.vide { border: 0; background: transparent; }
 .calendrier.compact { gap: 5px; }
-.calendrier.compact .jour { aspect-ratio: auto; height: 20px; border-radius: 6px; }
+.calendrier.compact .jour { border-radius: 8px; }
 .jour.niveau-1 { background: var(--niveau-1); border-color: transparent; }
 .jour.niveau-2 { background: var(--niveau-2); border-color: transparent; }
 .jour.niveau-3 { background: var(--niveau-3); border-color: transparent; color: var(--sur-accent); }

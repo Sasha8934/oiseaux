@@ -42,6 +42,7 @@ function afficher() {
   arreterSon();
   const [page = 'accueil', parametre, option] = location.hash.replace(/^#\/?/, '').split('/');
   const vue = document.getElementById('vue');
+  vue.dataset.page = page; // choisit le décor botanique de l'onglet (voir style.css)
   vue.replaceChildren(vuePour(page, parametre, option));
 
   for (const lien of document.querySelectorAll('[data-onglet]')) {

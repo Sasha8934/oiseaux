@@ -18,6 +18,14 @@
   <meta name="apple-mobile-web-app-title" content="Syrinx">
   <link rel="preload" href="polices/jost.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="polices/cormorant-garamond.woff2" as="font" type="font/woff2" crossorigin>
+  <script>
+    // Thème choisi dans les Réglages (clair, sombre ou automatique), appliqué avant l'affichage
+    try {
+      const theme = localStorage.getItem('syrinx.theme');
+      if (theme === 'clair') document.documentElement.dataset.theme = 'light';
+      if (theme === 'sombre') document.documentElement.dataset.theme = 'dark';
+    } catch {}
+  </script>
   <link rel="stylesheet" href="css/style.css">
   <script type="module" src="js/app.js"></script>
 </head>
@@ -33,13 +41,13 @@
       </g>
       <circle cx="61.31" cy="27.59" r="1.5" fill="currentColor"/>
     </symbol>
-    <symbol id="i-accueil" viewBox="0 0 24 24"><path class="icone-trait" d="M4 10.5 L12 4 L20 10.5 V20 H14.5 V14.5 H9.5 V20 H4 Z"/></symbol>
-    <symbol id="i-cartes" viewBox="0 0 24 24"><path class="icone-trait" d="M8 4.5 H19 V16.5 H8 Z M5 7.5 V19.5 H16"/></symbol>
-    <symbol id="i-quiz" viewBox="0 0 24 24"><g class="icone-trait"><circle cx="12" cy="12" r="8.5"/><path d="M9.6 9.6 C9.6 7.4 14.4 7.4 14.4 10 C14.4 11.9 12 12 12 14"/></g><circle cx="12" cy="16.8" r="0.9" fill="currentColor"/></symbol>
-    <symbol id="i-fiches" viewBox="0 0 24 24"><path class="icone-trait" d="M6 4 H18 V20 H8 C6.9 20 6 19.1 6 18 Z M6 17.5 C6 16.4 6.9 16 8 16 H18 M10 8 H15 M10 11 H14"/></symbol>
-    <symbol id="i-suivi" viewBox="0 0 24 24"><path class="icone-trait" d="M4.5 6.5 H19.5 V19.5 H4.5 Z M4.5 10.5 H19.5 M8.5 4 V8 M15.5 4 V8"/></symbol>
-    <symbol id="i-savoirs" viewBox="0 0 24 24"><path class="icone-trait" d="M19.5 4.5 C12 5 6.5 10.5 6.5 18 C13.5 17.5 19 12 19.5 4.5 Z M6.5 18 L4.5 20 M16 8 L9.5 14.5"/></symbol>
-    <symbol id="i-reglages" viewBox="0 0 24 24"><g class="icone-trait"><path d="M4 7.5 H20 M4 16.5 H20"/><circle cx="9" cy="7.5" r="2.2" fill="var(--fond)"/><circle cx="15" cy="16.5" r="2.2" fill="var(--fond)"/></g></symbol>
+    <symbol id="i-accueil" viewBox="0 0 24 24"><g class="icone-trait"><path d="M3.2 12.6 C3.8 17.6 7.4 20.2 12 20.2 C16.6 20.2 20.2 17.6 20.8 12.6"/><path d="M2.6 12.7 C6.6 11.6 17.4 11.6 21.4 12.7"/><path d="M5.2 15.4 C8.6 16.4 15.4 16.4 18.8 15.4 M7.4 18.4 C10 18.9 14 18.9 16.6 18.4"/><path d="M8 11.9 C7.6 8.6 9 6.6 10.6 6.6 C12.2 6.6 13.3 8.8 12.9 11.9"/><path d="M12.6 12 C12.7 9.4 13.9 8 15.3 8 C16.7 8 17.6 9.8 17.2 12"/></g></symbol>
+    <symbol id="i-cartes" viewBox="0 0 24 24"><g class="icone-trait"><path d="M4.6 20.2 C8.2 15.6 12.6 10.6 19.6 3.8"/><path d="M19.6 3.8 C20.4 9.4 16.6 14.6 9.4 16.4"/><path d="M19.6 3.8 C14 3.6 9.2 7.4 7.6 13.8"/><path d="M13.2 10.4 L16.8 9.6 M11 12.8 L13.4 13.4"/></g></symbol>
+    <symbol id="i-quiz" viewBox="0 0 24 24"><path class="icone-trait" d="M7.8 8.6 C7.6 5.6 9.8 3.6 12.4 3.6 C15 3.6 16.9 5.4 16.9 7.7 C16.9 10.9 12.6 11.4 12.2 15"/><circle cx="12.1" cy="19.4" r="1" fill="currentColor"/></symbol>
+    <symbol id="i-fiches" viewBox="0 0 24 24"><g class="icone-trait"><circle cx="7" cy="15.6" r="3.7"/><circle cx="17" cy="15.6" r="3.7"/><path d="M9.8 13 C11 12.1 13 12.1 14.2 13"/><path d="M3.6 14 L5.6 7.2 C6 6 7.8 6 8.2 7.2 L10.1 12.6"/><path d="M20.4 14 L18.4 7.2 C18 6 16.2 6 15.8 7.2 L13.9 12.6"/></g></symbol>
+    <symbol id="i-suivi" viewBox="0 0 24 24"><g class="icone-trait"><path d="M12 20.4 C12 16 11.8 12.8 12.6 9.4"/><path d="M12.2 13.6 C8.6 14.2 5.4 12 5 8.2 C8.8 7.9 11.7 10 12.2 13.6 Z"/><path d="M12.6 9.6 C12.9 5.8 15.8 3.6 19.4 3.8 C19.3 7.4 16.4 9.9 12.6 9.6 Z"/><path d="M8 20.4 C10.6 19.9 13.4 19.9 16 20.4"/></g></symbol>
+    <symbol id="i-savoirs" viewBox="0 0 24 24"><g class="icone-trait"><path d="M12 7.2 C9.6 5.4 6.6 5 3.4 5.6 V18.2 C6.6 17.6 9.6 18 12 19.8 C14.4 18 17.4 17.6 20.6 18.2 V5.6 C17.4 5 14.4 5.4 12 7.2 Z"/><path d="M12 7.2 V19.8"/></g></symbol>
+    <symbol id="i-reglages" viewBox="0 0 24 24"><g class="icone-trait"><path d="M4 7.6 C9 7.2 15 7.2 20 7.6 M4 16.4 C9 16.8 15 16.8 20 16.4"/><circle cx="9" cy="7.4" r="2.1" fill="var(--fond)"/><circle cx="15" cy="16.6" r="2.1" fill="var(--fond)"/></g></symbol>
   </svg>
 
   <header class="entete">
