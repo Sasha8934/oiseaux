@@ -235,11 +235,12 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
 
 .onglets svg { width: 22px; height: 22px; }
 
-/* Barres effacées pendant le défilement vers le bas (js/barres.js).
+/* Barres effacées pendant le défilement (js/barres.js) : en-tête visible seulement tout en haut,
+   barre d'onglets seulement tout en bas (et à l'ouverture de la page).
    L'en-tête est décalé avec « top » et non « transform » : un transform sur l'en-tête
    ferait sortir la barre d'onglets (qu'il contient) de sa place en bas de l'écran. */
-.barres-cachees .entete { top: calc(-80px - env(safe-area-inset-top)); }
-.barres-cachees .onglets { transform: translateY(100%); }
+.entete-cachee .entete { top: calc(-80px - env(safe-area-inset-top)); }
+.onglets-caches .onglets { transform: translateY(100%); }
 .onglets a[aria-current] { color: var(--barre-actif); }
 .onglets a[aria-current] .icone-trait { stroke-width: 1.6; }
 
@@ -249,7 +250,7 @@ h3 { font-size: 1.2rem; margin: 0 0 0.4rem; }
   body { padding-bottom: 40px; }
   .entete { grid-template-columns: auto 1fr auto; gap: 16px; padding: 12px 24px; }
   .marque { grid-column: 1; justify-self: start; }
-  .barres-cachees .onglets { transform: none; }
+  .onglets-caches .onglets { transform: none; }
   .onglets {
     position: static;
     grid-column: 2;

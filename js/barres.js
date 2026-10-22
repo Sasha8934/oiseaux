@@ -1,11 +1,10 @@
-// Barres du haut et du bas qui s'effacent en faisant défiler vers le bas,
-// et reviennent quand on remonte, en haut de page ou tout en bas de la page.
+// Barres du haut et du bas qui s'effacent pendant le défilement :
+// l'en-tête ne revient que tout en haut de la page, la barre d'onglets que tout en bas.
+// À l'ouverture d'une page, les deux sont visibles jusqu'au premier défilement.
 
-const SEUIL = 8;          // pixels de défilement avant de réagir (évite les tremblements)
-const MARGE_BORDS = 60;   // près du haut ou du bas de la page, les barres restent visibles
+const MARGE_BORDS = 40; // distance (en pixels) au haut ou au bas de la page considérée comme « tout en haut / en bas »
 
 export function activerBarresMasquables() {
-  let dernierePosition = window.scrollY;
   let enAttente = false;
 
   const mettreAJour = () => {
@@ -13,12 +12,8 @@ export function activerBarresMasquables() {
     const position = Math.max(0, window.scrollY); // ignore le rebond élastique d'iOS
     const enHaut = position < MARGE_BORDS;
     const enBas = window.innerHeight + position >= document.documentElement.scrollHeight - MARGE_BORDS;
-    const ecart = position - dernierePosition;
-
-    if (enHaut || enBas || ecart < -SEUIL) afficher();
-    else if (ecart > SEUIL) document.body.classList.add('barres-cachees');
-
-    if (Math.abs(ecart) > SEUIL || enHaut || enBas) dernierePosition = position;
+    document.body.classList.toggle('entete-cachee', !enHaut);
+    document.body.classList.toggle('onglets-caches', !enBas && !enHaut);
   };
 
   window.addEventListener('scroll', () => {
@@ -28,10 +23,8 @@ export function activerBarresMasquables() {
     }
   }, { passive: true });
 
-  // À chaque changement de page, les barres réapparaissent
-  window.addEventListener('hashchange', afficher);
-}
-
-function afficher() {
-  document.body.classList.remove('barres-cachees');
+  // À chaque changement de page, les deux barres réapparaissent
+  window.addEventListener('hashchange', () => {
+    document.body.classList.remove('entete-cachee', 'onglets-caches');
+  });
 }
