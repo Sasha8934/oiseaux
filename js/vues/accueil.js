@@ -20,8 +20,11 @@ export function vueAccueil() {
       h('p', {}, 'carte à revoir aujourd\'hui'),
       h('p', { class: 'lien' }, `Découvrir des nouvelles cartes (${general.nouvelles}) →`));
 
-  return h('section', { class: 'page' },
-    h('h1', {}, 'Bonjour !'),
+  const date = new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
+
+  return h('section', { class: 'page decor' },
+    h('p', { class: 'sur-titre' }, date),
+    h('h1', {}, new Date().getHours() >= 18 ? 'Bonsoir' : 'Bonjour'),
     h('p', { class: 'intro' },
       `${toutesLesEspeces().length} espèces à apprendre, à la vue et à l'oreille.`),
 

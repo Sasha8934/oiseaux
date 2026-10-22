@@ -55,6 +55,7 @@ export function vueSuivi() {
   })));
 
   return h('section', { class: 'page' },
+    h('p', { class: 'sur-titre' }, 'Progression'),
     h('h1', {}, 'Mon suivi'),
 
     h('div', { class: 'chiffres' },

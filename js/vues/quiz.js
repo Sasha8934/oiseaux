@@ -19,6 +19,7 @@ const TYPES_QUIZ = {
 
 export function vueChoixQuiz() {
   return h('section', { class: 'page' },
+    h('p', { class: 'sur-titre' }, 'S\'évaluer'),
     h('h1', {}, 'Quiz'),
     h('p', { class: 'intro' }, `${QUESTIONS_PAR_QUIZ} questions, ${NOMBRE_PROPOSITIONS} propositions. Les cartes à revoir passent en premier.`),
     h('div', { class: 'grille-choix' }, Object.entries(TYPES_QUIZ).map(([type, titre]) =>
@@ -59,7 +60,9 @@ export function vueQuiz(type) {
 
   const afficherFin = () => {
     const score = questions.length - erreurs.length;
+    page.classList.add('decor');
     page.append(...[
+      h('p', { class: 'sur-titre' }, `Quiz · ${TYPES_QUIZ[type]}`),
       h('h1', {}, 'Résultat'),
       h('p', { class: 'grand-chiffre' }, `${score} / ${questions.length}`),
       h('p', {}, messageScore(score / questions.length)),

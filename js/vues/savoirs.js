@@ -18,6 +18,7 @@ function pageAsynchrone(construire) {
 
 export function vueListeSavoirs() {
   return pageAsynchrone((themes) => [
+    h('p', { class: 'sur-titre' }, 'Connaissances'),
     h('h1', {}, 'Savoirs'),
     h('p', { class: 'intro' }, 'Les connaissances générales du naturaliste en bureau d\'études, avec un test à refaire pour consolider.'),
     h('div', { class: 'grille-choix' }, themes.map((theme) => {
@@ -39,6 +40,7 @@ export function vueTheme(id) {
     const resultat = resultatTest(theme.id);
     return [
       h('a', { class: 'lien retour-liste', href: '#/savoirs' }, '← Tous les savoirs'),
+      h('p', { class: 'sur-titre' }, 'Savoirs'),
       h('h1', {}, theme.titre),
       h('p', { class: 'intro' }, theme.intro),
       h('div', { class: 'actions' },
@@ -106,7 +108,9 @@ export function vueTest(id) {
 
     const afficherFin = () => {
       enregistrerTest(theme.id, score, questions.length);
+      page.classList.add('decor');
       page.replaceChildren(
+        h('p', { class: 'sur-titre' }, theme.titre),
         h('h1', {}, 'Résultat'),
         h('p', { class: 'grand-chiffre' }, `${score} / ${questions.length}`),
         h('p', {}, `Meilleur score : ${resultatTest(theme.id).meilleur} / ${questions.length}. `

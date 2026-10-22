@@ -43,6 +43,7 @@ export function vueReglages() {
   });
 
   return h('section', { class: 'page' },
+    h('p', { class: 'sur-titre' }, 'Paramètres'),
     h('h1', {}, 'Réglages'),
 
     h('p', { class: 'intro' }, 'La progression détaillée et le calendrier sont dans l\'onglet ', h('a', { href: '#/suivi' }, 'Suivi'), '.'),

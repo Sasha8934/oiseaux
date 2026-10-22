@@ -34,6 +34,7 @@ export const CIBLES = {
 /** Choix du paquet de cartes. */
 export function vueChoixFlashcards() {
   return h('section', { class: 'page' },
+    h('p', { class: 'sur-titre' }, 'Réviser'),
     h('h1', {}, 'Flashcards'),
     h('p', { class: 'intro' }, 'Écoutez ou observez, retournez la carte, puis dites honnêtement si vous saviez.'),
     h('div', { class: 'grille-choix' }, Object.keys(MODES).map((mode) => {
@@ -112,7 +113,9 @@ function session({ titre, file, vide, relancer, reviserQuandMeme }) {
   };
 
   const afficherFin = () => {
+    page.classList.add('decor');
     page.append(
+      h('p', { class: 'sur-titre' }, titre),
       h('h1', {}, 'Session terminée'),
       h('p', { class: 'grand-chiffre' }, `${historique.reussites} / ${historique.questions}`),
       h('p', {}, 'réponses connues'),

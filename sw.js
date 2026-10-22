@@ -3,7 +3,7 @@
 // IMPORTANT : à chaque mise en ligne d'une nouvelle version, augmenter VERSION.
 // C'est ce qui déclenche la mise à jour sur l'ordinateur, l'iPhone et l'iPad.
 
-const VERSION = 'v4';
+const VERSION = 'v5';
 const CACHE_APP = `oiseaux-app-${VERSION}`;
 const CACHE_MEDIAS = 'oiseaux-medias'; // même nom que dans js/hors-ligne.js
 
@@ -12,6 +12,10 @@ const FICHIERS_APP = [
   'index.html',
   'manifest.webmanifest',
   'css/style.css',
+  'polices/polices.css',
+  'polices/jost.woff2',
+  'polices/cormorant-garamond.woff2',
+  'polices/cormorant-garamond-italique.woff2',
   'js/app.js',
   'js/outils.js',
   'js/donnees.js',
@@ -29,6 +33,8 @@ const FICHIERS_APP = [
   'data/especes.json',
   'data/medias.json',
   'data/savoirs.json',
+  'icones/logo.svg',
+  'icones/branche.svg',
   'icones/icone-180.png',
   'icones/icone-192.png',
   'icones/icone-512.png',

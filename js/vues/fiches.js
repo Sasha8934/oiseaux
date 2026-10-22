@@ -19,6 +19,7 @@ export function vueListeFiches() {
   filtrer('');
 
   return h('section', { class: 'page' },
+    h('p', { class: 'sur-titre' }, `${especes.length} espèces`),
     h('h1', {}, 'Fiches espèces'),
     h('input', {
       type: 'search', class: 'recherche', placeholder: 'Rechercher (nom, nom scientifique, famille…)',
@@ -36,9 +37,10 @@ export function vueFiche(id) {
     h('a', { class: 'lien retour-liste', href: '#/fiches' }, '← Toutes les fiches'),
     e.photo ? h('img', { class: 'photo', src: e.photo.fichier, alt: e.nom }) : null,
     credit(e.photo),
+    h('p', { class: 'sur-titre' }, `${e.ordre} · ${e.famille}`),
     h('h1', { class: 'nom' }, e.nom),
     h('p', { class: 'nom-sci' }, e.sci),
-    h('p', { class: 'texte-doux' }, `${e.en} · ${e.ordre} · ${e.famille}`),
+    h('p', { class: 'texte-doux' }, e.en),
 
     h('dl', { class: 'mesures' },
       h('dt', {}, 'Longueur'), h('dd', {}, e.mesures.longueur),
