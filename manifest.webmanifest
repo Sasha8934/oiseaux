@@ -1,0 +1,14 @@
+{
+  "name": "Oiseaux – reconnaître à la vue et au chant",
+  "short_name": "Oiseaux",
+  "lang": "fr",
+  "start_url": "./#/accueil",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ea",
+  "theme_color": "#3f6b4a",
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

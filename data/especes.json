@@ -1,0 +1,481 @@
+[
+  {
+    "id": "merle-noir",
+    "nom": "Merle noir",
+    "sci": "Turdus merula",
+    "en": "Common Blackbird",
+    "ordre": "Passériformes",
+    "famille": "Turdidés",
+    "mesures": {
+      "longueur": "24–27 cm",
+      "envergure": "34–38 cm",
+      "poids": "80–110 g"
+    },
+    "identification": [
+      "Mâle entièrement noir, bec jaune-orangé et cercle jaune autour de l'œil.",
+      "Femelle brun sombre, gorge plus claire et finement striée, bec brunâtre.",
+      "Juvénile brun-roux tacheté de clair."
+    ],
+    "confusions": [
+      "Merle à plastron : croissant blanc sur la poitrine (de passage en Île-de-France).",
+      "Femelle ou juvénile avec une grive : les grives ont le ventre clair tacheté.",
+      "Étourneau sansonnet : queue courte, plumage ponctué, démarche sautillante différente."
+    ],
+    "sons": {
+      "chant": "Chant flûté, grave et mélodieux, en phrases lentes et variées, souvent terminées par un gazouillis plus faible. Chante perché en hauteur, surtout à l'aube et au crépuscule, de février à juillet.",
+      "cris": "« Tchok tchok » d'inquiétude ; crécelle aiguë et répétée lors de l'envol d'alarme ; « tsiii » fin et étiré face à un rapace."
+    },
+    "statut": "Nicheur sédentaire très commun. Les populations du nord et de l'est de l'Europe migrent et viennent en partie hiverner en France.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Ubiquiste : forêts, haies, bocage, parcs et jardins.",
+    "urbain": "Oui, très commun en ville.",
+    "repartition": "Toute la France et presque toute l'Europe.",
+    "alimentation": "Lombrics et insectes cherchés au sol ; fruits et baies en automne et en hiver.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe maçonnée de boue, garnie d'herbes, dans un arbuste, une haie, du lierre ou sur un bâtiment.",
+      "periode": "Mars à juillet",
+      "pontes": "2 à 3 (parfois 4)",
+      "oeufs": "3 à 5",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "13 à 14 jours ; les jeunes sont ensuite nourris quelques semaines hors du nid",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Contacté surtout au chant de février à juillet. Ses cris d'alarme trahissent souvent la présence d'un prédateur (chat, rapace, chouette)."
+  },
+  {
+    "id": "rougegorge-familier",
+    "nom": "Rougegorge familier",
+    "sci": "Erithacus rubecula",
+    "en": "European Robin",
+    "ordre": "Passériformes",
+    "famille": "Muscicapidés",
+    "mesures": {
+      "longueur": "13–14 cm",
+      "envergure": "20–22 cm",
+      "poids": "16–22 g"
+    },
+    "identification": [
+      "Face et poitrine orange, bordées de gris-bleu.",
+      "Dos brun-olive, ventre blanchâtre, silhouette ronde, grand œil noir.",
+      "Sexes semblables. Juvénile brun tacheté de chamois, sans orange."
+    ],
+    "confusions": [
+      "Juvénile tacheté à ne pas confondre avec un jeune rougequeue (queue rousse) ou une grive (bien plus grande).",
+      "Chant parfois confondu avec celui du Rougequeue à front blanc ou de la Fauvette des jardins."
+    ],
+    "sons": {
+      "chant": "Cascade de notes cristallines et aiguës, au ton mélancolique, en phrases variées séparées de pauses. Chante presque toute l'année, y compris en automne et en hiver (les femelles aussi, pour défendre un territoire d'hiver). Chante parfois la nuit près des éclairages.",
+      "cris": "« Tic » sec, souvent répété (« tic-ic-ic »), et « tsiii » fin et aigu."
+    },
+    "statut": "Nicheur commun. Une partie des oiseaux est sédentaire, une autre migre. Des hivernants venus du nord et de l'est arrivent en automne.",
+    "phenologie": "Présent toute l'année ; passages migratoires marqués en mars-avril et en septembre-octobre.",
+    "habitat": "Forêts avec sous-bois, haies, parcs et jardins.",
+    "urbain": "Oui, fréquent dans les parcs et jardins.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Insectes, araignées et vers attrapés au sol ; baies en hiver.",
+    "reproduction": {
+      "typeNid": "Semi-cavernicole",
+      "nid": "Coupe de feuilles et mousse dans un creux à faible hauteur : talus, souche, lierre, mur.",
+      "periode": "Mars à juillet",
+      "pontes": "2",
+      "oeufs": "4 à 6",
+      "incubation": "13 à 14 jours, par la femelle",
+      "sejourNid": "12 à 15 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Son chant d'automne et d'hiver est l'un des rares qu'on entend alors : penser au rougegorge pour tout chant entendu hors saison de reproduction."
+  },
+  {
+    "id": "mesange-charbonniere",
+    "nom": "Mésange charbonnière",
+    "sci": "Parus major",
+    "en": "Great Tit",
+    "ordre": "Passériformes",
+    "famille": "Paridés",
+    "mesures": {
+      "longueur": "14 cm",
+      "envergure": "22–25 cm",
+      "poids": "16–21 g"
+    },
+    "identification": [
+      "Tête noire brillante et grandes joues blanches.",
+      "Ventre jaune partagé par une bande noire : large chez le mâle, fine chez la femelle.",
+      "Dos vert-olive, barre blanche sur l'aile."
+    ],
+    "confusions": [
+      "Mésange bleue : plus petite, calotte bleue.",
+      "Mésange noire : plus petite, sans jaune, avec une tache blanche sur la nuque."
+    ],
+    "sons": {
+      "chant": "Motif de deux notes répété, sonore et métallique (« ti-tu ti-tu ti-tu »), parfois trois. Chante dès janvier lors des journées douces.",
+      "cris": "Répertoire très varié : « pink » proche du pinson, crécelles d'alarme, « tsi-tsi-tcherr »… Moyen mnémotechnique de terrain : un son inconnu dans un parc est très souvent une charbonnière !"
+    },
+    "statut": "Nicheur sédentaire très commun.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Forêts de feuillus et mixtes, bocage, parcs et jardins.",
+    "urbain": "Oui, très commune.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Insectes et surtout chenilles (base de l'élevage des jeunes) ; graines et fruits secs en hiver, fréquente les mangeoires.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Mousse et poils au fond d'une cavité d'arbre, d'un trou de mur ou d'un nichoir.",
+      "periode": "Avril à juin",
+      "pontes": "1 à 2",
+      "oeufs": "6 à 12",
+      "incubation": "12 à 15 jours, par la femelle",
+      "sejourNid": "18 à 21 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce modèle en écologie (suivis en nichoirs, phénologie, lien avec le pic de chenilles). Chante tôt : bien la maîtriser dès les premiers passages de février-mars."
+  },
+  {
+    "id": "mesange-bleue",
+    "nom": "Mésange bleue",
+    "sci": "Cyanistes caeruleus",
+    "en": "Eurasian Blue Tit",
+    "ordre": "Passériformes",
+    "famille": "Paridés",
+    "mesures": {
+      "longueur": "11–12 cm",
+      "envergure": "18–20 cm",
+      "poids": "9–12 g"
+    },
+    "identification": [
+      "Calotte bleu vif, joues blanches cerclées de bleu foncé, fin trait noir à travers l'œil.",
+      "Ventre jaune, ailes et queue bleues.",
+      "Petite et très acrobatique au bout des branches."
+    ],
+    "confusions": [
+      "Mésange charbonnière : plus grande, tête noire.",
+      "Juvénile aux joues jaunâtres, plus terne."
+    ],
+    "sons": {
+      "chant": "Deux ou trois notes aiguës suivies d'un trille liquide (« tsi-tsi-sirrrrr »).",
+      "cris": "« Tsi-tsi-tsi-tu » aigus ; grondement « tcherrr-r-r » quand elle est inquiète."
+    },
+    "statut": "Nicheuse sédentaire très commune.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Forêts de feuillus (chênaies surtout), bocage, vergers, parcs et jardins.",
+    "urbain": "Oui, très commune.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Insectes, chenilles, pucerons ; graines en hiver.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Mousse, poils et plumes dans une petite cavité ou un nichoir (trou d'envol de 25 à 28 mm).",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "7 à 13",
+      "incubation": "13 à 15 jours, par la femelle",
+      "sejourNid": "18 à 21 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Très fréquente aux points d'écoute en milieu boisé. Ne pas confondre son trille avec celui d'autres petits passereaux."
+  },
+  {
+    "id": "pinson-des-arbres",
+    "nom": "Pinson des arbres",
+    "sci": "Fringilla coelebs",
+    "en": "Common Chaffinch",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "14–16 cm",
+      "envergure": "25–28 cm",
+      "poids": "18–29 g"
+    },
+    "identification": [
+      "Mâle : calotte et nuque gris-bleu, joues et poitrine rose saumoné, dos brun-roux.",
+      "Femelle : brun-olive terne.",
+      "Les deux sexes ont deux barres blanches sur l'aile et des plumes extérieures de la queue blanches, bien visibles en vol."
+    ],
+    "confusions": [
+      "Pinson du Nord (hivernant) : croupion blanc, teintes orangées.",
+      "Femelle avec un moineau : les barres alaires blanches nettes du pinson le distinguent."
+    ],
+    "sons": {
+      "chant": "Strophe sonore de 2 à 3 secondes qui descend et accélère, terminée par une fioriture (« tchip-tchip-tchip-tchéri-tchéri-tchiou-ia »). Il existe des dialectes régionaux. Moyen mnémotechnique : « Je suis, je suis, je suis le petit pinson des arbres ! »",
+      "cris": "« Pink » (ou « fink ») métallique ; « huit » montant au printemps (dit « cri de pluie »), différent selon les régions ; « yup » en vol."
+    },
+    "statut": "Nicheur sédentaire très commun ; nombreux migrateurs et hivernants venus du nord-est de l'Europe en automne.",
+    "phenologie": "Présent toute l'année ; migration visible en octobre.",
+    "habitat": "Forêts de tous types, bocage, parcs et jardins.",
+    "urbain": "Oui, commun dans les parcs.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Graines cherchées au sol ; insectes pour nourrir les jeunes.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Coupe très soignée, camouflée de lichens et de mousses, dans la fourche d'un arbre ou d'un arbuste.",
+      "periode": "Avril à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 5",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "12 à 15 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Souvent l'espèce la plus abondante aux points d'écoute forestiers : son chant sert de « bruit de fond » qu'il faut savoir filtrer pour entendre les autres."
+  },
+  {
+    "id": "pouillot-veloce",
+    "nom": "Pouillot véloce",
+    "sci": "Phylloscopus collybita",
+    "en": "Common Chiffchaff",
+    "ordre": "Passériformes",
+    "famille": "Phylloscopidés",
+    "mesures": {
+      "longueur": "10–12 cm",
+      "envergure": "15–21 cm",
+      "poids": "6–9 g"
+    },
+    "identification": [
+      "Petit passereau brun-olive terne, ventre blanc cassé.",
+      "Sourcil clair peu marqué, pattes sombres (noirâtres).",
+      "Ailes courtes : les longues plumes du bout de l'aile dépassent peu (projection primaire courte).",
+      "Hoche souvent la queue vers le bas."
+    ],
+    "confusions": [
+      "Pouillot fitis : presque identique à la vue, mais pattes claires, sourcil plus net, ailes plus longues, teintes plus jaunes. Le chant permet de les séparer à coup sûr."
+    ],
+    "sons": {
+      "chant": "Deux notes alternées, répétées de façon régulière (« tchif-tchaf-tchif-tchaf… »), d'où son nom anglais « chiffchaff ». Moyen mnémotechnique : il « compte ses sous ».",
+      "cris": "« Huit » d'une seule note, montant."
+    },
+    "statut": "Nicheur commun et migrateur partiel : la plupart hivernent dans le sud de l'Europe et en Afrique du Nord, quelques-uns passent l'hiver en France.",
+    "phenologie": "Arrive dès début mars, l'un des premiers migrateurs ; repart en septembre-octobre.",
+    "habitat": "Forêts, bois clairs, lisières, haies hautes, parcs arborés.",
+    "urbain": "Oui, dans les parcs et grands jardins.",
+    "repartition": "Toute la France et presque toute l'Europe.",
+    "alimentation": "Petits insectes et araignées pris dans le feuillage.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Boule d'herbes avec entrée latérale, au sol ou juste au-dessus, dans la végétation dense.",
+      "periode": "Avril à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 6",
+      "incubation": "13 à 15 jours, par la femelle",
+      "sejourNid": "12 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Un chant de pouillot entendu début mars est presque toujours un véloce : le fitis n'arrive qu'en avril."
+  },
+  {
+    "id": "pouillot-fitis",
+    "nom": "Pouillot fitis",
+    "sci": "Phylloscopus trochilus",
+    "en": "Willow Warbler",
+    "ordre": "Passériformes",
+    "famille": "Phylloscopidés",
+    "mesures": {
+      "longueur": "11–12,5 cm",
+      "envergure": "17–22 cm",
+      "poids": "7–11 g"
+    },
+    "identification": [
+      "Teintes plus jaune-vert que le véloce, sourcil jaunâtre plus net.",
+      "Pattes claires (rosâtres à brun clair).",
+      "Ailes plus longues : projection primaire longue."
+    ],
+    "confusions": [
+      "Pouillot véloce : pattes sombres, ailes courtes, teintes plus brunes. Le chant reste le meilleur critère."
+    ],
+    "sons": {
+      "chant": "Phrase douce et mélancolique qui descend progressivement, en notes fluides et liées (« di-di-di-dé-dé-diu-diu-diuuu »). Tout le contraire du « tchif-tchaf » mécanique du véloce.",
+      "cris": "« Hou-it » en deux syllabes, plus doux que le cri du véloce."
+    },
+    "statut": "Nicheur migrateur, en déclin marqué en France. Hiverne en Afrique au sud du Sahara.",
+    "phenologie": "Présent d'avril à septembre.",
+    "habitat": "Boisements jeunes, coupes forestières en régénération, friches arbustives, boulaies, saulaies humides.",
+    "urbain": "Rare en ville.",
+    "repartition": "Surtout la moitié nord de la France ; plus rare et localisé dans le sud. Abondant dans le nord de l'Europe.",
+    "alimentation": "Petits insectes et araignées pris dans le feuillage.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Boule d'herbes avec entrée latérale, posée au sol dans la végétation.",
+      "periode": "Mai à juillet",
+      "pontes": "1 (parfois 2)",
+      "oeufs": "4 à 8",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "13 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Indicateur des stades jeunes de la forêt et des friches. Son déclin en fait une espèce à signaler dans les inventaires. Bien le séparer du véloce, plus courant."
+  },
+  {
+    "id": "fauvette-a-tete-noire",
+    "nom": "Fauvette à tête noire",
+    "sci": "Sylvia atricapilla",
+    "en": "Eurasian Blackcap",
+    "ordre": "Passériformes",
+    "famille": "Sylviidés",
+    "mesures": {
+      "longueur": "13–15 cm",
+      "envergure": "20–23 cm",
+      "poids": "16–25 g"
+    },
+    "identification": [
+      "Plumage gris-brun.",
+      "Mâle : calotte noire bien délimitée, qui ne descend pas sous l'œil.",
+      "Femelle et juvénile : calotte brun-roux."
+    ],
+    "confusions": [
+      "Fauvette des jardins : chant proche mais plus long, régulier et grave, sans finale flûtée. Pas de calotte.",
+      "Mésange nonnette : calotte noire aussi, mais bavette noire sous le bec et comportement de mésange."
+    ],
+    "sons": {
+      "chant": "Gazouillis rapide et un peu confus, puis une finale flûtée, forte et claire, très caractéristique.",
+      "cris": "« Tac » sec, souvent répété, comme deux cailloux qu'on frappe."
+    },
+    "statut": "Nicheuse très commune. La plupart migrent vers le bassin méditerranéen ; certaines hivernent en France, dont des oiseaux d'Europe centrale.",
+    "phenologie": "Arrivée surtout fin mars-avril, départ en septembre-octobre ; quelques hivernantes.",
+    "habitat": "Forêts avec sous-bois, haies, bocage, parcs et jardins.",
+    "urbain": "Oui, commune dans les parcs et jardins.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Insectes en période de reproduction ; beaucoup de baies (sureau, lierre) en fin d'été et en hiver.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe légère d'herbes fines dans un buisson ou des ronces, à faible hauteur.",
+      "periode": "Avril à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 15 jours, par les deux parents",
+      "sejourNid": "10 à 14 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Une des espèces les plus contactées en point d'écoute. Bien la séparer de la Fauvette des jardins, plus tardive et plus localisée."
+  },
+  {
+    "id": "troglodyte-mignon",
+    "nom": "Troglodyte mignon",
+    "sci": "Troglodytes troglodytes",
+    "en": "Eurasian Wren",
+    "ordre": "Passériformes",
+    "famille": "Troglodytidés",
+    "mesures": {
+      "longueur": "9–10 cm",
+      "envergure": "13–17 cm",
+      "poids": "7–12 g"
+    },
+    "identification": [
+      "Minuscule passereau brun-roux, finement barré.",
+      "Queue très courte, souvent dressée à la verticale.",
+      "Sourcil clair, bec fin."
+    ],
+    "confusions": [
+      "Peu de confusion à la vue. Son chant puissant peut surprendre pour un oiseau si petit."
+    ],
+    "sons": {
+      "chant": "Chant étonnamment puissant, rapide et sonore, avec au milieu un trille caractéristique en « roulement ». Chante presque toute l'année.",
+      "cris": "« Tzec » sec ; crécelle d'alarme « tserrr » prolongée."
+    },
+    "statut": "Nicheur sédentaire très commun.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Sous-bois denses, haies, berges, ronciers, parcs et jardins.",
+    "urbain": "Oui, dans les jardins et parcs pas trop entretenus.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Petits insectes et araignées recherchés près du sol.",
+    "reproduction": {
+      "typeNid": "Semi-cavernicole",
+      "nid": "Boule de mousse avec entrée latérale. Le mâle en construit plusieurs, la femelle en choisit un. Dans des racines, du lierre, une anfractuosité.",
+      "periode": "Avril à juillet",
+      "pontes": "2",
+      "oeufs": "5 à 7",
+      "incubation": "14 à 17 jours, par la femelle",
+      "sejourNid": "15 à 18 jours",
+      "developpement": "Nidicole",
+      "remarque": "Polygynie fréquente : un mâle peut s'apparier avec plusieurs femelles."
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Très souvent contacté uniquement au chant ou au cri, car il reste caché dans la végétation."
+  },
+  {
+    "id": "pic-vert",
+    "nom": "Pic vert",
+    "sci": "Picus viridis",
+    "en": "European Green Woodpecker",
+    "ordre": "Piciformes",
+    "famille": "Picidés",
+    "mesures": {
+      "longueur": "31–33 cm",
+      "envergure": "40–42 cm",
+      "poids": "170–220 g"
+    },
+    "identification": [
+      "Dos vert, croupion jaune bien visible en vol, calotte rouge, masque noir autour de l'œil.",
+      "Moustache rouge bordée de noir chez le mâle, entièrement noire chez la femelle.",
+      "Vol onduleux typique des pics. Se nourrit souvent au sol."
+    ],
+    "confusions": [
+      "Pic cendré : tête grise, rouge réduit au front du mâle seulement ; rare et en fort déclin."
+    ],
+    "sons": {
+      "chant": "Série sonore de notes rapides ressemblant à un rire (« kiu-kiu-kiu-kiu »), qui porte loin. Tambourine rarement.",
+      "cris": "« Kiuk » ou « kiu-kiu-kiuk » en vol ou en alarme."
+    },
+    "statut": "Nicheur sédentaire commun.",
+    "phenologie": "Présent toute l'année ; chante surtout de février à mai.",
+    "habitat": "Milieux semi-ouverts : bocage, vergers, lisières, parcs et grandes pelouses avec de vieux arbres.",
+    "urbain": "Oui, dans les grands parcs.",
+    "repartition": "Toute la France ; une espèce proche (Pic de Sharpe) le remplace dans la péninsule Ibérique.",
+    "alimentation": "Surtout des fourmis et leurs larves, cherchées au sol grâce à une langue très longue et collante.",
+    "reproduction": {
+      "typeNid": "Cavernicole primaire",
+      "nid": "Loge creusée par le couple dans le tronc d'un arbre, souvent un bois tendre ou un arbre en partie mort.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "5 à 7",
+      "incubation": "17 à 19 jours, par les deux parents",
+      "sejourNid": "23 à 27 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses loges servent ensuite à d'autres espèces cavernicoles : un pic présent signale souvent des arbres à cavités, un enjeu dans les études d'impact (arbres à préserver)."
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "id": "reglementation",
+    "titre": "Réglementation et métier",
+    "intro": "Le cadre juridique qui protège les oiseaux et ce qu'un bureau d'études en fait au quotidien : inventaires, évaluation des enjeux, séquence ERC, dérogations.",
+    "chapitres": [
+      {
+        "titre": "Pourquoi c'est central en bureau d'études",
+        "contenu": [
+          "En France, la grande majorité des espèces d'oiseaux sauvages sont protégées. Dès qu'un projet (route, lotissement, parc éolien ou photovoltaïque, carrière, défrichement…) risque de toucher des oiseaux ou leurs habitats, le maître d'ouvrage doit le démontrer, l'éviter, le réduire ou le compenser.",
+          "Le bureau d'études réalise pour lui :",
+          [
+            "les inventaires de terrain (l'état initial) ;",
+            "l'évaluation des enjeux (quelles espèces, quel statut, quelle sensibilité au projet) ;",
+            "l'analyse des impacts et la proposition de mesures ERC ;",
+            "si besoin, le dossier de demande de dérogation « espèces protégées » ;",
+            "les suivis après travaux."
+          ],
+          "Savoir identifier les espèces ne suffit donc pas : il faut savoir ce qu'elles « pèsent » réglementairement."
+        ]
+      },
+      {
+        "titre": "Le cadre international et européen",
+        "contenu": [
+          [
+            "Convention de Berne (1979) : conservation de la vie sauvage et des milieux naturels de l'Europe.",
+            "Convention de Bonn (1979) : espèces migratrices. Son accord AEWA concerne les oiseaux d'eau migrateurs d'Afrique-Eurasie.",
+            "Convention de Ramsar (1971) : zones humides d'importance internationale, en particulier pour les oiseaux d'eau.",
+            "Directive Oiseaux (1979, version codifiée 2009/147/CE) : protège toutes les espèces d'oiseaux sauvages de l'Union européenne.",
+            "Directive Habitats-Faune-Flore (92/43/CEE) : désigne les Zones Spéciales de Conservation (ZSC)."
+          ],
+          "Les annexes de la Directive Oiseaux à connaître :",
+          [
+            "Annexe I : espèces qui font l'objet de mesures spéciales de conservation de leur habitat. Les États désignent pour elles des Zones de Protection Spéciale (ZPS). Exemples franciliens : Pic mar, Pic noir, Œdicnème criard, Busard Saint-Martin, Bondrée apivore, Martin-pêcheur, Pie-grièche écorcheur, Engoulevent.",
+            "Annexe II : espèces pouvant être chassées.",
+            "Annexe III : espèces pouvant être commercialisées sous conditions."
+          ],
+          "Les ZPS (Directive Oiseaux) et les ZSC (Directive Habitats) forment ensemble le réseau Natura 2000."
+        ]
+      },
+      {
+        "titre": "La protection en droit français",
+        "contenu": [
+          "Article L.411-1 du Code de l'environnement : pour les espèces protégées, il est interdit de détruire, capturer ou perturber intentionnellement les animaux, de détruire ou d'enlever les œufs et les nids, de les transporter, détenir ou commercialiser, et de détruire, altérer ou dégrader leurs habitats.",
+          "Arrêté du 29 octobre 2009 : il fixe la liste des oiseaux protégés sur tout le territoire. Pour la grande majorité des espèces (article 3), la protection couvre les individus, mais aussi les sites de reproduction et les aires de repos, tant qu'ils sont nécessaires au bon déroulement du cycle biologique.",
+          "Conséquence pratique : abattre une haie ou un arbre où niche une espèce protégée est une atteinte à l'espèce, même en l'absence de nid occupé au moment des travaux, si le site est réutilisé.",
+          "Espèces chassables : leur liste est fixée par l'arrêté du 26 juin 1987 (ex. : Merle noir, Pigeon ramier, Faisan de Colchide, Perdrix grise, Canard colvert). Elles ne sont pas protégées, mais la chasse est encadrée (périodes, quotas, plans de chasse).",
+          "Les espèces introduites, comme la Perruche à collier, ne figurent pas sur la liste des espèces protégées.",
+          "Sanctions : l'atteinte à une espèce protégée est un délit (article L.415-3), puni jusqu'à 3 ans d'emprisonnement et 150 000 € d'amende."
+        ]
+      },
+      {
+        "titre": "La dérogation « espèces protégées »",
+        "contenu": [
+          "L'article L.411-2 permet de déroger aux interdictions, à trois conditions cumulatives :",
+          [
+            "il n'existe pas d'autre solution satisfaisante ;",
+            "la dérogation ne nuit pas au maintien, dans un état de conservation favorable, des populations de l'espèce dans leur aire de répartition naturelle ;",
+            "elle est justifiée par un motif prévu par la loi, par exemple la santé ou la sécurité publiques, la prévention de dommages importants, ou des raisons impératives d'intérêt public majeur (RIIPM), y compris de nature sociale ou économique."
+          ],
+          "Le dossier est examiné après avis du Conseil national de la protection de la nature (CNPN) ou du Conseil scientifique régional (CSRPN). Il est intégré à l'autorisation environnementale lorsque le projet y est soumis.",
+          "Avis du Conseil d'État du 9 décembre 2022 : une dérogation est nécessaire dès que le risque pour les espèces protégées est « suffisamment caractérisé », en tenant compte des mesures d'évitement et de réduction prévues. Un inventaire solide est donc décisif : c'est lui qui permet de caractériser ce risque."
+        ]
+      },
+      {
+        "titre": "Évaluation environnementale et séquence ERC",
+        "contenu": [
+          "Étude d'impact (articles L.122-1 et R.122-2 du Code de l'environnement) : obligatoire ou décidée au cas par cas selon le type et la taille du projet. Elle contient un état initial (le volet naturel, souvent appelé VNEI), l'analyse des effets, les mesures et leur suivi.",
+          "Évaluation des incidences Natura 2000 (article L.414-4) : elle est requise dès qu'un projet peut affecter un site Natura 2000, même s'il est situé en dehors.",
+          "La séquence ERC, dans cet ordre :",
+          [
+            "Éviter : modifier le projet pour ne pas toucher les enjeux (déplacer une emprise, préserver un boisement).",
+            "Réduire : limiter les impacts restants (calendrier des travaux, balisage, éclairage adapté).",
+            "Compenser : seulement pour les impacts résiduels significatifs, en recréant ou restaurant des milieux équivalents."
+          ],
+          "La loi pour la reconquête de la biodiversité (8 août 2016) fixe un objectif d'absence de perte nette, voire de gain de biodiversité. La compensation est une obligation de résultat, effective pendant toute la durée des atteintes, et doit être faite à proximité fonctionnelle du site endommagé.",
+          "Mesures classiques pour les oiseaux :",
+          [
+            "réaliser le défrichement, l'abattage et le débroussaillage hors période de reproduction, en général entre septembre et février (à adapter aux espèces présentes) ;",
+            "conserver les arbres à cavités et les vieux arbres ;",
+            "replanter des haies, créer ou gérer des milieux ouverts ;",
+            "poser des nichoirs : c'est une mesure d'accompagnement, qui ne compense pas à elle seule la perte d'un habitat."
+          ]
+        ]
+      },
+      {
+        "titre": "Zonages et outils de connaissance",
+        "contenu": [
+          [
+            "ZNIEFF (Zones Naturelles d'Intérêt Écologique, Faunistique et Floristique) : type I pour les secteurs de grand intérêt et de surface limitée, type II pour les grands ensembles naturels. C'est un inventaire, sans portée réglementaire directe, mais il doit être pris en compte. Les « espèces déterminantes ZNIEFF » sont définies par région.",
+            "ZICO (Zones Importantes pour la Conservation des Oiseaux) : inventaire scientifique (BirdLife International) qui a servi de base à la désignation des ZPS.",
+            "Protections réglementaires : arrêtés préfectoraux de protection de biotope (APPB), réserves naturelles, parcs nationaux.",
+            "Plans nationaux d'actions (PNA) : programmes de conservation pour des espèces menacées."
+          ],
+          "Les Listes rouges de l'UICN classent les espèces selon leur risque de disparition :",
+          [
+            "LC : préoccupation mineure ; NT : quasi menacée ;",
+            "VU : vulnérable ; EN : en danger ; CR : en danger critique (ces trois catégories sont dites « menacées ») ;",
+            "RE : disparue de la zone ; DD : données insuffisantes ; NA : non applicable (par exemple une espèce occasionnelle ou introduite)."
+          ],
+          "La Liste rouge France des oiseaux distingue les nicheurs, les hivernants et les oiseaux de passage. Il existe aussi des listes rouges régionales, dont celle d'Île-de-France : en bureau d'études, on raisonne souvent à l'échelle régionale.",
+          "Données : l'INPN (Inventaire National du Patrimoine Naturel) et le SINP (Système d'Information de l'iNventaire du Patrimoine naturel) centralisent les données. Depuis la loi de 2016, les données brutes de biodiversité collectées pour les études d'impact doivent être versées au dépôt légal, sur la plateforme DEPOBIO."
+        ]
+      },
+      {
+        "titre": "Compétences naturalistes attendues",
+        "contenu": [
+          [
+            "Identifier à vue et surtout à l'oreille, y compris les cris, en conditions réelles (vent, bruit, plusieurs espèces en même temps).",
+            "Appliquer les protocoles : IPA (points d'écoute de 20 minutes), EPS et STOC-EPS (points de 5 minutes), transects, recherche ciblée, repasse pour les espèces discrètes, suivis de migration et comptages d'hivernants.",
+            "Attribuer un statut de reproduction avec les codes atlas (possible, probable, certain).",
+            "Planifier les passages selon la phénologie : nicheurs précoces dès février-mars, nicheurs tardifs en mai-juin, migrations, hivernage, et passages nocturnes pour les rapaces nocturnes et l'Engoulevent.",
+            "Évaluer les enjeux en croisant la valeur patrimoniale de l'espèce (statuts) avec sa sensibilité au projet, puis hiérarchiser.",
+            "Cartographier sous SIG (QGIS) et rédiger un rapport clair et justifié.",
+            "Respecter la déontologie : limiter le dérangement, utiliser la repasse avec parcimonie, ne jamais manipuler un oiseau sans autorisation (le baguage relève d'un programme agréé par le CRBPO du Muséum national d'Histoire naturelle), demander l'accord pour accéder aux propriétés privées."
+          ]
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "Quel texte fixe la liste des oiseaux protégés sur l'ensemble du territoire français ?",
+        "juste": "L'arrêté du 29 octobre 2009",
+        "faux": [
+          "La Directive Habitats-Faune-Flore",
+          "La Convention de Berne",
+          "L'arrêté du 26 juin 1987",
+          "La loi pour la reconquête de la biodiversité de 2016",
+          "Un arrêté préfectoral propre à chaque département",
+          "La Directive Oiseaux seule, sans texte français"
+        ],
+        "explication": "L'arrêté du 29 octobre 2009 liste les oiseaux protégés et précise les modalités de leur protection. Celui du 26 juin 1987 liste les espèces chassables."
+      },
+      {
+        "question": "Les espèces de l'annexe I de la Directive Oiseaux…",
+        "juste": "justifient la désignation de Zones de Protection Spéciale (ZPS)",
+        "faux": [
+          "peuvent être chassées dans toute l'Union",
+          "sont toutes en danger critique",
+          "ne concernent que les oiseaux marins",
+          "sont des espèces exotiques à éradiquer",
+          "sont protégées uniquement en hiver",
+          "ne peuvent être observées qu'avec une autorisation"
+        ],
+        "explication": "L'annexe I regroupe les espèces qui font l'objet de mesures spéciales de conservation de leur habitat, notamment par la désignation de ZPS."
+      },
+      {
+        "question": "Le réseau Natura 2000 est composé…",
+        "juste": "des ZPS et des ZSC",
+        "faux": [
+          "des ZNIEFF de type I et II",
+          "des réserves naturelles et des parcs nationaux",
+          "des ZICO uniquement",
+          "des arrêtés de protection de biotope et des réserves biologiques",
+          "des parcs naturels régionaux",
+          "des sites Ramsar uniquement"
+        ],
+        "explication": "Les ZPS (Directive Oiseaux) et les ZSC (Directive Habitats) forment ensemble le réseau Natura 2000."
+      },
+      {
+        "question": "Combien de conditions cumulatives faut-il réunir pour obtenir une dérogation « espèces protégées » ?",
+        "juste": "3",
+        "faux": [
+          "1",
+          "2",
+          "5",
+          "4",
+          "Aucune : le préfet décide librement"
+        ],
+        "explication": "Absence d'autre solution satisfaisante, maintien des populations dans un état de conservation favorable, et motif prévu par la loi (par exemple des raisons impératives d'intérêt public majeur)."
+      },
+      {
+        "question": "Dans quel ordre s'applique la séquence ERC ?",
+        "juste": "Éviter, puis Réduire, puis Compenser",
+        "faux": [
+          "Compenser, puis Réduire, puis Éviter",
+          "Réduire, puis Éviter, puis Compenser",
+          "Les trois au choix du maître d'ouvrage",
+          "Éviter, puis Compenser, puis Réduire",
+          "Compenser d'abord, car c'est le plus rapide"
+        ],
+        "explication": "On évite d'abord, on réduit ce qui n'a pas pu être évité, et on ne compense que les impacts résiduels significatifs."
+      },
+      {
+        "question": "Une ZNIEFF…",
+        "juste": "est un inventaire sans portée réglementaire directe, mais doit être prise en compte",
+        "faux": [
+          "interdit toute construction",
+          "est un site Natura 2000",
+          "ne concerne que la flore",
+          "est une zone de chasse réglementée",
+          "a la même valeur qu'une réserve naturelle",
+          "n'existe que dans les parcs nationaux"
+        ],
+        "explication": "La ZNIEFF signale un intérêt écologique. Elle n'interdit rien par elle-même, mais l'ignorer fragilise un dossier, y compris devant un juge."
+      },
+      {
+        "question": "Que signifie la catégorie NT de la Liste rouge UICN ?",
+        "juste": "Quasi menacée",
+        "faux": [
+          "Non traitée",
+          "Nicheuse temporaire",
+          "En danger",
+          "Nicheur tardif",
+          "Non menacée",
+          "Nouvellement décrite"
+        ],
+        "explication": "NT pour « Near Threatened » : quasi menacée. Les catégories menacées sont VU, EN et CR."
+      },
+      {
+        "question": "Quel est le statut du Merle noir en France ?",
+        "juste": "Espèce chassable, non protégée",
+        "faux": [
+          "Protégé au titre de l'arrêté de 2009",
+          "Inscrit à l'annexe I de la Directive Oiseaux",
+          "Espèce exotique envahissante",
+          "Protégé uniquement en période de reproduction",
+          "Classé vulnérable sur la Liste rouge France"
+        ],
+        "explication": "Le Merle noir figure parmi les espèces chassables (annexe II de la Directive Oiseaux). Il n'est donc pas sur la liste des oiseaux protégés."
+      },
+      {
+        "question": "Quelle période est généralement recommandée pour défricher ou abattre des arbres afin d'éviter la reproduction des oiseaux ?",
+        "juste": "De septembre à février",
+        "faux": [
+          "D'avril à juin",
+          "De mars à juillet",
+          "Toute l'année, si on vérifie l'absence de nid la veille",
+          "En mai, quand les nids sont faciles à repérer",
+          "Uniquement en juillet-août"
+        ],
+        "explication": "Intervenir hors période de reproduction est une mesure de réduction classique. À adapter aux espèces présentes (rapaces nocturnes précoces, sites d'hivernage…)."
+      },
+      {
+        "question": "Pour la plupart des espèces protégées, l'arrêté de 2009 protège aussi…",
+        "juste": "les sites de reproduction et les aires de repos",
+        "faux": [
+          "uniquement les œufs",
+          "les terrains de chasse des rapaces seulement",
+          "rien d'autre que les individus",
+          "les terrains de chasse de toutes les espèces",
+          "les mangeoires installées par les particuliers"
+        ],
+        "explication": "Les habitats nécessaires au cycle biologique sont protégés, tant qu'ils sont utilisés. Une haie de nidification abattue en hiver peut donc constituer une atteinte."
+      },
+      {
+        "question": "Quelle loi a fixé l'objectif d'« absence de perte nette de biodiversité » ?",
+        "juste": "La loi pour la reconquête de la biodiversité de 2016",
+        "faux": [
+          "La loi sur l'eau de 1992",
+          "La loi Littoral de 1986",
+          "La loi sur la chasse de 2000",
+          "La loi Grenelle II de 2010",
+          "La loi Montagne de 1985"
+        ],
+        "explication": "La loi du 8 août 2016 a inscrit dans le Code de l'environnement l'absence de perte nette, voire le gain de biodiversité, et l'obligation de résultat de la compensation."
+      },
+      {
+        "question": "Les données brutes de biodiversité collectées pour une étude d'impact…",
+        "juste": "doivent être versées au dépôt légal (plateforme DEPOBIO)",
+        "faux": [
+          "appartiennent au bureau d'études qui les garde secrètes",
+          "doivent être détruites après le rapport",
+          "ne sont transmises qu'au maire",
+          "ne sont publiées que si le maître d'ouvrage l'accepte",
+          "sont confiées à une association qui décide de leur usage"
+        ],
+        "explication": "Depuis la loi de 2016, ces données alimentent l'inventaire national du patrimoine naturel."
+      },
+      {
+        "question": "Qui peut baguer des oiseaux en France ?",
+        "juste": "Des bagueurs formés, dans un programme agréé par le CRBPO (MNHN)",
+        "faux": [
+          "Tout naturaliste qui a des bagues",
+          "Uniquement les agents de l'OFB",
+          "Personne : le baguage est interdit",
+          "Les chasseurs titulaires du permis",
+          "Les bureaux d'études, sans autorisation particulière"
+        ],
+        "explication": "Le baguage est une capture d'espèces protégées. Il n'est autorisé que dans le cadre des programmes du Centre de Recherches sur la Biologie des Populations d'Oiseaux."
+      },
+      {
+        "question": "Quelle convention internationale porte spécifiquement sur les zones humides ?",
+        "juste": "La convention de Ramsar",
+        "faux": [
+          "La convention de Berne",
+          "La convention de Washington (CITES)",
+          "La convention de Bonn",
+          "La convention de Rio",
+          "L'accord de Paris sur le climat"
+        ],
+        "explication": "Signée à Ramsar (Iran) en 1971. La convention de Bonn concerne les espèces migratrices, la CITES le commerce international."
+      },
+      {
+        "question": "Les ZICO sont…",
+        "juste": "un inventaire scientifique qui a servi de base à la désignation des ZPS",
+        "faux": [
+          "des zones où la chasse est interdite",
+          "des réserves naturelles régionales",
+          "des zones de compensation",
+          "des zones industrielles classées",
+          "des zones d'interdiction de circulation"
+        ],
+        "explication": "Zones Importantes pour la Conservation des Oiseaux, identifiées selon des critères de BirdLife International."
+      },
+      {
+        "question": "Selon l'avis du Conseil d'État de décembre 2022, quand une dérogation « espèces protégées » est-elle nécessaire ?",
+        "juste": "Quand le risque pour l'espèce reste suffisamment caractérisé malgré les mesures d'évitement et de réduction",
+        "faux": [
+          "Seulement si un nid occupé est détruit",
+          "Seulement pour les espèces de l'annexe I",
+          "Jamais si le projet est d'intérêt public",
+          "Seulement si le projet est situé en ZPS",
+          "Seulement si une association porte plainte"
+        ],
+        "explication": "Les mesures d'évitement et de réduction sont prises en compte. Si un risque suffisamment caractérisé subsiste, il faut une dérogation."
+      },
+      {
+        "question": "La Perruche à collier, très présente en Île-de-France, est-elle protégée par l'arrêté de 2009 ?",
+        "juste": "Non, c'est une espèce introduite",
+        "faux": [
+          "Oui, comme tous les oiseaux",
+          "Oui, mais seulement en ville",
+          "Seulement pendant la reproduction",
+          "Oui, car elle est inscrite à l'annexe I",
+          "Oui, depuis qu'elle niche en France"
+        ],
+        "explication": "Les espèces introduites ne figurent pas sur la liste. En bureau d'études, on les mentionne pour leur éventuel impact (concurrence pour les cavités, par exemple)."
+      },
+      {
+        "question": "Quand une étude d'impact est-elle requise ?",
+        "juste": "Selon une nomenclature : systématiquement pour certains projets, au cas par cas pour d'autres",
+        "faux": [
+          "Pour tout projet, quelle que soit sa taille",
+          "Seulement dans les sites Natura 2000",
+          "Seulement si une espèce protégée a déjà été observée",
+          "Uniquement pour les projets de l'État",
+          "Seulement au-delà de 100 hectares, quel que soit le projet"
+        ],
+        "explication": "Le tableau annexé à l'article R.122-2 du Code de l'environnement fixe les seuils et les critères."
+      }
+    ]
+  },
+  {
+    "id": "biologie",
+    "titre": "Biologie des oiseaux",
+    "intro": "Les notions de base qui aident à identifier, à comprendre ce qu'on observe sur le terrain et à l'interpréter dans une étude.",
+    "chapitres": [
+      {
+        "titre": "Chants et cris : quelle différence ?",
+        "contenu": [
+          "Le chant est une vocalisation longue et complexe, surtout émise par les mâles des passereaux pendant la période de reproduction. Il sert à défendre un territoire et à attirer une partenaire. Chez certaines espèces, les femelles chantent aussi (Rougegorge familier, qui défend un territoire en hiver).",
+          "Les cris sont courts et simples. Les deux sexes les émettent toute l'année. Ils ont des fonctions précises :",
+          [
+            "cris de contact, pour garder le lien dans un groupe ou un couple ;",
+            "cris d'alarme : contre un prédateur aérien, un « tsiii » fin et aigu, difficile à localiser ; contre un prédateur au sol, des cris secs et répétés, faciles à localiser, qui attirent d'autres oiseaux venant harceler le prédateur (on parle de « mobbing ») ;",
+            "cris de vol et de migration, souvent entendus la nuit en automne ;",
+            "cris de quémande des jeunes, utiles pour prouver une reproduction (code atlas « nicheur certain »)."
+          ],
+          "Sur le terrain, on contacte beaucoup d'oiseaux uniquement à leurs cris, surtout hors de la saison de reproduction. Les connaître fait la différence en inventaire."
+        ]
+      },
+      {
+        "titre": "Comment les oiseaux apprennent à chanter",
+        "contenu": [
+          "Chez les passereaux chanteurs (oscines), le chant est appris : le jeune écoute un adulte modèle pendant une période sensible, puis s'entraîne avec un « sous-chant » hésitant avant de produire un chant fixé.",
+          "Conséquences visibles sur le terrain :",
+          [
+            "des dialectes régionaux (le Pinson des arbres est l'exemple classique) ;",
+            "des imitateurs, qui incorporent d'autres espèces ou des bruits : Étourneau sansonnet, Rousserolle verderolle, Geai des chênes ;",
+            "des chants atypiques, car les individus varient : il faut se méfier d'une identification sur un seul chant isolé."
+          ],
+          "Chez d'autres groupes (pigeons, pics, rapaces), les vocalisations sont surtout innées, donc plus stéréotypées.",
+          "L'organe vocal des oiseaux, la syrinx, possède deux sources sonores indépendantes : certains oiseaux produisent deux notes à la fois.",
+          "Le tambourinage des pics est un signal territorial non vocal, l'équivalent d'un chant : son rythme aide à identifier l'espèce.",
+          "Le chœur de l'aube : beaucoup d'espèces chantent le plus intensément à l'aube. Le son porte mieux dans l'air calme et frais, il fait trop sombre pour chercher efficacement de la nourriture, et chanter à jeun serait un signal honnête de bonne condition. C'est pour cela que les points d'écoute se font tôt le matin."
+        ]
+      },
+      {
+        "titre": "Lire un spectrogramme",
+        "contenu": [
+          "Le spectrogramme représente le son : le temps de gauche à droite, la fréquence de bas (grave) en haut (aigu), l'intensité par la couleur.",
+          [
+            "Un sifflement pur donne une ligne fine (Loriot, Merle) ;",
+            "une note riche en harmoniques donne des lignes empilées (corvidés) ;",
+            "un trille donne une série de notes identiques très rapprochées (fin du chant de la Mésange bleue, milieu du chant du Troglodyte) ;",
+            "un son bruité (crécelle, cri rauque) donne une bande verticale large ;",
+            "le « tchif-tchaf » du Pouillot véloce donne deux notes qui alternent en hauteur, tandis que le Pouillot fitis donne une phrase qui descend."
+          ],
+          "Repères de fréquence : les roitelets chantent très aigu (vers 7 à 9 kHz, inaudible pour certaines personnes avec l'âge), le Pigeon ramier très grave (moins de 1 kHz).",
+          "Lire les spectrogrammes devient indispensable avec l'enregistrement automatique (AudioMoth, Song Meter), de plus en plus utilisé en bureau d'études pour les oiseaux nocturnes et les suivis de long terme."
+        ]
+      },
+      {
+        "titre": "Le vocabulaire de l'identification (topographie)",
+        "contenu": [
+          "Les guides d'identification décrivent les oiseaux avec un vocabulaire précis :",
+          [
+            "Tête : calotte, sourcil (trait clair au-dessus de l'œil), trait oculaire (trait sombre à travers l'œil), lores (entre l'œil et le bec), cercle orbital, moustache, gorge.",
+            "Dessus : nuque, manteau, scapulaires, croupion, sus-caudales.",
+            "Dessous : poitrine, flancs, ventre, sous-caudales.",
+            "Aile : couvertures (leurs pointes claires forment les barres alaires), rémiges primaires, secondaires et tertiaires.",
+            "Queue : rectrices (les rectrices externes blanches du Pinson se voient en vol)."
+          ],
+          "La projection primaire est la longueur dont les rémiges primaires dépassent les tertiaires sur l'aile repliée. Longue chez les grands migrateurs (Pouillot fitis), courte chez les espèces qui migrent moins loin (Pouillot véloce). C'est un critère de séparation entre espèces proches.",
+          "La forme du bec renseigne sur le régime : fin chez les insectivores (pouillots, fauvettes), conique et fort chez les granivores (pinsons, bruants), crochu chez les rapaces, en poignard chez les piscivores (hérons, martin-pêcheur)."
+        ]
+      },
+      {
+        "titre": "Mue et plumages",
+        "contenu": [
+          "Les plumes s'usent et sont remplacées lors de la mue. Beaucoup de passereaux font une mue complète après la reproduction, en fin d'été : ils deviennent alors très discrets, ce qui explique qu'on en voit et entende moins en août.",
+          [
+            "Plumage juvénile : à la sortie du nid, souvent tacheté (jeune Rougegorge, jeune Merle).",
+            "Premier hiver : le plumage de l'oiseau dans son premier hiver, encore différent de l'adulte chez de nombreuses espèces (grands goélands : 4 ans pour acquérir le plumage adulte).",
+            "Plumages nuptial et internuptial : certaines espèces changent d'aspect entre la saison de reproduction et l'hiver (Mouette rieuse : capuchon brun en été, simple tache derrière l'œil en hiver).",
+            "Éclipse : chez les canards, les mâles prennent en été un plumage terne, proche de celui des femelles."
+          ],
+          "Le dimorphisme sexuel (différence d'aspect entre mâle et femelle) est marqué chez certaines espèces (Pinson, Fauvette à tête noire, Pic vert par la moustache) et absent chez d'autres (Rougegorge, mésanges presque identiques)."
+        ]
+      },
+      {
+        "titre": "Migration",
+        "contenu": [
+          "Les stratégies varient selon les espèces, et parfois au sein d'une même espèce :",
+          [
+            "sédentaire : reste toute l'année (Mésange charbonnière, Pic vert) ;",
+            "migrateur partiel : une partie de la population part (Pouillot véloce, Fauvette à tête noire) ;",
+            "migrateur transsaharien : hiverne en Afrique au sud du Sahara (Pouillot fitis, Hirondelle rustique, Loriot, Tourterelle des bois) ;",
+            "hivernant : niche plus au nord et ne vient chez nous qu'en hiver ;",
+            "de passage : traverse la région sans y nicher ni y hiverner (Grue cendrée en Île-de-France)."
+          ],
+          "La plupart des passereaux migrent la nuit et se reposent le jour : leurs cris en vol nocturne peuvent être enregistrés. D'autres migrent le jour : rapaces, hirondelles, pinsons, pigeons, grues.",
+          "Les oiseaux s'orientent grâce au soleil, aux étoiles et au champ magnétique terrestre. Les haltes migratoires (zones humides, haies, friches) sont des enjeux à part entière dans une étude.",
+          "Phénologie : les dates d'arrivée et de départ sont propres à chaque espèce. Le Pouillot véloce arrive dès mars, le Loriot et le Martinet seulement fin avril-début mai. Elles conditionnent le calendrier des inventaires.",
+          "Changement climatique : on observe un avancement des dates d'arrivée et de ponte, et un risque de décalage entre le pic de nourriture (chenilles) et les besoins des jeunes (décalage trophique, ou « mismatch »), plus marqué chez les migrateurs au long cours."
+        ]
+      },
+      {
+        "titre": "Reproduction",
+        "contenu": [
+          "Les oiseaux sont ovipares : on ne parle pas de gestation mais d'incubation (ou couvaison) des œufs, de 11 à 15 jours en général chez les passereaux, plus longue chez les grandes espèces (environ un mois chez les rapaces et les hérons).",
+          "Deux stratégies de développement des jeunes :",
+          [
+            "nidicoles : jeunes nus et aveugles à l'éclosion, nourris au nid par les parents pendant une à trois semaines chez les passereaux (passereaux, pics, rapaces) ;",
+            "nidifuges : jeunes couverts de duvet, qui quittent le nid peu après l'éclosion et se nourrissent seuls ou guidés (canards, limicoles comme le Vanneau, gallinacés comme la Perdrix, Œdicnème)."
+          ],
+          "Types de nids :",
+          [
+            "cavernicole primaire : creuse sa cavité (pics) ;",
+            "cavernicole secondaire : réutilise une cavité existante (mésanges, Sittelle, Étourneau, Chevêche) ;",
+            "arboricole ou arbustif : nid en coupe dans la végétation (Merle, Pinson, fauvettes) ;",
+            "au sol (pouillots, Alouette, Vanneau) ;",
+            "rupestre ou sur bâti (Martinet, Hirondelle de fenêtre, Faucon pèlerin) ;",
+            "colonial : nombreux nids regroupés (Héron cendré, Hirondelle de fenêtre, Mouette rieuse)."
+          ],
+          "Parasitisme de couvée : le Coucou gris pond dans le nid d'autres espèces (rousserolles, Accenteur, bergeronnettes), qui élèvent son jeune.",
+          "Codes atlas : on classe chaque espèce en nicheur possible (chanteur entendu en période favorable), probable (couple, territoire occupé plusieurs jours, parades, construction de nid) ou certain (nid occupé, transport de nourriture, jeunes non volants). C'est ce statut qui fonde l'évaluation des enjeux."
+        ]
+      },
+      {
+        "titre": "Alimentation et écologie",
+        "contenu": [
+          "On regroupe les espèces en guildes, selon leur régime et leur façon de chercher la nourriture :",
+          [
+            "glaneurs de feuillage : pouillots, roitelets, mésanges ;",
+            "chercheurs au sol : Merle, grives, Rougegorge, Pic vert (fourmis) ;",
+            "grimpeurs sur les troncs : Grimpereau, Sittelle (seule capable de descendre tête en bas), pics ;",
+            "insectivores aériens : hirondelles, Martinet ;",
+            "granivores : Pinson, Chardonneret, bruants, moineaux ;",
+            "carnivores et piscivores : rapaces, hérons, Martin-pêcheur, Grand Cormoran."
+          ],
+          "Le régime change avec les saisons : la Mésange charbonnière nourrit ses jeunes de chenilles au printemps et mange des graines en hiver. La Fauvette à tête noire devient très frugivore en automne.",
+          "Indicateurs : le suivi STOC (Vigie-Nature, Muséum) montre un fort déclin des oiseaux des milieux agricoles depuis la fin des années 1980, lié notamment à l'intensification agricole et à la baisse des insectes. Les espèces généralistes résistent mieux. Ces tendances servent à interpréter les enjeux dans une étude."
+        ]
+      },
+      {
+        "titre": "Comportements utiles à l'identification",
+        "contenu": [
+          "Avec l'expérience, on reconnaît beaucoup d'oiseaux à leur silhouette et à leur comportement général, avant même de voir les détails (en anglais « jizz »).",
+          [
+            "Vol onduleux : pics, bergeronnettes, pinsons, chardonnerets.",
+            "Vol direct et rapide : pigeons, Étourneau (ailes triangulaires).",
+            "Vol plané et cercles : buses et autres rapaces (thermiques).",
+            "Vol stationnaire (« Saint-Esprit ») : Faucon crécerelle au-dessus d'une prairie.",
+            "Mouvements de queue : le Rougequeue la fait trembler, la Bergeronnette la hoche, le Pouillot véloce l'abaisse, le Troglodyte la tient dressée.",
+            "Rondes mixtes en hiver : mésanges, roitelets, grimpereaux et pouillots se déplacent ensemble dans les bois. Écouter un groupe aide à détecter les espèces plus rares qui l'accompagnent."
+          ]
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": "Quelle est la principale différence entre chant et cri ?",
+        "juste": "Le chant est long et complexe, lié au territoire et à la reproduction ; le cri est court et sert toute l'année",
+        "faux": [
+          "Le chant est émis par les femelles, le cri par les mâles",
+          "Le cri n'existe que chez les rapaces",
+          "Il n'y a aucune différence",
+          "Le chant est inné, le cri est appris",
+          "Le cri ne sert qu'à la migration"
+        ],
+        "explication": "Les cris (contact, alarme, vol, quémande) sont émis par les deux sexes toute l'année, alors que le chant est surtout saisonnier."
+      },
+      {
+        "question": "Un « tsiii » fin, aigu et difficile à localiser signale le plus souvent…",
+        "juste": "un prédateur aérien (rapace)",
+        "faux": [
+          "un prédateur au sol (chat)",
+          "une source de nourriture",
+          "un jeune qui réclame",
+          "la fin de la saison de chant",
+          "un mâle rival qui chante"
+        ],
+        "explication": "Ce cri prévient les congénères sans révéler la position de celui qui l'émet. Contre un prédateur au sol, les cris sont au contraire forts et faciles à localiser (mobbing)."
+      },
+      {
+        "question": "Pourquoi observe-t-on des dialectes chez le Pinson des arbres ?",
+        "juste": "Parce que son chant est appris auprès des adultes de sa région",
+        "faux": [
+          "Parce que le chant est inné",
+          "Parce qu'il imite les autres espèces",
+          "À cause du climat",
+          "Parce que chaque sous-espèce a un chant inné différent",
+          "Parce que les pinsons ne s'entendent qu'à courte distance"
+        ],
+        "explication": "Chez les passereaux chanteurs, le chant est appris pendant une période sensible : des variantes locales se transmettent."
+      },
+      {
+        "question": "Chez les oiseaux, la phase entre la ponte et l'éclosion s'appelle…",
+        "juste": "l'incubation (ou couvaison)",
+        "faux": [
+          "la gestation",
+          "la mue",
+          "l'envol",
+          "l'éclosion",
+          "la parade nuptiale"
+        ],
+        "explication": "Les oiseaux sont ovipares : pas de gestation. L'incubation dure en général 11 à 15 jours chez les passereaux."
+      },
+      {
+        "question": "Lequel de ces oiseaux est nidifuge ?",
+        "juste": "Vanneau huppé",
+        "faux": [
+          "Mésange bleue",
+          "Pic vert",
+          "Merle noir",
+          "Pinson des arbres",
+          "Troglodyte mignon",
+          "Pouillot véloce"
+        ],
+        "explication": "Les jeunes vanneaux quittent le nid peu après l'éclosion. Les mésanges, pics et merles sont nidicoles."
+      },
+      {
+        "question": "La Mésange charbonnière est un nicheur…",
+        "juste": "cavernicole secondaire",
+        "faux": [
+          "cavernicole primaire",
+          "au sol",
+          "colonial",
+          "arboricole, en coupe ouverte",
+          "rupestre"
+        ],
+        "explication": "Elle utilise des cavités existantes (trous d'arbres, nichoirs) sans les creuser elle-même, contrairement aux pics (cavernicoles primaires)."
+      },
+      {
+        "question": "Sur un spectrogramme, un trille apparaît comme…",
+        "juste": "une série de notes identiques très rapprochées",
+        "faux": [
+          "une seule ligne horizontale continue",
+          "une tache uniforme",
+          "des lignes empilées très graves",
+          "une large bande verticale bruitée",
+          "une zone vide, sans signal"
+        ],
+        "explication": "Un trille répète rapidement le même élément, comme à la fin du chant de la Mésange bleue."
+      },
+      {
+        "question": "La « projection primaire » désigne…",
+        "juste": "la longueur dont les rémiges primaires dépassent les tertiaires sur l'aile repliée",
+        "faux": [
+          "la longueur de la queue",
+          "la portée du chant",
+          "la première mue du jeune",
+          "la distance parcourue avant de se poser",
+          "la longueur du bec au-delà du front"
+        ],
+        "explication": "Elle est plus longue chez les grands migrateurs : c'est un critère pour séparer le Pouillot fitis (longue) du Pouillot véloce (courte)."
+      },
+      {
+        "question": "Lequel de ces oiseaux est un migrateur transsaharien ?",
+        "juste": "Pouillot fitis",
+        "faux": [
+          "Mésange charbonnière",
+          "Pic vert",
+          "Troglodyte mignon",
+          "Mésange bleue",
+          "Rougegorge familier",
+          "Merle noir"
+        ],
+        "explication": "Le Pouillot fitis hiverne en Afrique au sud du Sahara. Les trois autres sont sédentaires."
+      },
+      {
+        "question": "Pourquoi les points d'écoute se font-ils tôt le matin ?",
+        "juste": "Parce que l'activité de chant est maximale à l'aube",
+        "faux": [
+          "Parce que les oiseaux dorment l'après-midi",
+          "Par obligation réglementaire",
+          "Pour éviter les promeneurs",
+          "Parce que les prédateurs dorment à l'aube",
+          "Parce que les oiseaux migrent tous l'après-midi"
+        ],
+        "explication": "Le chœur de l'aube concentre l'activité vocale. Les protocoles (IPA, STOC-EPS) imposent des créneaux horaires précis après le lever du soleil."
+      },
+      {
+        "question": "Quel comportement est typique du Faucon crécerelle ?",
+        "juste": "Le vol stationnaire au-dessus des milieux ouverts",
+        "faux": [
+          "Grimper tête en bas le long des troncs",
+          "Plonger sous l'eau",
+          "Chanter la nuit près des lampadaires",
+          "Le vol onduleux des pics",
+          "La pêche en plongeon depuis un perchoir"
+        ],
+        "explication": "On dit qu'il « fait le Saint-Esprit » pour repérer les petits rongeurs au sol."
+      },
+      {
+        "question": "Quel oiseau est capable de descendre un tronc tête en bas ?",
+        "juste": "Sittelle torchepot",
+        "faux": [
+          "Grimpereau des jardins",
+          "Pic épeiche",
+          "Mésange bleue",
+          "Pic vert",
+          "Troglodyte mignon"
+        ],
+        "explication": "Les pics et le grimpereau montent en s'appuyant sur leur queue. La Sittelle peut descendre tête la première."
+      },
+      {
+        "question": "Un oiseau transportant de la nourriture dans son bec en période de reproduction correspond au code atlas…",
+        "juste": "nicheur certain",
+        "faux": [
+          "nicheur possible",
+          "nicheur probable",
+          "migrateur",
+          "hivernant",
+          "donnée non utilisable"
+        ],
+        "explication": "Le transport de nourriture pour des jeunes prouve la reproduction. Un simple chanteur ne donne qu'un nicheur possible."
+      },
+      {
+        "question": "Pourquoi entend-on beaucoup moins d'oiseaux en août ?",
+        "juste": "Beaucoup muent et restent discrets après la reproduction",
+        "faux": [
+          "Ils sont tous partis en migration",
+          "Ils hibernent",
+          "La chaleur les empêche de chanter",
+          "Ils ne se reproduisent qu'une année sur deux",
+          "Les prédateurs sont plus nombreux en août"
+        ],
+        "explication": "La fin de la reproduction et la mue complète rendent de nombreux passereaux silencieux et cachés : à prendre en compte pour l'interprétation d'un inventaire estival."
+      },
+      {
+        "question": "Le Coucou gris est connu pour…",
+        "juste": "pondre dans le nid d'autres espèces (parasitisme de couvée)",
+        "faux": [
+          "creuser son nid dans les berges",
+          "nicher en colonies",
+          "élever les jeunes d'autres espèces",
+          "construire plusieurs nids pour tromper les prédateurs",
+          "couver à deux, mâle et femelle"
+        ],
+        "explication": "Les hôtes, par exemple les rousserolles ou l'Accenteur mouchet, élèvent le jeune coucou."
+      },
+      {
+        "question": "Le décalage trophique (« mismatch ») lié au changement climatique, c'est…",
+        "juste": "un décalage entre le pic de nourriture et les besoins des jeunes",
+        "faux": [
+          "un changement de régime alimentaire",
+          "une migration plus longue",
+          "une hausse du nombre d'œufs",
+          "une baisse de la taille des oiseaux",
+          "un changement de couleur du plumage"
+        ],
+        "explication": "Si les chenilles apparaissent plus tôt mais que l'oiseau ne pond pas plus tôt, les jeunes naissent après le pic de nourriture. Le risque est plus fort chez les migrateurs au long cours."
+      }
+    ]
+  }
+]
