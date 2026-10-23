@@ -135,7 +135,7 @@
         "type": "cri",
         "fichier": "media/sons/pinson-des-arbres-cri-954053.mp3",
         "auteur": "Sonothèque ADVL",
-        "licence": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "licence": "CC0",
         "lieu": "Cabane Vauban (Carolles), Manche, Normandie, France",
         "date": "2024-11-26",
         "source": "https://xeno-canto.org/954053",
@@ -297,6 +297,2052 @@
       "auteur": "Charles J. Sharp",
       "licence": "CC BY-SA 4.0",
       "source": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_female.jpg"
+    }
+  },
+  "mesange-a-longue-queue": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/mesange-a-longue-queue-chant-383536.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Borkenberge, Münsterland, Nordrhein-Westfalen, Germany",
+        "date": "2016-10-23",
+        "source": "https://xeno-canto.org/383536",
+        "autresEspeces": [
+          "Cyanistes caeruleus",
+          "Parus major"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/mesange-a-longue-queue-cri-951573.mp3",
+        "auteur": "Jarek Matusiak",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Gmina Niemcza (near  Niemcza), Powiat dzierżoniowski, Województwo dolnośląskie, Poland",
+        "date": "2024-09-19",
+        "source": "https://xeno-canto.org/951573",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/mesange-a-longue-queue.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Long-tailed_Tit_Aegithalos_caudatus.jpg"
+    }
+  },
+  "verdier-d-europe": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/verdier-d-europe-chant-937275.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Lillskärsudden, Västerbottens län, Sweden",
+        "date": "2024-10-03",
+        "source": "https://xeno-canto.org/937275",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/verdier-d-europe-cri-548811.mp3",
+        "auteur": "william",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Saint-Mathieu, Haute-Vienne, Nouvelle-Aquitaine, France",
+        "date": "2020-04-21",
+        "source": "https://xeno-canto.org/548811",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/verdier-d-europe.jpg",
+      "auteur": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:European_greenfinch_(Chloris_chloris_voousi)_male.jpg"
+    }
+  },
+  "chardonneret-elegant": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/chardonneret-elegant-chant-374321.mp3",
+        "auteur": "Manuel Grosselet",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Prieuré de Marcevol, Arboussols, Pyrénées-Orientales, Occitanie, France",
+        "date": "2017-05-27",
+        "source": "https://xeno-canto.org/374321",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/chardonneret-elegant-cri-556828.mp3",
+        "auteur": "Stanislas Wroza",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chavenay, Yvelines, Île-de-France, France",
+        "date": "2020-05-08",
+        "source": "https://xeno-canto.org/556828",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/chardonneret-elegant.jpg",
+      "auteur": "Pierre Dalous",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carduelis_carduelis_(2012).jpg"
+    }
+  },
+  "serin-cini": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/serin-cini-chant-724047.mp3",
+        "auteur": "Olivier SWIFT, Sylvain REYT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Prades (near  Arboussols), Pyrénées-Orientales, Occitanie, Sainte Eulalie, France",
+        "date": "2022-05-10",
+        "source": "https://xeno-canto.org/724047",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/serin-cini-cri-366720.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Châtenois, Bas-Rhin, Alsace, France",
+        "date": "2017-04-16",
+        "source": "https://xeno-canto.org/366720",
+        "autresEspeces": [
+          "Phoenicurus ochruros",
+          "Turdus merula"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/serin-cini.jpg",
+      "auteur": "Ghislain38",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Serin_cini_mars.JPG"
+    }
+  },
+  "moineau-domestique": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/moineau-domestique-chant-1138674.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Rambouillet (near  Rambouillet), Yvelines, Île-de-France, France",
+        "date": "2026-02-12",
+        "source": "https://xeno-canto.org/1138674",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/moineau-domestique-cri-906529.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Bernay (near  Le Perrey), Eure, Normandie, PS22, France",
+        "date": "2024-05-25",
+        "source": "https://xeno-canto.org/906529",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/moineau-domestique.jpg",
+      "auteur": "Davidvraju",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:House_sparrow_David_Raju_(2).jpg"
+    }
+  },
+  "accenteur-mouchet": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/accenteur-mouchet-chant-809658.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Mussy-la-Fosse), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-06-18",
+        "source": "https://xeno-canto.org/809658",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/accenteur-mouchet-cri-755698.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near  Chassey), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2022-10-10",
+        "source": "https://xeno-canto.org/755698",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/accenteur-mouchet.jpg",
+      "auteur": "Dominic Nelson",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dunnock_in_Bute_Park,_Cardiff.jpg"
+    }
+  },
+  "rougequeue-noir": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/rougequeue-noir-chant-688061.mp3",
+        "auteur": "Camille Fasolin",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Clermont-Ferrand (near  Royat), Puy-de-Dôme, Auvergne-Rhône-Alpes, France",
+        "date": "2020-07-02",
+        "source": "https://xeno-canto.org/688061",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/rougequeue-noir-cri-861845.mp3",
+        "auteur": "Esperanza Poveda",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Valle del Guadiato (near  Villaviciosa de Córdoba), Córdoba, Andalucía, Spain",
+        "date": "2023-12-21",
+        "source": "https://xeno-canto.org/861845",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/rougequeue-noir.jpg",
+      "auteur": "Rémih",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Phoenicurus_ochruros_@_Calanque_des_Pierres-Tomb%C3%A9es_19.jpg"
+    }
+  },
+  "etourneau-sansonnet": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/etourneau-sansonnet-chant-337807.mp3",
+        "auteur": "Manuel Grosselet",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "F44 - LA-CHAPELLE-SUR-ERDRE, center, France",
+        "date": "2016-10-09",
+        "source": "https://xeno-canto.org/337807",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/etourneau-sansonnet-cri-934628.mp3",
+        "auteur": "Sonothèque ADVL",
+        "licence": "CC0",
+        "lieu": "Courtils, Manche, Normandie, France",
+        "date": "2024-08-19",
+        "source": "https://xeno-canto.org/934628",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/etourneau-sansonnet.jpg",
+      "auteur": "Marek Szczepanek",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sturnus_vulgaris_2_(Marek_Szczepanek).jpg"
+    }
+  },
+  "pigeon-ramier": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pigeon-ramier-chant-1107845.mp3",
+        "auteur": "Sonothèque ADVL",
+        "licence": "CC0",
+        "lieu": "Courtils, Manche, Normandy, France",
+        "date": "2026-03-27",
+        "source": "https://xeno-canto.org/1107845",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pigeon-ramier-cri-98631.mp3",
+        "auteur": "Kevin Darras",
+        "licence": "CC BY-NC-ND 2.5",
+        "lieu": "01630 Sergy, France",
+        "date": "2012-03-23",
+        "source": "https://xeno-canto.org/98631",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pigeon-ramier.jpg",
+      "auteur": "Tristan Ferne from UK",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_-garden_post-8.jpg"
+    }
+  },
+  "tourterelle-turque": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/tourterelle-turque-chant-659767.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arboussols, Pyrénées-Orientales, Occitanie, France",
+        "date": "2021-03-28",
+        "source": "https://xeno-canto.org/659767",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/tourterelle-turque-cri-518421.mp3",
+        "auteur": "Sean Ronayne",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Estany d'Ivars-Vilasana, El Pla d'Urgell, Catalunya, Spain",
+        "date": "2020-01-04",
+        "source": "https://xeno-canto.org/518421",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/tourterelle-turque.jpg",
+      "auteur": "Zeynel Cebeci",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Streptopelia_decaocto_-_Eurasian_Collared_Dove_05.jpg"
+    }
+  },
+  "pie-bavarde": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/pie-bavarde-cri-728984.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Bayonne (near  Anglet), Pyrénées-Atlantiques, Nouvelle-Aquitaine, le Maharin, France",
+        "date": "2022-05-25",
+        "source": "https://xeno-canto.org/728984",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pie-bavarde.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Magpie_2023-10-16_01.jpg"
+    }
+  },
+  "corneille-noire": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/corneille-noire-cri-670702.mp3",
+        "auteur": "Manceau Lionel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Coudray, Mayenne, Pays de la Loire, France",
+        "date": "2021-08-27",
+        "source": "https://xeno-canto.org/670702",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/corneille-noire.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carrion_crow_2022_04_05_05_01.jpg"
+    }
+  },
+  "choucas-des-tours": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/choucas-des-tours-cri-697235.mp3",
+        "auteur": "Cedric Mroczko",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Cordes-sur-Ciel, Tarn, Occitanie, France, France",
+        "date": "2022-01-16",
+        "source": "https://xeno-canto.org/697235",
+        "autresEspeces": [
+          "Cyanistes caeruleus"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/choucas-des-tours.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Western_Jackdaw_2025_05_23_03.jpg"
+    }
+  },
+  "hirondelle-rustique": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/hirondelle-rustique-chant-1149071.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Rambouillet (near  Gambaiseuil), Yvelines, Île-de-France, France",
+        "date": "2026-05-10",
+        "source": "https://xeno-canto.org/1149071",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/hirondelle-rustique-cri-55088.mp3",
+        "auteur": "GROSSELET Olivier",
+        "licence": "CC BY-NC-ND 2.5",
+        "lieu": "F81 - SENOUILLAC, La Maurenie, France",
+        "date": "2008-00-00",
+        "source": "https://xeno-canto.org/55088",
+        "autresEspeces": [
+          "Corvus corone"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/hirondelle-rustique.jpg",
+      "auteur": "Dion Art",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0_(Hirundo_rustica),_%D0%9C%D0%B5%D0%BB%D0%B8%D1%85%D0%BE%D0%B2%D0%BE.jpg"
+    }
+  },
+  "hirondelle-de-fenetre": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/hirondelle-de-fenetre-chant-44634.mp3",
+        "auteur": "Marco Dragonetti",
+        "licence": "CC BY-NC-ND 2.5",
+        "lieu": "Roselle, Grosseto, Italy",
+        "date": "2007-07-21",
+        "source": "https://xeno-canto.org/44634",
+        "autresEspeces": [
+          "Streptopelia decaocto",
+          "Passer domesticus"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/hirondelle-de-fenetre-cri-659403.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Umeå stad, Västerbottens län, Sweden",
+        "date": "2021-06-26",
+        "source": "https://xeno-canto.org/659403",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/hirondelle-de-fenetre.jpg",
+      "auteur": "Estormiz",
+      "licence": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Delichon_urbicum_Oulu_20120527_04.JPG"
+    }
+  },
+  "martinet-noir": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/martinet-noir-cri-577759.mp3",
+        "auteur": "Annette Hamann",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Berlin, Germany",
+        "date": "2020-07-20",
+        "source": "https://xeno-canto.org/577759",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/martinet-noir.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg"
+    }
+  },
+  "bergeronnette-grise": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bergeronnette-grise-chant-606935.mp3",
+        "auteur": "Jarek Matusiak",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Hel, Powiat pucki, Pomorskie, Poland",
+        "date": "2020-06-13",
+        "source": "https://xeno-canto.org/606935",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bergeronnette-grise-cri-941738.mp3",
+        "auteur": "Ulf Elman",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Häcklebergsviken, Trögden, Uppsala län, Sweden",
+        "date": "2017-05-05",
+        "source": "https://xeno-canto.org/941738",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bergeronnette-grise.jpg",
+      "auteur": "Bernard Gagnon",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:White_wagtail_in_Satpura_National_Park.jpg"
+    }
+  },
+  "fauvette-des-jardins": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/fauvette-des-jardins-chant-906390.mp3",
+        "auteur": "Azens",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Gap (near  La Rochette), Hautes-Alpes, Provence-Alpes-Côte d'Azur, France",
+        "date": "2024-05-26",
+        "source": "https://xeno-canto.org/906390",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/fauvette-des-jardins-cri-836297.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2021-09-11",
+        "source": "https://xeno-canto.org/836297",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/fauvette-des-jardins.jpg",
+      "auteur": "Ron Knight from Seaford, East Sussex, United Kingdom",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Garden_Warbler_1_(portrait).jpg"
+    }
+  },
+  "roitelet-huppe": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/roitelet-huppe-chant-1151367.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Kont, Umeå Municipality, Västerbottens län, Sweden",
+        "date": "2026-06-29",
+        "source": "https://xeno-canto.org/1151367",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/roitelet-huppe-cri-533551.mp3",
+        "auteur": "Fernand Deroussen",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Val-Maravel, Drôme, Auvergne-Rhône-Alpes, France",
+        "date": "2019-11-01",
+        "source": "https://xeno-canto.org/533551",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/roitelet-huppe.jpg",
+      "auteur": "MPF",
+      "licence": "CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Regulus_regulus0.jpg"
+    }
+  },
+  "roitelet-a-triple-bandeau": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/roitelet-a-triple-bandeau-chant-1095865.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2026-04-09",
+        "source": "https://xeno-canto.org/1095865",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/roitelet-a-triple-bandeau-cri-1181923.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Sainte-Odile (near  Montpellier), Hérault, Occitanie, France",
+        "date": "2026-09-28",
+        "source": "https://xeno-canto.org/1181923",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/roitelet-a-triple-bandeau.jpg",
+      "auteur": "Frank Vassen",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Regulus_ignicapilla_Frank_Vassen.jpg"
+    }
+  },
+  "mesange-nonnette": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/mesange-nonnette-chant-618397.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Galez, Hautes-Pyrénées, Occitanie, France",
+        "date": "2021-01-30",
+        "source": "https://xeno-canto.org/618397",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/mesange-nonnette-cri-629011.mp3",
+        "auteur": "Christian Kerihuel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Neuville-sur-Sarthe, Sarthe, Pays de la Loire, France",
+        "date": "2021-03-14",
+        "source": "https://xeno-canto.org/629011",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/mesange-nonnette.jpg",
+      "auteur": "Stephan Sprinz",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sumpfmeise_im_NSG_Hirschacker_und_Dossenwald_2.jpg"
+    }
+  },
+  "grimpereau-des-jardins": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/grimpereau-des-jardins-chant-879424.mp3",
+        "auteur": "FREDERIC Lionel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Les Pâtures, Arrondissement d'Orléans (near  Chécy), Loiret, Centre-Val de Loire, France",
+        "date": "2024-03-05",
+        "source": "https://xeno-canto.org/879424",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/grimpereau-des-jardins-cri-1141869.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2026-06-07",
+        "source": "https://xeno-canto.org/1141869",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grimpereau-des-jardins.jpg",
+      "auteur": "א (Aleph)",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Short-toed_Treecreeper_(Certhia_brachydactyla).jpg"
+    }
+  },
+  "sittelle-torchepot": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/sittelle-torchepot-chant-916871.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement d'Argelès-Gazost (near  Lourdes), Hautes-Pyrénées, Occitanie, France",
+        "date": "2024-06-12",
+        "source": "https://xeno-canto.org/916871",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/sittelle-torchepot-cri-400071.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Lurcy-Lévis, Allier, Auvergne-Rhône-Alpes, France",
+        "date": "2017-08-04",
+        "source": "https://xeno-canto.org/400071",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/sittelle-torchepot.jpg",
+      "auteur": "Smudge 9000",
+      "licence": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sitta_europaea_-Kent,_England-8.jpg"
+    }
+  },
+  "pic-epeiche": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pic-epeiche-chant-961468.mp3",
+        "auteur": "Le Louaver Manuel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement of Lisieux (near  Merville-Franceville-Plage), Calvados, Normandy, France",
+        "date": "2025-01-17",
+        "source": "https://xeno-canto.org/961468",
+        "autresEspeces": [
+          "Streptopelia decaocto"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pic-epeiche-cri-808894.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-06-14",
+        "source": "https://xeno-canto.org/808894",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pic-epeiche.jpg",
+      "auteur": "AbdAllah Elgolli",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pic_%C3%A9peiche_cap_n%C3%A9gro.jpg"
+    }
+  },
+  "geai-des-chenes": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/geai-des-chenes-chant-380240.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Neubois, Bas-Rhin, Grand Est, France",
+        "date": "2016-05-06",
+        "source": "https://xeno-canto.org/380240",
+        "autresEspeces": [
+          "Turdus merula",
+          "Erithacus rubecula"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/geai-des-chenes-cri-902468.mp3",
+        "auteur": "Jack Berteau",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Grand Poitiers, Vienne, Nouvelle-Aquitaine, France",
+        "date": "2024-03-18",
+        "source": "https://xeno-canto.org/902468",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/geai-des-chenes.jpg",
+      "auteur": "Luc Viatour",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg"
+    }
+  },
+  "grive-musicienne": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/grive-musicienne-chant-808851.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Pouillenay), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-06-08",
+        "source": "https://xeno-canto.org/808851",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/grive-musicienne-cri-666987.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Överrödå, Umeå, Västerbottens län, Sweden",
+        "date": "2021-08-06",
+        "source": "https://xeno-canto.org/666987",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grive-musicienne.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Song_Thrush_Turdus_philomelos.jpg"
+    }
+  },
+  "grive-draine": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/grive-draine-chant-626683.mp3",
+        "auteur": "Stanislas Wroza",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Viry, Jura, Bourgogne-Franche-Comté, France",
+        "date": "2021-02-28",
+        "source": "https://xeno-canto.org/626683",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/grive-draine-cri-1045972.mp3",
+        "auteur": "Romuald Mikusek",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Gmina Ostrów Lubelski (near  Bójki), Powiat lubartowski, Województwo lubelskie, Poland",
+        "date": "2025-10-06",
+        "source": "https://xeno-canto.org/1045972",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grive-draine.jpg",
+      "auteur": "Griha Hasanov",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus_-_Griha_Hasanov_-_Kazakhstan.jpeg"
+    }
+  },
+  "bouvreuil-pivoine": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bouvreuil-pivoine-chant-657517.mp3",
+        "auteur": "Camille Monnet",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Saint-Girons (near  Arrien-en-Bethmale), Ariège, Occitanie, France",
+        "date": "2021-03-24",
+        "source": "https://xeno-canto.org/657517",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bouvreuil-pivoine-cri-704729.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2022-02-16",
+        "source": "https://xeno-canto.org/704729",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bouvreuil-pivoine.jpg",
+      "auteur": "Francis Franklin",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg"
+    }
+  },
+  "loriot-d-europe": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/loriot-d-europe-chant-797731.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Sainte-Colombe), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-04-30",
+        "source": "https://xeno-canto.org/797731",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/loriot-d-europe-cri-740546.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2022-07-29",
+        "source": "https://xeno-canto.org/740546",
+        "autresEspeces": [
+          "Streptopelia decaocto"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/loriot-d-europe.jpg",
+      "auteur": "Philippe  Garcelon",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Loriot_d%27Europe_-_Flickr_-_Philippe_Garcelon,_crop.jpg"
+    }
+  },
+  "coucou-gris": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/coucou-gris-chant-729686.mp3",
+        "auteur": "Cureau Hervé",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement du Blanc (near  Saint-Michel-en-Brenne), Indre, Centre-Val de Loire, France",
+        "date": "2022-05-27",
+        "source": "https://xeno-canto.org/729686",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/coucou-gris-cri-143258.mp3",
+        "auteur": "Elias A. Ryberg",
+        "licence": "CC BY-NC-SA 3.0",
+        "lieu": "Tynset, Hedmark, Norway",
+        "date": "2013-06-19",
+        "source": "https://xeno-canto.org/143258",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/coucou-gris.jpg",
+      "auteur": "Andy  Morffew from Itchen Abbas, Hampshire, UK",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cuckoo_(51169010335).jpg"
+    }
+  },
+  "chouette-hulotte": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/chouette-hulotte-chant-506715.mp3",
+        "auteur": "Alexis Bruyère",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Le Chambon-sur-Lignon, Haute-Loire, Auvergne-Rhône-Alpes, France",
+        "date": "2019-09-13",
+        "source": "https://xeno-canto.org/506715",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/chouette-hulotte-cri-701505.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2021-10-01",
+        "source": "https://xeno-canto.org/701505",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/chouette-hulotte.jpg",
+      "auteur": "K.-M. Hansche",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Tawny_wiki.jpg"
+    }
+  },
+  "fauvette-grisette": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/fauvette-grisette-chant-973937.mp3",
+        "auteur": "Robin et Julien SOURIOU",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Mayenne (near  Hardanges), Mayenne, Pays de la Loire, France",
+        "date": "2022-05-24",
+        "source": "https://xeno-canto.org/973937",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/fauvette-grisette-cri-574192.mp3",
+        "auteur": "Regina Eidner",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Oder-Spree (near  Gosen-Neu Zittau), Brandenburg, Germany",
+        "date": "2020-06-18",
+        "source": "https://xeno-canto.org/574192",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/fauvette-grisette.jpg",
+      "auteur": "markkilner",
+      "licence": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tallareta_vulgar_01_(Sylvia_communis).jpg"
+    }
+  },
+  "rougequeue-a-front-blanc": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/rougequeue-a-front-blanc-chant-1048966.mp3",
+        "auteur": "Jack Berteau",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Poitiers (near  Poitiers), Vienne, Nouvelle-Aquitaine, France",
+        "date": "2025-05-28",
+        "source": "https://xeno-canto.org/1048966",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/rougequeue-a-front-blanc-cri-551707.mp3",
+        "auteur": "Julie Cabri",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Besse-sur-Issole, Var, Provence-Alpes-Côte d'Azur, France",
+        "date": "2020-04-14",
+        "source": "https://xeno-canto.org/551707",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/rougequeue-a-front-blanc.jpg",
+      "auteur": "Monique Bogaerts",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Gekraagderoodstaart2.jpg"
+    }
+  },
+  "tourterelle-des-bois": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/tourterelle-des-bois-chant-1007227.mp3",
+        "auteur": "Lionel FREDERIC",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement d'Orléans (near  Traînou), Loiret, Centre-Val de Loire, France",
+        "date": "2025-06-16",
+        "source": "https://xeno-canto.org/1007227",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/tourterelle-des-bois-cri-748846.mp3",
+        "auteur": "Sergi Carreras",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Formentera (near  Platja de Migjorn), Illes Balears, Illes Balears, Spain",
+        "date": "2021-07-20",
+        "source": "https://xeno-canto.org/748846",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/tourterelle-des-bois.jpg",
+      "auteur": "Yuvalr",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:European_Turtle_Dove_(Streptopelia_turtur).jpg"
+    }
+  },
+  "moineau-friquet": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/moineau-friquet-chant-315800.mp3",
+        "auteur": "Timo Schnabel ",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Muttersholtz, Bas-Rhin, Grand Est, France",
+        "date": "2016-05-08",
+        "source": "https://xeno-canto.org/315800",
+        "autresEspeces": [
+          "Sylvia atricapilla",
+          "Parus major",
+          "Sturnus vulgaris"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/moineau-friquet-cri-1104910.mp3",
+        "auteur": "Romuald Mikusek",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "South Park (near  Głogów), Dolnośląskie Voivodeship, Poland",
+        "date": "2026-04-29",
+        "source": "https://xeno-canto.org/1104910",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/moineau-friquet.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Tree-Sparrow-2009-16-02.jpg"
+    }
+  },
+  "alouette-des-champs": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/alouette-des-champs-chant-881733.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Daviaud lim21-23, France",
+        "date": "2023-04-21",
+        "source": "https://xeno-canto.org/881733",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/alouette-des-champs-cri-307760.mp3",
+        "auteur": "julien Rochefort",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Prunay-sur-Essonne, Essonne, Île-de-France, France",
+        "date": "2016-03-11",
+        "source": "https://xeno-canto.org/307760",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/alouette-des-champs.jpg",
+      "auteur": "Daniel Pettersson",
+      "licence": "CC BY-SA 2.5 se",
+      "source": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_2.jpg"
+    }
+  },
+  "bruant-jaune": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bruant-jaune-chant-471509.mp3",
+        "auteur": "Stanislas Wroza",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Villiers-en-Bois, Deux-Sèvres, Nouvelle-Aquitaine, France",
+        "date": "2019-05-05",
+        "source": "https://xeno-canto.org/471509",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bruant-jaune-cri-817773.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Mussy-la-Fosse), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-07-13",
+        "source": "https://xeno-canto.org/817773",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bruant-jaune.jpg",
+      "auteur": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellowhammer_(Emberiza_citrinella)_male_Drenthe.jpg"
+    }
+  },
+  "bruant-zizi": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bruant-zizi-chant-638539.mp3",
+        "auteur": "Christian Kerihuel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Coulaines, Sarthe, Pays de la Loire, France",
+        "date": "2021-04-12",
+        "source": "https://xeno-canto.org/638539",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bruant-zizi-cri-106507.mp3",
+        "auteur": "Jan-Kees Bossenbroek",
+        "licence": "CC BY-NC-ND 2.5",
+        "lieu": "Plouhinec, France",
+        "date": "2012-07-20",
+        "source": "https://xeno-canto.org/106507",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bruant-zizi.jpg",
+      "auteur": "Clément Bardot",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bruant_zizi.jpg"
+    }
+  },
+  "faucon-crecerelle": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/faucon-crecerelle-cri-1036331.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2025-09-06",
+        "source": "https://xeno-canto.org/1036331",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/faucon-crecerelle.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg"
+    }
+  },
+  "buse-variable": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/buse-variable-cri-862506.mp3",
+        "auteur": "Jack Berteau",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Poitiers (near  Vouillé), Vienne, Nouvelle-Aquitaine, France",
+        "date": "2023-06-16",
+        "source": "https://xeno-canto.org/862506",
+        "autresEspeces": [
+          "Erithacus rubecula"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/buse-variable.jpg",
+      "auteur": "caroline legg",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg"
+    }
+  },
+  "heron-cendre": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/heron-cendre-cri-461755.mp3",
+        "auteur": "Gerard OLIVIER",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Fontenelle, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2005-09-11",
+        "source": "https://xeno-canto.org/461755",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/heron-cendre.jpg",
+      "auteur": "Patrik Tesarik",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Grey_Heron_in_winterly_setting_01_cropped.jpg"
+    }
+  },
+  "grande-aigrette": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/grande-aigrette-cri-518944.mp3",
+        "auteur": "Vincent Pourchaire",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Lapeyrouse, Ain, Auvergne-Rhône-Alpes, France",
+        "date": "2020-01-11",
+        "source": "https://xeno-canto.org/518944",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grande-aigrette.jpg",
+      "auteur": "Calibas",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ardea_alba4.jpg"
+    }
+  },
+  "grand-cormoran": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/grand-cormoran-cri-1059525.mp3",
+        "auteur": "Sonothèque ADVL",
+        "licence": "CC0",
+        "lieu": "Roche Ango, Chausey, Granville, Manche, Normandie, France",
+        "date": "2025-05-02",
+        "source": "https://xeno-canto.org/1059525",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grand-cormoran.jpg",
+      "auteur": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg"
+    }
+  },
+  "cygne-tubercule": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/cygne-tubercule-cri-705253.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Le Val-Larrey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2022-02-28",
+        "source": "https://xeno-canto.org/705253",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/cygne-tubercule.jpg",
+      "auteur": "Sanchezn",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:CygneVaires.jpg"
+    }
+  },
+  "canard-colvert": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/canard-colvert-cri-625718.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Moulismes, Vienne, Nouvelle-Aquitaine, France",
+        "date": "2021-03-01",
+        "source": "https://xeno-canto.org/625718",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/canard-colvert.jpg",
+      "auteur": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg"
+    }
+  },
+  "bernache-du-canada": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/bernache-du-canada-cri-637064.mp3",
+        "auteur": "Tanguy Loïs",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Forêt Domaniale de Rambouillet (near  Les Bréviaires), Yvelines, Île-de-France, France",
+        "date": "2021-04-08",
+        "source": "https://xeno-canto.org/637064",
+        "autresEspeces": [
+          "Acrocephalus schoenobaenus",
+          "Sylvia atricapilla",
+          "Phylloscopus collybita"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bernache-du-canada.jpg",
+      "auteur": "Anil Öztas",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Branta_canadensis,_Neuss_(DE)_--_2022_--_2857.jpg"
+    }
+  },
+  "foulque-macroule": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/foulque-macroule-cri-1082830.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Tarbes (near  Larroque), Hautes-Pyrénées, Occitanie, France",
+        "date": "2026-02-22",
+        "source": "https://xeno-canto.org/1082830",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/foulque-macroule.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2026_03_23_01.jpg"
+    }
+  },
+  "gallinule-poule-d-eau": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/gallinule-poule-d-eau-cri-792811.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Époisses), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-04-09",
+        "source": "https://xeno-canto.org/792811",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/gallinule-poule-d-eau.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg"
+    }
+  },
+  "grebe-huppe": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/grebe-huppe-cri-473226.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Gammbåtlänningen, Västerbottens län, Sweden",
+        "date": "2019-05-09",
+        "source": "https://xeno-canto.org/473226",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grebe-huppe.jpg",
+      "auteur": "Alexis Lours",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_crested_grebe_2025_10_16_05.jpg"
+    }
+  },
+  "mouette-rieuse": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/mouette-rieuse-cri-533544.mp3",
+        "auteur": "Fernand Deroussen",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",
+        "date": "2020-01-03",
+        "source": "https://xeno-canto.org/533544",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/mouette-rieuse.jpg",
+      "auteur": "ArildV",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_2012a.jpg"
+    }
+  },
+  "goeland-argente": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/goeland-argente-cri-1032697.mp3",
+        "auteur": "Lionel FREDERIC",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Donville-les-Bains, Manche, Normandie, France",
+        "date": "2025-08-10",
+        "source": "https://xeno-canto.org/1032697",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/goeland-argente.jpg",
+      "auteur": "Aiwok",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Larus_argentatus_1.JPG"
+    }
+  },
+  "martin-pecheur-d-europe": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/martin-pecheur-d-europe-cri-442159.mp3",
+        "auteur": "Charlie Bodin",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Saint-Martin-de-Crau, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France",
+        "date": "2018-10-21",
+        "source": "https://xeno-canto.org/442159",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/martin-pecheur-d-europe.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
+    }
+  },
+  "rousserolle-effarvatte": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/rousserolle-effarvatte-chant-801516.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Fontenay-le-Comte (near  Sainte-Radégonde-des-Noyers), Vendée, Pays de la Loire, France",
+        "date": "2023-04-27",
+        "source": "https://xeno-canto.org/801516",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/rousserolle-effarvatte-cri-380137.mp3",
+        "auteur": "Jerome Fischer",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Müntschemier, Erlach, Bern, Switzerland",
+        "date": "2017-07-16",
+        "source": "https://xeno-canto.org/380137",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/rousserolle-effarvatte.jpg",
+      "auteur": "Hobbyfotowiki",
+      "licence": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_Reed_Warbler_(Acrocephalus_scirpaceus).jpg"
+    }
+  },
+  "faisan-de-colchide": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/faisan-de-colchide-chant-937251.mp3",
+        "auteur": "Ulf Elman",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Häcklebergsviken, Trögden, Uppsala län, Sweden",
+        "date": "2017-05-05",
+        "source": "https://xeno-canto.org/937251",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/faisan-de-colchide-cri-929867.mp3",
+        "auteur": "Bram Piot",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Sterrebeek, Zaventem, Vlaams Brabant, Belgium",
+        "date": "2024-08-18",
+        "source": "https://xeno-canto.org/929867",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/faisan-de-colchide.jpg",
+      "auteur": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_pheasant_(Phasianus_colchicus)_cock_2.jpg"
+    }
+  },
+  "perdrix-grise": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/perdrix-grise-chant-476601.mp3",
+        "auteur": "Jarek Matusiak",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Powiat łowicki, województwo łódzkie, Poland",
+        "date": "2019-05-23",
+        "source": "https://xeno-canto.org/476601",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/perdrix-grise-cri-555940.mp3",
+        "auteur": "Jarek Matusiak",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Biebrza and Narew Valley, Poland",
+        "date": "2020-05-09",
+        "source": "https://xeno-canto.org/555940",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/perdrix-grise.jpg",
+      "auteur": "Marek Szczepanek",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_2_(Marek_Szczepanek).jpg"
+    }
+  },
+  "vanneau-huppe": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/vanneau-huppe-chant-281082.mp3",
+        "auteur": "Peter Boesman",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Uitkerkse polders, West-Vlaanderen, Belgium",
+        "date": "2007-03-25",
+        "source": "https://xeno-canto.org/281082",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/vanneau-huppe-cri-801017.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Brånsjön, Vännäs, Västerbotten County, Sweden",
+        "date": "2023-05-13",
+        "source": "https://xeno-canto.org/801017",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/vanneau-huppe.jpg",
+      "auteur": "Hauke Roy",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kiebitz_m_Ochsenmoor_3April2022-wiki.jpg"
+    }
+  },
+  "oedicneme-criard": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/oedicneme-criard-chant-1103920.mp3",
+        "auteur": "Le Louaver Manuel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement of Andelys (near  Criquebeuf-sur-Seine), Eure, Normandy, France",
+        "date": "2026-04-17",
+        "source": "https://xeno-canto.org/1103920",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/oedicneme-criard-cri-835607.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2021-05-03",
+        "source": "https://xeno-canto.org/835607",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/oedicneme-criard.jpg",
+      "auteur": "Charles J. Sharp",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eurasian_stone-curlew_(Burhinus_oedicnemus)_Dobruja.jpg"
+    }
+  },
+  "busard-saint-martin": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/busard-saint-martin-cri-1094969.mp3",
+        "auteur": "Anthony McGeehan ",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Mid and East Antrim, Northern Ireland, United Kingdom",
+        "date": "2026-04-07",
+        "source": "https://xeno-canto.org/1094969",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/busard-saint-martin.jpg",
+      "auteur": "Maurice.dekens",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blauwe_kiekendief_masc.jpg"
+    }
+  },
+  "bergeronnette-printaniere": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bergeronnette-printaniere-chant-758573.mp3",
+        "auteur": "W. Agster",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Wartburgkreis (near  Werra-Suhl-Tal), Kassel, Thüringen, Germany",
+        "date": "2022-06-02",
+        "source": "https://xeno-canto.org/758573",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bergeronnette-printaniere-cri-1008883.mp3",
+        "auteur": "Jacobo Ramil Millarengo",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Embalse da Fervenza, Brandomil, , Zas, Galicia, Spain",
+        "date": "2025-06-22",
+        "source": "https://xeno-canto.org/1008883",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bergeronnette-printaniere.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Yellow_wagtail.jpg"
+    }
+  },
+  "linotte-melodieuse": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/linotte-melodieuse-chant-161922.mp3",
+        "auteur": "Fernand Deroussen",
+        "licence": "CC BY-NC-ND 3.0",
+        "lieu": "Éméville, Oise, Picardy, France",
+        "date": "1993-05-27",
+        "source": "https://xeno-canto.org/161922",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/linotte-melodieuse-cri-656915.mp3",
+        "auteur": "Hans Matheve",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Zwinbosjes, Knokke-Heist, West-Vlaanderen, Belgium",
+        "date": "2016-06-13",
+        "source": "https://xeno-canto.org/656915",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/linotte-melodieuse.jpg",
+      "auteur": "Pierre Dalous",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Linaria_cannabina_-_Linotte_m%C3%A9lodieuse.jpg"
+    }
+  },
+  "bruant-proyer": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/bruant-proyer-chant-474331.mp3",
+        "auteur": "MERCIER Christophe",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Azat-le-Ris, Haute-Vienne, Nouvelle-Aquitaine, France",
+        "date": "2019-05-10",
+        "source": "https://xeno-canto.org/474331",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/bruant-proyer-cri-399684.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Lurcy-Lévis, Allier, Auvergne-Rhône-Alpes, France",
+        "date": "2017-07-30",
+        "source": "https://xeno-canto.org/399684",
+        "autresEspeces": [
+          "Phylloscopus collybita"
+        ]
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bruant-proyer.jpg",
+      "auteur": "El Golli Mohamed",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bruant_proyer_Ichkeul017.jpg"
+    }
+  },
+  "tarier-patre": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/tarier-patre-chant-648319.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Coulonges, Vienne, Nouvelle-Aquitaine, France",
+        "date": "2014-06-11",
+        "source": "https://xeno-canto.org/648319",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/tarier-patre-cri-711917.mp3",
+        "auteur": "Shamgar Brook",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Bayonne (near  Urrugne), Pyrénées-Atlantiques, Nouvelle-Aquitaine, France",
+        "date": "2022-03-28",
+        "source": "https://xeno-canto.org/711917",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/tarier-patre.jpg",
+      "auteur": "J. Malik  Jmalik",
+      "licence": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:European_stonechat2.jpg"
+    }
+  },
+  "pie-grieche-ecorcheur": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pie-grieche-ecorcheur-chant-999109.mp3",
+        "auteur": "Azens",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Gap (near  Chorges), Hautes-Alpes, Provence-Alpes-Côte d'Azur, France",
+        "date": "2025-05-17",
+        "source": "https://xeno-canto.org/999109",
+        "autresEspeces": [
+          "Turdus merula",
+          "Corvus corone",
+          "Certhia brachydactyla"
+        ]
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pie-grieche-ecorcheur-cri-817766.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Montbard (near Mussy-la-Fosse), Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-07-13",
+        "source": "https://xeno-canto.org/817766",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pie-grieche-ecorcheur.jpg",
+      "auteur": "Antonios Tsaknakis",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg"
+    }
+  },
+  "pic-mar": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pic-mar-chant-1082844.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Galez, Hautes-Pyrénées, Occitanie, Barran, France",
+        "date": "2026-02-23",
+        "source": "https://xeno-canto.org/1082844",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pic-mar-cri-1156415.mp3",
+        "auteur": "SWIFT Olivier",
+        "licence": "CC BY-NC 4.0",
+        "lieu": "Calvados, Grimboscq, France",
+        "date": "2026-06-17",
+        "source": "https://xeno-canto.org/1156415",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pic-mar.jpg",
+      "auteur": "Dion Art",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_(Dendrocoptes_medius),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg"
+    }
+  },
+  "pic-noir": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pic-noir-chant-1010666.mp3",
+        "auteur": "Lars Edenius",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Djäkneböle, Umeå, Västerbottens län, Sweden",
+        "date": "2025-07-01",
+        "source": "https://xeno-canto.org/1010666",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pic-noir-cri-822233.mp3",
+        "auteur": "Dominique Guillerme",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chassey, Côte-d'Or, Bourgogne-Franche-Comté, France",
+        "date": "2023-08-10",
+        "source": "https://xeno-canto.org/822233",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pic-noir.jpg",
+      "auteur": "Clément Bardot",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Black_woodpecker_(Dryocopus_martius).jpg"
+    }
+  },
+  "pigeon-colombin": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pigeon-colombin-chant-708341.mp3",
+        "auteur": "Jarek Matusiak",
+        "licence": "CC BY-NC-ND 4.0",
+        "lieu": "Gmina Augustów (near  Augustów), augustowski, podlaskie, Poland",
+        "date": "2022-03-13",
+        "source": "https://xeno-canto.org/708341",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pigeon-colombin-cri-1092367.mp3",
+        "auteur": "Romuald Mikusek",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Stolowe Mts. Nat. Park, kłodzki, Województwo dolnośląskie, Poland",
+        "date": "2025-07-02",
+        "source": "https://xeno-canto.org/1092367",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pigeon-colombin.jpg",
+      "auteur": "jim.gifford",
+      "licence": "CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ColumbaOenas.jpg"
+    }
+  },
+  "bondree-apivore": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/bondree-apivore-cri-502410.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Bonrepos, Hautes-Pyrénées, Occitanie, France",
+        "date": "2017-08-13",
+        "source": "https://xeno-canto.org/502410",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/bondree-apivore.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Wespenbussard_European_honey_buzzard_Pernis_apivorus.jpg"
+    }
+  },
+  "epervier-d-europe": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/epervier-d-europe-cri-1053258.mp3",
+        "auteur": "Denis Dujardin",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Sentier Heiligenstein au Naturel (near  Heiligenstein), Bas-Rhin, Grand Est, France",
+        "date": "2025-09-14",
+        "source": "https://xeno-canto.org/1053258",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/epervier-d-europe.jpg",
+      "auteur": "Dion Art",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_(Accipiter_nisus,_m),_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg"
+    }
+  },
+  "engoulevent-d-europe": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/engoulevent-d-europe-chant-809979.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Paimpont, la Roncière, France",
+        "date": "2023-06-18",
+        "source": "https://xeno-canto.org/809979",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/engoulevent-d-europe-cri-483258.mp3",
+        "auteur": "Mats Rellmar",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Ängelholm Municipality, Skåne län, Sweden",
+        "date": "2019-06-13",
+        "source": "https://xeno-canto.org/483258",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/engoulevent-d-europe.jpg",
+      "auteur": "Dûrzan cîrano",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eivanxap%C3%AEnok.jpg"
+    }
+  },
+  "cheveche-d-athena": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/cheveche-d-athena-chant-554145.mp3",
+        "auteur": "Stanislas Wroza",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Chavenay, Yvelines, Île-de-France, France",
+        "date": "2020-05-04",
+        "source": "https://xeno-canto.org/554145",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/cheveche-d-athena-cri-1183965.mp3",
+        "auteur": "Jack Berteau",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Bagnères-de-Bigorre (near  Saint-Laurent-de-Neste), Hautes-Pyrénées, Occitanie, France",
+        "date": "2026-09-26",
+        "source": "https://xeno-canto.org/1183965",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/cheveche-d-athena.jpg",
+      "auteur": "Andy Morffew from Itchen Abbas, Hampshire, UK",
+      "licence": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Posing_(19312516733).jpg"
+    }
+  },
+  "effraie-des-clochers": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/effraie-des-clochers-cri-1023246.mp3",
+        "auteur": "Olivier SWIFT, Hélène CARTAUD",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement de Vannes (near  Réminiac), Morbihan, Bretagne, France",
+        "date": "2025-07-21",
+        "source": "https://xeno-canto.org/1023246",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/effraie-des-clochers.jpg",
+      "auteur": "Rolf Tuinstra",
+      "licence": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20181203_-_22.11_Kerkuil_(Tyto_alba)_22.jpg"
+    }
+  },
+  "perruche-a-collier": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/perruche-a-collier-cri-1089724.mp3",
+        "auteur": "Thierry THOMAS",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Montpellier, Hérault, Occitanie, France",
+        "date": "2026-03-21",
+        "source": "https://xeno-canto.org/1089724",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/perruche-a-collier.jpg",
+      "auteur": "J.M.Garg",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rose-ringed_Parakeets_(Male_%26_Female)-_During_Foreplay_at_Hodal_I_Picture_0034.jpg"
+    }
+  },
+  "pigeon-biset": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/pigeon-biset-chant-270097.mp3",
+        "auteur": "Timo Schnabel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Sélestat, Bas-Rhin, Alsace, France",
+        "date": "2015-04-08",
+        "source": "https://xeno-canto.org/270097",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/pigeon-biset-cri-541143.mp3",
+        "auteur": "Marie-Lan Taÿ Pamart",
+        "licence": "CC BY-SA 4.0",
+        "lieu": "Paris, Arrondissement de Paris, Île-de-France, France",
+        "date": "2020-04-03",
+        "source": "https://xeno-canto.org/541143",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/pigeon-biset.jpg",
+      "auteur": "william_stephens",
+      "licence": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg"
+    }
+  },
+  "faucon-pelerin": {
+    "sons": [
+      {
+        "type": "cri",
+        "fichier": "media/sons/faucon-pelerin-cri-1150486.mp3",
+        "auteur": "Le Louaver Manuel",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Arrondissement of Andelys (near  Amfreville-sous-les-Monts), Eure, Normandy, France",
+        "date": "2026-06-19",
+        "source": "https://xeno-canto.org/1150486",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/faucon-pelerin.jpg",
+      "auteur": "Georges Lignier (georges.lignier@wanadoo.fr)",
+      "licence": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Faucon_pelerin_7_mai.jpg"
+    }
+  },
+  "grue-cendree": {
+    "sons": [
+      {
+        "type": "chant",
+        "fichier": "media/sons/grue-cendree-chant-801156.mp3",
+        "auteur": "Mateusz Gutowski",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "SPA Puszcza nad Gwdą, Gmina Jastrowie (near  Nadarzyce), Złotów County, Greater Poland Voivodeship, Poland",
+        "date": "2022-04-21",
+        "source": "https://xeno-canto.org/801156",
+        "autresEspeces": []
+      },
+      {
+        "type": "cri",
+        "fichier": "media/sons/grue-cendree-cri-516291.mp3",
+        "auteur": "Olivier SWIFT",
+        "licence": "CC BY-NC-SA 4.0",
+        "lieu": "Campuzan, Hautes-Pyrénées, Occitanie, France",
+        "date": "2020-01-01",
+        "source": "https://xeno-canto.org/516291",
+        "autresEspeces": []
+      }
+    ],
+    "photo": {
+      "fichier": "media/photos/grue-cendree.jpg",
+      "auteur": "Andreas Trepte",
+      "licence": "CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg"
     }
   }
 }

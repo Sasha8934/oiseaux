@@ -477,5 +477,3583 @@
       "listeRougeFrance": "LC (préoccupation mineure)"
     },
     "terrain": "Ses loges servent ensuite à d'autres espèces cavernicoles : un pic présent signale souvent des arbres à cavités, un enjeu dans les études d'impact (arbres à préserver)."
+  },
+  {
+    "id": "mesange-a-longue-queue",
+    "nom": "Mésange à longue queue",
+    "sci": "Aegithalos caudatus",
+    "en": "Long-tailed Tit",
+    "ordre": "Passériformes",
+    "famille": "Aegithalidés",
+    "mesures": {
+      "longueur": "13–15 cm (dont 7–9 de queue)",
+      "envergure": "16–19 cm",
+      "poids": "7–10 g"
+    },
+    "identification": [
+      "Minuscule boule de plumes blanche, noire et rosée, avec une très longue queue étagée.",
+      "Tête blanchâtre avec un large sourcil noir ; épaules rose vineux.",
+      "Toujours en petits groupes bruyants qui se déplacent d'arbre en arbre."
+    ],
+    "confusions": [
+      "Peu de confusion à la vue. Ses cris en groupe peuvent rappeler ceux des roitelets ou des autres mésanges."
+    ],
+    "sons": {
+      "chant": "Chant rarement entendu : gazouillis faible et discret.",
+      "cris": "Série de « tsi-tsi-tsi » aigus, « tserr » roulé caractéristique et « pt » secs : c'est par ses cris de groupe qu'on la repère."
+    },
+    "statut": "Nicheuse sédentaire commune.",
+    "phenologie": "Présente toute l'année ; en bandes familiales errantes l'hiver.",
+    "habitat": "Bois clairs, lisières, haies épaisses, bocage, parcs.",
+    "urbain": "Oui, dans les parcs et grands jardins arborés.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Petits insectes, araignées et leurs œufs pris dans les rameaux.",
+    "reproduction": {
+      "typeNid": "Arbustif (nid en boule)",
+      "nid": "Boule de mousse et de lichens tissée de toiles d'araignée, avec entrée latérale, garnie de centaines de plumes, dans un buisson épineux ou une fourche.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "8 à 12",
+      "incubation": "13 à 17 jours, par la femelle",
+      "sejourNid": "14 à 18 jours",
+      "developpement": "Nidicole",
+      "remarque": "Des « aides » (souvent des adultes ayant échoué) participent au nourrissage."
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Contactée surtout aux cris. Le nid très construit est commencé tôt (mars) : une haie épineuse taillée au printemps peut le détruire."
+  },
+  {
+    "id": "verdier-d-europe",
+    "nom": "Verdier d'Europe",
+    "sci": "Chloris chloris",
+    "en": "European Greenfinch",
+    "photoCommons": "European greenfinch (Chloris chloris voousi) male.jpg",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "15 cm",
+      "envergure": "25–28 cm",
+      "poids": "25–32 g"
+    },
+    "identification": [
+      "Fringille trapu vert olive, bec conique fort et clair.",
+      "Jaune vif au bord de l'aile et à la base de la queue, bien visible en vol.",
+      "Femelle et juvénile plus ternes et plus bruns, le juvénile finement strié."
+    ],
+    "confusions": [
+      "Serin cini : bien plus petit, bec minuscule, croupion jaune vif.",
+      "Femelle de Moineau domestique : pas de jaune dans l'aile."
+    ],
+    "sons": {
+      "chant": "Mélange de trilles et de gazouillis, ponctué d'un long « dzouiiih » nasal et étiré, très caractéristique. Chante souvent en vol nuptial papillonnant.",
+      "cris": "« Djup-djup-djup » en vol, « tchou-ii » montant."
+    },
+    "statut": "Nicheur sédentaire, rejoint l'hiver par des oiseaux du nord. En fort déclin, notamment à cause d'une maladie parasitaire (trichomonose) transmise aux mangeoires.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Bocage, lisières, parcs, jardins, cimetières avec conifères.",
+    "urbain": "Oui, jardins et parcs.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Graines (tournesol, baies d'if, églantier), bourgeons ; insectes pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe assez volumineuse dans un arbuste dense, souvent un conifère ornemental ou une haie.",
+      "periode": "Avril à juillet",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 6",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "13 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Espèce commune devenue menacée : à signaler dans un inventaire. Nettoyer régulièrement les mangeoires limite la trichomonose."
+  },
+  {
+    "id": "chardonneret-elegant",
+    "nom": "Chardonneret élégant",
+    "sci": "Carduelis carduelis",
+    "en": "European Goldfinch",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "12–13,5 cm",
+      "envergure": "21–25 cm",
+      "poids": "14–19 g"
+    },
+    "identification": [
+      "Face rouge, tête noire et blanche, dos brun chamois.",
+      "Large bande jaune vif sur l'aile noire, très visible en vol.",
+      "Juvénile sans rouge à la tête, mais avec la même bande jaune."
+    ],
+    "confusions": [
+      "Peu de confusion pour l'adulte. Le juvénile se reconnaît à sa bande alaire jaune."
+    ],
+    "sons": {
+      "chant": "Gazouillis rapide, liquide et cliquetant, très enjoué, mêlé de cris.",
+      "cris": "« Tiglit » ou « stiglitt » vif, souvent en vol en groupes."
+    },
+    "statut": "Nicheur commun mais en net déclin ; migrateur partiel (une partie des oiseaux part vers le sud-ouest en hiver).",
+    "phenologie": "Présent toute l'année ; mouvements migratoires en octobre et mars.",
+    "habitat": "Milieux semi-ouverts : vergers, bocage, friches à chardons, parcs, jardins.",
+    "urbain": "Oui, jardins et parcs arborés.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Petites graines de composées (chardons, cardères, pissenlits), d'aulne et de bouleau.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Coupe très soignée et profonde, en hauteur à l'extrémité d'une branche de feuillu.",
+      "periode": "Mai à août",
+      "pontes": "2",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 14 jours, par la femelle",
+      "sejourNid": "13 à 18 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009). Le braconnage pour la cage reste un problème.",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Les friches et bords de chemins fleuris sont essentiels pour lui : leur maintien est une mesure simple en faveur de l'espèce."
+  },
+  {
+    "id": "serin-cini",
+    "nom": "Serin cini",
+    "sci": "Serinus serinus",
+    "en": "European Serin",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "11–12 cm",
+      "envergure": "18–20 cm",
+      "poids": "11–13 g"
+    },
+    "identification": [
+      "Tout petit fringille strié, au bec minuscule et conique.",
+      "Mâle jaune vif sur la tête et la poitrine ; croupion jaune dans les deux sexes.",
+      "Femelle plus terne et plus striée."
+    ],
+    "confusions": [
+      "Verdier d'Europe : plus grand, bec fort, peu strié.",
+      "Tarin des aulnes (hivernant) : calotte noire chez le mâle, barres alaires jaunes."
+    ],
+    "sons": {
+      "chant": "Cascade très aiguë, rapide et grinçante, comme du verre pilé ou un froissement de papier, souvent lancée d'un perchoir élevé ou en vol papillonnant.",
+      "cris": "« Tirrlitt » roulé et aigu."
+    },
+    "statut": "Nicheur en déclin ; migrateur partiel, une partie des oiseaux du nord de la France part vers le sud en hiver.",
+    "phenologie": "Surtout de mars à octobre en Île-de-France.",
+    "habitat": "Parcs, jardins, vergers, cimetières, lisières, avec conifères.",
+    "urbain": "Oui, typique des jardins et parcs.",
+    "repartition": "Toute la France, plus commun dans le sud ; Europe moyenne et méridionale.",
+    "alimentation": "Petites graines de plantes herbacées.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Petite coupe dans un arbre ou arbuste, souvent un conifère ornemental.",
+      "periode": "Avril à juillet",
+      "pontes": "2",
+      "oeufs": "3 à 5",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "14 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Son chant grinçant suffit à le détecter. Espèce des milieux bâtis arborés, à intégrer aux inventaires urbains."
+  },
+  {
+    "id": "moineau-domestique",
+    "nom": "Moineau domestique",
+    "sci": "Passer domesticus",
+    "en": "House Sparrow",
+    "ordre": "Passériformes",
+    "famille": "Passéridés",
+    "mesures": {
+      "longueur": "14–16 cm",
+      "envergure": "21–25 cm",
+      "poids": "24–38 g"
+    },
+    "identification": [
+      "Mâle : calotte grise, nuque marron, bavette noire, joues grisâtres.",
+      "Femelle : brun-beige terne, sourcil clair derrière l'œil, sans bavette.",
+      "Bec conique fort, noir chez le mâle en période nuptiale."
+    ],
+    "confusions": [
+      "Moineau friquet : calotte entièrement chocolat et tache noire sur la joue blanche, sexes semblables."
+    ],
+    "sons": {
+      "chant": "Pépiements « tchip tchip » répétés, plus ou moins rythmés.",
+      "cris": "Nombreux pépiements, crécelle d'alarme « tchrrr »."
+    },
+    "statut": "Nicheur sédentaire, très commun mais en déclin net dans les grandes villes, dont Paris.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Lié à l'homme : villes, villages, fermes.",
+    "urbain": "Oui, espèce urbaine par excellence.",
+    "repartition": "Toute la France et presque tout le monde (introduit sur plusieurs continents).",
+    "alimentation": "Graines, restes alimentaires ; insectes indispensables pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Amas de matériaux dans une cavité de bâtiment (sous les tuiles, trous de murs, nichoirs), parfois en boule dans un arbre ou un lierre ; en colonies.",
+      "periode": "Mars à août",
+      "pontes": "2 à 4",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 14 jours, par les deux parents",
+      "sejourNid": "14 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les rénovations de bâtiments (isolation, bouchage des cavités) détruisent ses sites de nid, qui sont protégés : c'est un enjeu fréquent des études en ville."
+  },
+  {
+    "id": "accenteur-mouchet",
+    "nom": "Accenteur mouchet",
+    "sci": "Prunella modularis",
+    "en": "Dunnock",
+    "ordre": "Passériformes",
+    "famille": "Prunellidés",
+    "mesures": {
+      "longueur": "13–14,5 cm",
+      "envergure": "19–21 cm",
+      "poids": "17–23 g"
+    },
+    "identification": [
+      "Passereau discret aux tons gris ardoise (tête, poitrine) et brun strié (dos).",
+      "Bec fin d'insectivore : à ne pas confondre avec un moineau au bec conique.",
+      "Se déplace au sol à petits sauts, près des buissons."
+    ],
+    "confusions": [
+      "Femelle de Moineau domestique : bec épais, pas de gris sur la tête."
+    ],
+    "sons": {
+      "chant": "Chant aigu, rapide et régulier, un peu grinçant, comme une petite roue qui tourne, sans pause ni trille. Plus monotone que celui du Troglodyte.",
+      "cris": "« Tiih » aigu et insistant, « tutt »."
+    },
+    "statut": "Nicheur sédentaire commun, rejoint l'hiver par des migrateurs du nord.",
+    "phenologie": "Présent toute l'année ; chante dès janvier.",
+    "habitat": "Haies, buissons, sous-bois, jeunes plantations, jardins.",
+    "urbain": "Oui, jardins et parcs avec buissons.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Petits insectes au sol ; petites graines en hiver.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe de mousse dans un buisson dense ou une haie, près du sol.",
+      "periode": "Mars à juillet",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 5 (bleu turquoise)",
+      "incubation": "12 à 13 jours, par la femelle",
+      "sejourNid": "12 à 14 jours",
+      "developpement": "Nidicole",
+      "remarque": "Système d'appariement très variable : monogamie, polyandrie, polygynie. Hôte fréquent du Coucou gris."
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Très souvent contacté au chant seulement. Un chant aigu « qui tourne » sans trille au milieu doit faire penser à lui plutôt qu'au Troglodyte."
+  },
+  {
+    "id": "rougequeue-noir",
+    "nom": "Rougequeue noir",
+    "sci": "Phoenicurus ochruros",
+    "en": "Black Redstart",
+    "ordre": "Passériformes",
+    "famille": "Muscicapidés",
+    "mesures": {
+      "longueur": "13–14,5 cm",
+      "envergure": "23–26 cm",
+      "poids": "14–20 g"
+    },
+    "identification": [
+      "Queue rousse sans cesse frémissante, dans les deux sexes.",
+      "Mâle gris ardoise à noir, face et gorge noires, tache blanche à l'aile.",
+      "Femelle gris-brun sombre et uniforme."
+    ],
+    "confusions": [
+      "Rougequeue à front blanc : mâle à poitrine orange et front blanc ; femelle plus chamois, au ventre clair."
+    ],
+    "sons": {
+      "chant": "Strophe courte : un sifflement, une pause, puis un son grésillant comme du papier froissé, et quelques notes. Chante très tôt, avant l'aube, depuis les toits.",
+      "cris": "« Fist » sifflé, suivi de « tec-tec » secs."
+    },
+    "statut": "Nicheur commun ; migrateur partiel : la plupart quittent le nord de la France en hiver, quelques-uns hivernent.",
+    "phenologie": "Surtout de mars à octobre ; rares hivernants.",
+    "habitat": "Bâti, villages, villes, carrières, zones industrielles ; à l'origine, les falaises et éboulis de montagne.",
+    "urbain": "Oui, très urbain.",
+    "repartition": "Toute la France ; Europe centrale et méridionale.",
+    "alimentation": "Insectes et araignées chassés depuis un perchoir.",
+    "reproduction": {
+      "typeNid": "Semi-cavernicole (bâti)",
+      "nid": "Coupe dans une cavité ou sur un rebord de bâtiment, sous un toit, dans un mur ou une falaise.",
+      "periode": "Avril à juillet",
+      "pontes": "2 (parfois 3)",
+      "oeufs": "4 à 6",
+      "incubation": "12 à 16 jours, par la femelle",
+      "sejourNid": "12 à 19 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce typique des bâtiments : souvent concernée par les projets de rénovation ou de démolition. Son chant grésillant à l'aube est un excellent repère."
+  },
+  {
+    "id": "etourneau-sansonnet",
+    "nom": "Étourneau sansonnet",
+    "sci": "Sturnus vulgaris",
+    "en": "Common Starling",
+    "ordre": "Passériformes",
+    "famille": "Sturnidés",
+    "mesures": {
+      "longueur": "19–22 cm",
+      "envergure": "37–42 cm",
+      "poids": "60–95 g"
+    },
+    "identification": [
+      "Noir à reflets verts et pourpres au printemps, bec jaune pointu.",
+      "En hiver, couvert de points blancs et bec sombre.",
+      "Queue courte, ailes triangulaires en vol ; marche (ne sautille pas)."
+    ],
+    "confusions": [
+      "Merle noir : queue longue, sautille, pas de reflets ni de points.",
+      "Juvénile brun-gris uniforme, à ne pas confondre avec une grive."
+    ],
+    "sons": {
+      "chant": "Long mélange de sifflements, claquements, gargouillis et imitations (buse, loriot, sonneries…), souvent en battant des ailes.",
+      "cris": "« Tcherr » rauque, sifflement montant."
+    },
+    "statut": "Nicheur sédentaire très commun ; énormes dortoirs d'hivernants venus du nord-est de l'Europe.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Prairies, cultures, parcs, villes : ouvert pour se nourrir, avec cavités pour nicher.",
+    "urbain": "Oui, très commun.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Invertébrés du sol (larves de tipules, vers), fruits (cerises, raisin) ; très opportuniste.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité d'arbre (souvent une ancienne loge de pic), un trou de bâtiment ou un nichoir.",
+      "periode": "Avril à juin",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 6 (bleu pâle)",
+      "incubation": "12 à 15 jours, par les deux parents",
+      "sejourNid": "19 à 22 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Grand imitateur : un chant de Loriot ou un miaulement de Buse entendu près des toits peut venir d'un étourneau. Vérifier avant de noter !"
+  },
+  {
+    "id": "pigeon-ramier",
+    "nom": "Pigeon ramier",
+    "sci": "Columba palumbus",
+    "en": "Common Wood Pigeon",
+    "ordre": "Columbiformes",
+    "famille": "Columbidés",
+    "mesures": {
+      "longueur": "38–43 cm",
+      "envergure": "68–77 cm",
+      "poids": "450–550 g"
+    },
+    "identification": [
+      "Grand pigeon gris, poitrine rosée, tache blanche sur le côté du cou (absente chez le juvénile).",
+      "Bande blanche en croissant sur l'aile, bien visible en vol.",
+      "Œil jaune pâle."
+    ],
+    "confusions": [
+      "Pigeon colombin : plus petit, sans blanc au cou ni à l'aile, deux courtes barres noires sur l'aile.",
+      "Pigeon biset : croupion blanc, deux barres noires à l'aile."
+    ],
+    "sons": {
+      "chant": "Roucoulement grave de cinq notes, accentué sur la deuxième (« rou-ROU-rou, rou-rou »), répété trois à cinq fois et terminé par une note isolée.",
+      "cris": "Claquement d'ailes sonore à l'envol ; vol nuptial en montée, claquement, puis plané en descente."
+    },
+    "statut": "Nicheur sédentaire très commun ; grands passages migratoires en octobre (la « palombe » du sud-ouest).",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Bois, bocage, cultures, parcs.",
+    "urbain": "Oui, très commun en ville.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Graines, feuilles (colza, trèfle), bourgeons, glands, baies.",
+    "reproduction": {
+      "typeNid": "Arboricole (plate-forme)",
+      "nid": "Plate-forme de brindilles très légère, presque transparente, dans un arbre ou une haie.",
+      "periode": "Mars à octobre",
+      "pontes": "2 à 3",
+      "oeufs": "2",
+      "incubation": "16 à 17 jours, par les deux parents",
+      "sejourNid": "28 à 30 jours ; les jeunes sont nourris de « lait de jabot »",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexes II et III (chassable et commercialisable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Son chant porte loin et masque parfois les autres espèces aux points d'écoute. Les pigeons nourrissent leurs jeunes d'une sécrétion du jabot, une rareté chez les oiseaux."
+  },
+  {
+    "id": "tourterelle-turque",
+    "nom": "Tourterelle turque",
+    "sci": "Streptopelia decaocto",
+    "en": "Eurasian Collared Dove",
+    "photoCommons": "Streptopelia decaocto - Eurasian Collared Dove 05.jpg",
+    "ordre": "Columbiformes",
+    "famille": "Columbidés",
+    "mesures": {
+      "longueur": "31–34 cm",
+      "envergure": "47–55 cm",
+      "poids": "150–220 g"
+    },
+    "identification": [
+      "Tourterelle beige-grisé uniforme, fin collier noir sur la nuque.",
+      "Longue queue, blanche à l'extrémité vue de dessous.",
+      "Œil rouge sombre."
+    ],
+    "confusions": [
+      "Tourterelle des bois : dos écailleux roux et noir, taches noires et blanches sur le cou."
+    ],
+    "sons": {
+      "chant": "Trois notes « rou-ROUU-rou », accent sur la deuxième, répétées inlassablement.",
+      "cris": "« Kwèèh » nasal en vol ou à l'atterrissage."
+    },
+    "statut": "Nicheur sédentaire très commun. Arrivée en France dans les années 1950, après une expansion spectaculaire depuis les Balkans.",
+    "phenologie": "Présente toute l'année ; peut nicher presque toute l'année.",
+    "habitat": "Villes, villages, fermes, parcs.",
+    "urbain": "Oui, très commune.",
+    "repartition": "Toute la France et presque toute l'Europe.",
+    "alimentation": "Graines, céréales, restes ; fréquente les mangeoires.",
+    "reproduction": {
+      "typeNid": "Arboricole (plate-forme)",
+      "nid": "Plate-forme de brindilles dans un arbre, un conifère ornemental ou sur un bâtiment.",
+      "periode": "Février à octobre",
+      "pontes": "3 à 5",
+      "oeufs": "2",
+      "incubation": "14 à 16 jours, par les deux parents",
+      "sejourNid": "15 à 19 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ne pas confondre son chant à trois notes avec celui, ronronnant, de la Tourterelle des bois, espèce menacée."
+  },
+  {
+    "id": "pie-bavarde",
+    "nom": "Pie bavarde",
+    "sci": "Pica pica",
+    "en": "Eurasian Magpie",
+    "ordre": "Passériformes",
+    "famille": "Corvidés",
+    "mesures": {
+      "longueur": "40–51 cm (dont 20–30 de queue)",
+      "envergure": "52–60 cm",
+      "poids": "200–250 g"
+    },
+    "identification": [
+      "Noire et blanche, très longue queue étagée à reflets verts.",
+      "Ailes à grandes plages blanches en vol.",
+      "Silhouette et allure inimitables."
+    ],
+    "confusions": [
+      "Aucune confusion possible."
+    ],
+    "sons": {
+      "chant": "Pas de vrai chant : babil discret au printemps.",
+      "cris": "Jacassement sec et mécanique « tcha-tcha-tcha-tcha »."
+    },
+    "statut": "Nicheuse sédentaire très commune.",
+    "phenologie": "Présente toute l'année ; dortoirs collectifs en hiver.",
+    "habitat": "Bocage, cultures avec haies, parcs, villes.",
+    "urbain": "Oui, très commune.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Omnivore : invertébrés, petits vertébrés, œufs et oisillons, fruits, déchets.",
+    "reproduction": {
+      "typeNid": "Arboricole (nid en dôme)",
+      "nid": "Gros nid de branches épineuses avec un toit, haut dans un arbre ou une haie.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "5 à 7",
+      "incubation": "17 à 18 jours, par la femelle",
+      "sejourNid": "24 à 30 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable, pouvant être classée « susceptible d'occasionner des dégâts » selon les départements.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses anciens nids sont réutilisés par d'autres espèces (Hibou moyen-duc, Faucon crécerelle) : un nid de pie n'est pas forcément sans intérêt."
+  },
+  {
+    "id": "corneille-noire",
+    "nom": "Corneille noire",
+    "sci": "Corvus corone",
+    "en": "Carrion Crow",
+    "ordre": "Passériformes",
+    "famille": "Corvidés",
+    "mesures": {
+      "longueur": "44–51 cm",
+      "envergure": "84–100 cm",
+      "poids": "400–600 g"
+    },
+    "identification": [
+      "Entièrement noire, plumage lisse à reflets discrets.",
+      "Bec fort et noir, entièrement emplumé à la base.",
+      "Queue arrondie en vol."
+    ],
+    "confusions": [
+      "Corbeau freux : base du bec nue et blanchâtre chez l'adulte, plumage plus lâche aux cuisses (« culotte »), souvent en colonies.",
+      "Grand Corbeau : bien plus grand, queue cunéiforme, rare en Île-de-France."
+    ],
+    "sons": {
+      "chant": "Pas de vrai chant.",
+      "cris": "« Krâh » rauque, répété souvent trois ou quatre fois."
+    },
+    "statut": "Nicheuse sédentaire très commune.",
+    "phenologie": "Présente toute l'année ; grands dortoirs en hiver.",
+    "habitat": "Partout : cultures, prairies, bois, villes.",
+    "urbain": "Oui, très commune, y compris à Paris.",
+    "repartition": "Ouest et sud-ouest de l'Europe ; remplacée par la Corneille mantelée à l'est et au nord.",
+    "alimentation": "Omnivore et opportuniste : invertébrés, charognes, graines, œufs, déchets.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Grand nid de branches garni de matériaux doux, au sommet d'un arbre isolé ou d'un pylône.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "4 à 5",
+      "incubation": "18 à 20 jours, par la femelle",
+      "sejourNid": "29 à 35 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable, pouvant être classée « susceptible d'occasionner des dégâts ».",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Bien distinguer corneille et freux : le freux niche en colonies (corbeautières), un élément à cartographier."
+  },
+  {
+    "id": "choucas-des-tours",
+    "nom": "Choucas des tours",
+    "sci": "Corvus monedula",
+    "xenoCanto": "Coloeus monedula",
+    "en": "Western Jackdaw",
+    "photoCommons": "Western Jackdaw 2025 05 23 03.jpg",
+    "ordre": "Passériformes",
+    "famille": "Corvidés",
+    "mesures": {
+      "longueur": "33–37 cm",
+      "envergure": "64–73 cm",
+      "poids": "220–270 g"
+    },
+    "identification": [
+      "Petit corvidé noir à nuque et joues gris argenté.",
+      "Œil blanc nacré très visible.",
+      "Bec court ; vol rapide en groupes bruyants."
+    ],
+    "confusions": [
+      "Corneille noire : bien plus grande, sans gris à la nuque, œil sombre."
+    ],
+    "sons": {
+      "chant": "Pas de vrai chant.",
+      "cris": "« Tchak » ou « kia » aigu et métallique, souvent en chœur."
+    },
+    "statut": "Nicheur sédentaire commun, en augmentation.",
+    "phenologie": "Présent toute l'année ; rejoint par des hivernants.",
+    "habitat": "Villes, villages, falaises, carrières, vieux arbres creux ; se nourrit dans les prairies et cultures.",
+    "urbain": "Oui, clochers, cheminées et grands bâtiments.",
+    "repartition": "Toute la France et la majeure partie de l'Europe.",
+    "alimentation": "Omnivore : invertébrés, graines, fruits, déchets.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité : cheminée, clocher, trou de mur, falaise, arbre creux ; souvent en colonies lâches.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "17 à 18 jours, par la femelle",
+      "sejourNid": "28 à 35 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009), avec des dérogations possibles en cas de dégâts.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Contrairement aux autres corvidés communs, il est protégé : ses colonies dans le bâti sont à prendre en compte lors des travaux."
+  },
+  {
+    "id": "hirondelle-rustique",
+    "nom": "Hirondelle rustique",
+    "sci": "Hirundo rustica",
+    "en": "Barn Swallow",
+    "ordre": "Passériformes",
+    "famille": "Hirundinidés",
+    "mesures": {
+      "longueur": "17–21 cm (avec les filets)",
+      "envergure": "32–34 cm",
+      "poids": "16–22 g"
+    },
+    "identification": [
+      "Dessus bleu-noir métallique, front et gorge rouge brique, collier bleu sombre.",
+      "Dessous blanc crème ; longs filets à la queue.",
+      "Vol rapide et souple, souvent au ras du sol ou de l'eau."
+    ],
+    "confusions": [
+      "Hirondelle de fenêtre : croupion blanc, queue courte peu fourchue, dessous blanc pur.",
+      "Martinet noir : entièrement sombre, ailes en faux, ne se pose jamais au sol ni sur un fil."
+    ],
+    "sons": {
+      "chant": "Gazouillis volubile et joyeux, entrecoupé d'une crécelle roulée « trrrr » caractéristique.",
+      "cris": "« Vit-vit » répétés ; « siflitt » aigu d'alarme face à un rapace ou un chat."
+    },
+    "statut": "Nicheuse migratrice, en déclin. Hiverne en Afrique au sud du Sahara.",
+    "phenologie": "Présente de fin mars-avril à septembre-octobre ; grands rassemblements en dortoirs dans les roselières à la fin de l'été.",
+    "habitat": "Campagne, fermes et villages avec élevage, prairies ; chasse au-dessus des prés et des plans d'eau.",
+    "urbain": "Peu en ville ; liée au milieu rural.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Insectes volants (mouches, moustiques) capturés en vol.",
+    "reproduction": {
+      "typeNid": "Bâti (intérieur)",
+      "nid": "Coupe ouverte de boulettes de boue et de paille, sur une poutre à l'intérieur des étables, granges et garages.",
+      "periode": "Avril à août",
+      "pontes": "2 (parfois 3)",
+      "oeufs": "4 à 5",
+      "incubation": "14 à 16 jours, par la femelle",
+      "sejourNid": "18 à 23 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009), nids compris.",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "NT (quasi menacée)"
+    },
+    "terrain": "Liée à l'élevage : la disparition des étables ouvertes et des insectes explique son déclin. Les nids, réutilisés d'une année à l'autre, sont protégés."
+  },
+  {
+    "id": "hirondelle-de-fenetre",
+    "nom": "Hirondelle de fenêtre",
+    "sci": "Delichon urbicum",
+    "en": "Common House Martin",
+    "ordre": "Passériformes",
+    "famille": "Hirundinidés",
+    "mesures": {
+      "longueur": "13–15 cm",
+      "envergure": "26–29 cm",
+      "poids": "15–23 g"
+    },
+    "identification": [
+      "Dessus noir bleuté, dessous blanc pur et grand croupion blanc très visible.",
+      "Queue courte et peu échancrée.",
+      "Pattes emplumées de blanc."
+    ],
+    "confusions": [
+      "Hirondelle rustique : gorge rouge, longs filets, pas de croupion blanc.",
+      "Hirondelle de rivage : brune dessus, bande pectorale brune, niche dans les berges."
+    ],
+    "sons": {
+      "chant": "Gazouillis doux et faible, moins mélodieux que celui de la rustique.",
+      "cris": "« Prrit » roulé et sec, très caractéristique."
+    },
+    "statut": "Nicheuse migratrice en fort déclin ; hiverne en Afrique tropicale.",
+    "phenologie": "Présente d'avril à septembre.",
+    "habitat": "Villages, villes, falaises ; chasse en altitude au-dessus des milieux ouverts et des plans d'eau.",
+    "urbain": "Oui, façades de bâtiments.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Petits insectes volants capturés souvent assez haut.",
+    "reproduction": {
+      "typeNid": "Bâti (extérieur)",
+      "nid": "Nid fermé en boulettes de boue, avec une entrée étroite, collé sous une avancée de toit, un balcon ou un pont ; en colonies.",
+      "periode": "Mai à septembre",
+      "pontes": "2",
+      "oeufs": "4 à 5",
+      "incubation": "14 à 16 jours, par les deux parents",
+      "sejourNid": "22 à 32 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009) : la destruction des nids, même vides, est interdite.",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "NT (quasi menacée)"
+    },
+    "terrain": "Ravalements de façade et rénovations détruisent souvent ses colonies : pose de nids artificiels et planches anti-salissures sont des mesures classiques."
+  },
+  {
+    "id": "martinet-noir",
+    "nom": "Martinet noir",
+    "sci": "Apus apus",
+    "en": "Common Swift",
+    "ordre": "Apodiformes",
+    "famille": "Apodidés",
+    "mesures": {
+      "longueur": "16–18 cm",
+      "envergure": "40–44 cm",
+      "poids": "35–50 g"
+    },
+    "identification": [
+      "Entièrement brun-noir, petite gorge plus claire.",
+      "Longues ailes étroites en forme de faux, queue courte fourchue.",
+      "Vol très rapide, ne se pose ni au sol ni sur les fils."
+    ],
+    "confusions": [
+      "Hirondelles : ailes plus courtes et larges, dessous clair, se posent sur les fils."
+    ],
+    "sons": {
+      "chant": "Pas de chant à proprement parler.",
+      "cris": "« Sriiii » stridents, lancés en bandes qui filent entre les toits (les « rondes criardes »)."
+    },
+    "statut": "Nicheur migrateur en déclin ; hiverne en Afrique au sud de l'équateur.",
+    "phenologie": "Arrive fin avril-début mai et repart très tôt, dès fin juillet-début août.",
+    "habitat": "Villes et villages pour nicher ; chasse en altitude au-dessus de tous les milieux.",
+    "urbain": "Oui, très urbain.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Insectes et araignées aériens (plancton aérien) capturés en vol.",
+    "reproduction": {
+      "typeNid": "Cavernicole (bâti)",
+      "nid": "Coupelle de débris collés à la salive, dans une cavité de bâtiment (sous les tuiles, trous de murs) ; en colonies.",
+      "periode": "Mai à juillet",
+      "pontes": "1",
+      "oeufs": "2 à 3",
+      "incubation": "19 à 20 jours, par les deux parents",
+      "sejourNid": "37 à 56 jours selon la météo ; les jeunes peuvent supporter un jeûne en léthargie",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009), sites de nidification compris.",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Il passe presque toute sa vie en vol, y compris pour dormir. Ses colonies dans les bâtiments sont un enjeu majeur des rénovations : prévoir des nichoirs intégrés."
+  },
+  {
+    "id": "bergeronnette-grise",
+    "nom": "Bergeronnette grise",
+    "sci": "Motacilla alba",
+    "en": "White Wagtail",
+    "ordre": "Passériformes",
+    "famille": "Motacillidés",
+    "mesures": {
+      "longueur": "16,5–19 cm",
+      "envergure": "25–30 cm",
+      "poids": "19–25 g"
+    },
+    "identification": [
+      "Noire, grise et blanche ; face blanche, bavette noire.",
+      "Longue queue sans cesse hochée de haut en bas.",
+      "Court au sol à petits pas rapides ; vol très onduleux."
+    ],
+    "confusions": [
+      "Bergeronnette de Yarrell (sous-espèce britannique, rare l'hiver) : dos noir.",
+      "Bergeronnette des ruisseaux : dessous jaune, dos gris."
+    ],
+    "sons": {
+      "chant": "Gazouillis vif, rarement entendu.",
+      "cris": "« Tsi-litt » bisyllabique, lancé en vol : le meilleur moyen de la repérer."
+    },
+    "statut": "Nicheuse commune ; migratrice partielle, rejointe par des hivernants du nord.",
+    "phenologie": "Présente toute l'année ; dortoirs urbains en hiver.",
+    "habitat": "Milieux ouverts proches de l'eau, fermes, parkings, toits, berges.",
+    "urbain": "Oui, parkings, toits et places.",
+    "repartition": "Toute la France et toute l'Europe.",
+    "alimentation": "Petits insectes capturés au sol ou en courtes poursuites.",
+    "reproduction": {
+      "typeNid": "Semi-cavernicole",
+      "nid": "Dans un trou ou une anfractuosité : bâtiment, tas de bois, berge, pont.",
+      "periode": "Avril à juillet",
+      "pontes": "2",
+      "oeufs": "4 à 6",
+      "incubation": "12 à 14 jours, surtout par la femelle",
+      "sejourNid": "13 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Son cri de vol « tsi-litt » permet de la noter même sans la voir, y compris en migration."
+  },
+  {
+    "id": "fauvette-des-jardins",
+    "nom": "Fauvette des jardins",
+    "sci": "Sylvia borin",
+    "en": "Garden Warbler",
+    "ordre": "Passériformes",
+    "famille": "Sylviidés",
+    "mesures": {
+      "longueur": "13–15 cm",
+      "envergure": "20–24 cm",
+      "poids": "16–23 g (jusqu'à 30 g avant la migration)"
+    },
+    "identification": [
+      "Fauvette sans aucun signe distinctif : gris-brun uniforme, dessous plus clair.",
+      "Bec court et assez épais, œil sombre avec un fin cercle clair.",
+      "Léger gris sur le côté du cou."
+    ],
+    "confusions": [
+      "Fauvette à tête noire : calotte noire ou rousse ; chant terminé par une finale flûtée.",
+      "Pouillots et rousserolles : bec plus fin, allure différente."
+    ],
+    "sons": {
+      "chant": "Chant long, régulier et soutenu, grave et doux, comme un ruisseau qui coule, sans la finale flûtée de la Fauvette à tête noire.",
+      "cris": "« Tchek » sec, proche de celui de la tête noire mais plus doux."
+    },
+    "statut": "Nicheuse migratrice transsaharienne, en déclin.",
+    "phenologie": "Présente de fin avril-mai à septembre.",
+    "habitat": "Taillis denses, fourrés, jeunes boisements, lisières buissonnantes, ripisylves.",
+    "urbain": "Rare en ville.",
+    "repartition": "Surtout la moitié nord de la France ; Europe moyenne et septentrionale.",
+    "alimentation": "Insectes ; beaucoup de baies avant la migration.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe légère d'herbes dans un buisson bas ou des ronces.",
+      "periode": "Mai à juillet",
+      "pontes": "1 (parfois 2)",
+      "oeufs": "4 à 5",
+      "incubation": "11 à 12 jours, par les deux parents",
+      "sejourNid": "10 à 12 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "NT (quasi menacée)"
+    },
+    "terrain": "Son arrivée tardive (mai) impose un passage d'inventaire en fin de printemps. Bien la séparer de la tête noire au chant : c'est la confusion classique."
+  },
+  {
+    "id": "roitelet-huppe",
+    "nom": "Roitelet huppé",
+    "sci": "Regulus regulus",
+    "en": "Goldcrest",
+    "ordre": "Passériformes",
+    "famille": "Régulidés",
+    "mesures": {
+      "longueur": "8,5–9,5 cm",
+      "envergure": "13,5–15,5 cm",
+      "poids": "5–6,5 g"
+    },
+    "identification": [
+      "Le plus petit oiseau d'Europe, vert olive et rond.",
+      "Calotte jaune (orangée chez le mâle) bordée de noir, face claire et uniforme autour d'un gros œil noir.",
+      "Deux barres alaires blanches."
+    ],
+    "confusions": [
+      "Roitelet à triple bandeau : sourcil blanc et trait noir à l'œil, épaules bronze."
+    ],
+    "sons": {
+      "chant": "Chant très aigu et cyclique (« tsi-tsi-tsi-sisisi »), terminé par une petite fioriture. Peut devenir inaudible avec l'âge.",
+      "cris": "« Sri-sri-sri » très aigus et fins."
+    },
+    "statut": "Nicheur sédentaire, rejoint l'hiver par de nombreux migrateurs du nord. En déclin.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Lié aux conifères : pessières, sapinières, pinèdes, conifères des parcs.",
+    "urbain": "Oui, parcs et cimetières à conifères.",
+    "repartition": "Toute la France où il y a des conifères ; Europe.",
+    "alimentation": "Minuscules insectes et araignées des aiguilles.",
+    "reproduction": {
+      "typeNid": "Arboricole (nid suspendu)",
+      "nid": "Hamac de mousse et de toiles d'araignée suspendu sous une branche de conifère.",
+      "periode": "Avril à juillet",
+      "pontes": "2",
+      "oeufs": "7 à 11",
+      "incubation": "15 à 17 jours, par la femelle",
+      "sejourNid": "17 à 22 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Ses vocalisations très aiguës échappent facilement : un test régulier de son audition des hautes fréquences est utile au naturaliste."
+  },
+  {
+    "id": "roitelet-a-triple-bandeau",
+    "nom": "Roitelet à triple bandeau",
+    "sci": "Regulus ignicapilla",
+    "en": "Common Firecrest",
+    "ordre": "Passériformes",
+    "famille": "Régulidés",
+    "mesures": {
+      "longueur": "9–10 cm",
+      "envergure": "13–16 cm",
+      "poids": "5–6 g"
+    },
+    "identification": [
+      "Calotte orange (mâle) ou jaune (femelle) bordée de noir.",
+      "Large sourcil blanc et trait noir à travers l'œil : le « triple bandeau ».",
+      "Côtés du cou bronze doré, dessus vert plus vif que le huppé."
+    ],
+    "confusions": [
+      "Roitelet huppé : face uniforme autour de l'œil, sans sourcil blanc."
+    ],
+    "sons": {
+      "chant": "Série très aiguë de notes identiques qui s'accélère et monte en puissance, sans fioriture finale.",
+      "cris": "« Zit » aigu, un peu plus grave et plus sec que le huppé."
+    },
+    "statut": "Nicheur commun ; migrateur partiel.",
+    "phenologie": "Surtout de mars à octobre ; quelques hivernants.",
+    "habitat": "Forêts de feuillus et mixtes, aussi conifères, lierre ; parcs.",
+    "urbain": "Oui, grands parcs.",
+    "repartition": "Toute la France ; Europe occidentale et centrale.",
+    "alimentation": "Petits insectes et araignées.",
+    "reproduction": {
+      "typeNid": "Arboricole (nid suspendu)",
+      "nid": "Petit hamac de mousse suspendu à une branche de conifère, de feuillu ou dans le lierre.",
+      "periode": "Mai à juillet",
+      "pontes": "2",
+      "oeufs": "7 à 11",
+      "incubation": "14 à 16 jours, par la femelle",
+      "sejourNid": "19 à 24 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Au chant, le triple bandeau monte en puissance sans fioriture ; le huppé est cyclique et finit en fioriture. Moyen simple de séparer les deux."
+  },
+  {
+    "id": "mesange-nonnette",
+    "nom": "Mésange nonnette",
+    "sci": "Poecile palustris",
+    "en": "Marsh Tit",
+    "ordre": "Passériformes",
+    "famille": "Paridés",
+    "mesures": {
+      "longueur": "11,5–13 cm",
+      "envergure": "18–19 cm",
+      "poids": "10–13 g"
+    },
+    "identification": [
+      "Calotte noire brillante, petite bavette noire, joues blanches.",
+      "Dessus brun-gris uni, dessous blanc grisé, aucune barre alaire.",
+      "Allure de mésange vive et acrobatique."
+    ],
+    "confusions": [
+      "Mésange boréale : calotte noire mate, panneau clair sur l'aile, cri « tchè-tchè » nasal ; rare et en fort déclin.",
+      "Fauvette à tête noire mâle : pas de bavette, comportement de fauvette."
+    ],
+    "sons": {
+      "chant": "Séries de notes répétées « tiou-tiou-tiou » ou trille sec « tchip-tchip-tchip ».",
+      "cris": "« Pitchiou » explosif et sonore, caractéristique : le meilleur critère pour la séparer de la boréale."
+    },
+    "statut": "Nicheuse sédentaire assez commune.",
+    "phenologie": "Présente toute l'année, très fidèle à son territoire.",
+    "habitat": "Forêts de feuillus âgées (chênaies, hêtraies), souvent fraîches, parcs boisés.",
+    "urbain": "Peu : grands parcs boisés.",
+    "repartition": "Toute la France sauf le pourtour méditerranéen ; Europe moyenne.",
+    "alimentation": "Insectes, graines (hêtre, chardons) qu'elle cache pour l'hiver.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité naturelle d'arbre, souvent basse, rarement en nichoir.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "6 à 9",
+      "incubation": "13 à 15 jours, par la femelle",
+      "sejourNid": "17 à 20 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Indicatrice des vieilles forêts de feuillus. Toute observation de « mésange à calotte noire » doit être confirmée au cri pour écarter la Mésange boréale, plus menacée."
+  },
+  {
+    "id": "grimpereau-des-jardins",
+    "nom": "Grimpereau des jardins",
+    "sci": "Certhia brachydactyla",
+    "en": "Short-toed Treecreeper",
+    "ordre": "Passériformes",
+    "famille": "Certhiidés",
+    "mesures": {
+      "longueur": "12–13 cm",
+      "envergure": "17–21 cm",
+      "poids": "8–11 g"
+    },
+    "identification": [
+      "Petit oiseau brun strié dessus, blanc dessous, flancs brunâtres.",
+      "Bec fin et arqué ; grimpe en spirale le long des troncs, en s'appuyant sur sa queue.",
+      "Monte toujours, puis se laisse tomber au pied de l'arbre suivant."
+    ],
+    "confusions": [
+      "Grimpereau des bois : presque identique, flancs plus blancs, sourcil plus net ; chant très différent. Localisé en Île-de-France."
+    ],
+    "sons": {
+      "chant": "Courte phrase sonore et rythmée qui monte, « tu-tu-tui-ti-rô-ti ».",
+      "cris": "« Tsiit » perçant et répété."
+    },
+    "statut": "Nicheur sédentaire commun.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Forêts de feuillus, parcs, vergers, alignements de vieux arbres.",
+    "urbain": "Oui, parcs aux vieux arbres.",
+    "repartition": "Toute la France ; Europe occidentale et méridionale.",
+    "alimentation": "Petits insectes et araignées des écorces.",
+    "reproduction": {
+      "typeNid": "Semi-cavernicole",
+      "nid": "Derrière une écorce décollée, dans une fente de tronc ou un mur.",
+      "periode": "Mars à juin",
+      "pontes": "2",
+      "oeufs": "5 à 7",
+      "incubation": "13 à 15 jours, par la femelle",
+      "sejourNid": "15 à 18 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "La séparation avec le Grimpereau des bois se fait au chant. Dépend des vieux arbres à écorce décollée, à préserver."
+  },
+  {
+    "id": "sittelle-torchepot",
+    "nom": "Sittelle torchepot",
+    "sci": "Sitta europaea",
+    "en": "Eurasian Nuthatch",
+    "ordre": "Passériformes",
+    "famille": "Sittidés",
+    "mesures": {
+      "longueur": "12–14,5 cm",
+      "envergure": "22,5–27 cm",
+      "poids": "20–26 g"
+    },
+    "identification": [
+      "Dos gris-bleu, dessous chamois-orangé, flancs roux chez le mâle.",
+      "Bandeau noir à travers l'œil ; queue très courte ; bec en poignard.",
+      "Seul oiseau d'Europe qui descend les troncs tête en bas."
+    ],
+    "confusions": [
+      "Peu de confusion. Le grimpereau ne fait que monter et a le bec courbé."
+    ],
+    "sons": {
+      "chant": "Sifflements forts et clairs « tui-tui-tui » ou trilles rapides « vi-vi-vi-vi ».",
+      "cris": "« Tuit » sonore et répété, souvent en série."
+    },
+    "statut": "Nicheuse sédentaire commune.",
+    "phenologie": "Présente toute l'année ; chante dès la fin de l'hiver.",
+    "habitat": "Forêts de feuillus avec gros arbres, parcs, vieux vergers.",
+    "urbain": "Oui, grands parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Insectes ; noisettes, faines et glands coincés dans les écorces pour être cassés.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité (souvent une ancienne loge de pic) dont elle réduit l'entrée en la maçonnant de boue, d'où son nom de « torchepot ».",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "6 à 8",
+      "incubation": "14 à 18 jours, par la femelle",
+      "sejourNid": "23 à 25 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Indique la présence de gros arbres et de cavités. Ses sifflements puissants sont parfois confondus avec un homme qui siffle."
+  },
+  {
+    "id": "pic-epeiche",
+    "nom": "Pic épeiche",
+    "sci": "Dendrocopos major",
+    "typeChantXenoCanto": "drumming",
+    "en": "Great Spotted Woodpecker",
+    "ordre": "Piciformes",
+    "famille": "Picidés",
+    "mesures": {
+      "longueur": "22–26 cm",
+      "envergure": "38–44 cm",
+      "poids": "70–90 g"
+    },
+    "identification": [
+      "Noir et blanc, avec deux grandes taches blanches ovales aux épaules.",
+      "Sous-caudales rouge vif bien délimitées ; tache rouge à la nuque chez le mâle.",
+      "Juvénile à calotte entièrement rouge."
+    ],
+    "confusions": [
+      "Pic mar : calotte entièrement rouge, joues blanches sans trait noir rejoignant la nuque, sous-caudales rose pâle, flancs striés.",
+      "Pic épeichette : taille d'un moineau, sans taches blanches aux épaules, dos barré."
+    ],
+    "sons": {
+      "chant": "Tambourinage bref (moins d'une seconde) et très rapide, qui s'amortit à la fin. Fréquent de décembre à avril.",
+      "cris": "« Kik » sec et sonore, répété."
+    },
+    "statut": "Nicheur sédentaire très commun, en augmentation.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Tous types de forêts, parcs, jardins arborés.",
+    "urbain": "Oui, parcs et jardins ; vient aux mangeoires.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Larves xylophages, graines de conifères, noisettes ; pille aussi les nichées d'autres oiseaux.",
+    "reproduction": {
+      "typeNid": "Cavernicole primaire",
+      "nid": "Loge creusée chaque année dans un tronc ou une grosse branche.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "4 à 7",
+      "incubation": "10 à 13 jours, par les deux parents",
+      "sejourNid": "20 à 24 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses anciennes loges profitent à de nombreuses espèces cavernicoles (sittelle, étourneau, mésanges, chauves-souris) : les arbres à loges sont un enjeu."
+  },
+  {
+    "id": "geai-des-chenes",
+    "nom": "Geai des chênes",
+    "sci": "Garrulus glandarius",
+    "en": "Eurasian Jay",
+    "ordre": "Passériformes",
+    "famille": "Corvidés",
+    "mesures": {
+      "longueur": "32–35 cm",
+      "envergure": "52–58 cm",
+      "poids": "140–190 g"
+    },
+    "identification": [
+      "Corvidé coloré : corps rose-brun, moustache noire, calotte striée.",
+      "Miroir bleu vif barré de noir sur l'aile.",
+      "Croupion blanc très visible à l'envol."
+    ],
+    "confusions": [
+      "Aucune confusion à la vue."
+    ],
+    "sons": {
+      "chant": "Babil discret, rarement entendu.",
+      "cris": "« Kchèèh » rauque et puissant, qui alerte toute la forêt ; imite très bien la Buse variable."
+    },
+    "statut": "Nicheur sédentaire commun ; afflux d'oiseaux du nord-est certains automnes.",
+    "phenologie": "Présent toute l'année ; très actif en octobre (récolte des glands).",
+    "habitat": "Forêts, surtout de chênes, bosquets, parcs.",
+    "urbain": "Oui, grands parcs et jardins boisés.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Glands (qu'il enterre par milliers pour l'hiver), fruits, insectes, œufs et oisillons.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Coupe de brindilles dans un arbre ou un buisson haut.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "16 à 17 jours, par la femelle",
+      "sejourNid": "19 à 23 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les glands oubliés germent : le geai est un grand planteur de chênes. Attention, un « miaulement de buse » en forêt peut venir de lui."
+  },
+  {
+    "id": "grive-musicienne",
+    "nom": "Grive musicienne",
+    "sci": "Turdus philomelos",
+    "en": "Song Thrush",
+    "ordre": "Passériformes",
+    "famille": "Turdidés",
+    "mesures": {
+      "longueur": "20–22 cm",
+      "envergure": "33–36 cm",
+      "poids": "65–90 g"
+    },
+    "identification": [
+      "Dessus brun chaud uni ; dessous crème couvert de petites taches en flèche.",
+      "Dessous des ailes chamois-orangé en vol.",
+      "Plus petite et plus brune que la draine."
+    ],
+    "confusions": [
+      "Grive draine : plus grande, plus grise, taches rondes, dessous des ailes blanc.",
+      "Grive mauvis (hivernante) : sourcil crème marqué et flancs roux."
+    ],
+    "sons": {
+      "chant": "Phrases sonores et variées, chacune répétée deux à quatre fois (« tchi-wi tchi-wi tchi-wi »). Chante perchée haut, à l'aube et au crépuscule.",
+      "cris": "« Tsip » bref, souvent entendu la nuit en migration."
+    },
+    "statut": "Nicheuse commune ; migratrice partielle, nombreux migrateurs et hivernants.",
+    "phenologie": "Présente toute l'année ; chant de février à juillet.",
+    "habitat": "Forêts avec sous-bois, haies, parcs, jardins.",
+    "urbain": "Oui, parcs et jardins.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Vers, insectes, escargots qu'elle casse sur une pierre (« enclume »), baies.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe enduite à l'intérieur d'un mortier lisse de bois pourri et de boue, sans garniture, dans un arbuste ou du lierre.",
+      "periode": "Mars à juillet",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 5 (bleu vif tacheté de noir)",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "13 à 15 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "La répétition de chaque motif est le critère clé : le merle ne répète pas ses phrases, la musicienne si."
+  },
+  {
+    "id": "grive-draine",
+    "nom": "Grive draine",
+    "sci": "Turdus viscivorus",
+    "en": "Mistle Thrush",
+    "ordre": "Passériformes",
+    "famille": "Turdidés",
+    "mesures": {
+      "longueur": "26–29 cm",
+      "envergure": "42–48 cm",
+      "poids": "100–140 g"
+    },
+    "identification": [
+      "Grande grive grisâtre, dessous couvert de grosses taches rondes.",
+      "Dessous des ailes blanc et coins de queue blanchâtres en vol.",
+      "Allure dressée, vol onduleux."
+    ],
+    "confusions": [
+      "Grive musicienne : plus petite, plus brune, taches en flèche, dessous des ailes orangé."
+    ],
+    "sons": {
+      "chant": "Phrases flûtées courtes et mélancoliques, proches du merle mais plus courtes, plus répétitives et plus sonores. Chante très tôt (dès janvier), même par mauvais temps.",
+      "cris": "Crécelle sèche « trrrrt », comme une petite cliquette."
+    },
+    "statut": "Nicheuse sédentaire assez commune.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Forêts claires, lisières, bocage avec grands arbres, parcs, vergers.",
+    "urbain": "Oui, grands parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Vers et insectes dans les prairies ; baies de gui, d'if et de houx en hiver.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Coupe volumineuse dans une fourche, souvent haut dans un arbre.",
+      "periode": "Mars à juin",
+      "pontes": "2",
+      "oeufs": "4 à 5",
+      "incubation": "12 à 15 jours, par la femelle",
+      "sejourNid": "14 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Elle disperse le gui (son nom latin signifie « mangeuse de gui »). Un chant de merle lancé en janvier sous la pluie est souvent une draine."
+  },
+  {
+    "id": "bouvreuil-pivoine",
+    "nom": "Bouvreuil pivoine",
+    "sci": "Pyrrhula pyrrhula",
+    "en": "Eurasian Bullfinch",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "15–17 cm",
+      "envergure": "22–26 cm",
+      "poids": "21–27 g"
+    },
+    "identification": [
+      "Mâle à poitrine rose-rouge vif, calotte noire, dos gris.",
+      "Femelle beige-brun rosé, même calotte noire.",
+      "Croupion blanc éclatant et barre alaire claire ; bec très court et épais."
+    ],
+    "confusions": [
+      "Peu de confusion. Le Pinson mâle a la calotte grise et des barres alaires blanches."
+    ],
+    "sons": {
+      "chant": "Chant faible, grinçant et discret.",
+      "cris": "« Diu » flûté, doux et mélancolique : c'est presque toujours ainsi qu'on le détecte."
+    },
+    "statut": "Nicheur sédentaire en fort déclin ; afflux d'oiseaux nordiques certains hivers.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Forêts avec sous-bois dense, haies épaisses, vergers, jardins.",
+    "urbain": "Peu : grands jardins et parcs boisés.",
+    "repartition": "Toute la France sauf le pourtour méditerranéen ; Europe.",
+    "alimentation": "Bourgeons (arbres fruitiers), graines, baies.",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe de brindilles fines dans un buisson dense ou un jeune conifère.",
+      "periode": "Mai à août",
+      "pontes": "2",
+      "oeufs": "4 à 6",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "15 à 17 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Espèce discrète et menacée : connaître son cri « diu » est indispensable pour ne pas la manquer en inventaire."
+  },
+  {
+    "id": "loriot-d-europe",
+    "nom": "Loriot d'Europe",
+    "sci": "Oriolus oriolus",
+    "en": "Eurasian Golden Oriole",
+    "photoCommons": "Loriot_d'Europe_-_Flickr_-_Philippe_Garcelon,_crop.jpg",
+    "ordre": "Passériformes",
+    "famille": "Oriolidés",
+    "mesures": {
+      "longueur": "22–25 cm",
+      "envergure": "44–47 cm",
+      "poids": "65–85 g"
+    },
+    "identification": [
+      "Mâle jaune d'or éclatant avec ailes et queue noires, bec rose-rouge.",
+      "Femelle et jeune vert-jaune, dessous blanchâtre finement strié.",
+      "Vit haut dans le feuillage, rarement bien vu."
+    ],
+    "confusions": [
+      "Femelle parfois prise pour un Pic vert en vol (onduleux) : le loriot n'a pas de rouge et vole plus droit."
+    ],
+    "sons": {
+      "chant": "Sifflement flûté et liquide « dudlio » ou « di-de-lio », d'où son nom.",
+      "cris": "Miaulement rauque « krèèèh », comme un chat ou un geai."
+    },
+    "statut": "Nicheur migrateur transsaharien.",
+    "phenologie": "Arrive tard, fin avril-mai, et repart dès août.",
+    "habitat": "Chênaies claires, peupleraies, ripisylves, grands parcs.",
+    "urbain": "Rare : grands parcs boisés.",
+    "repartition": "Toute la France, plus rare au nord-ouest ; Europe moyenne et méridionale.",
+    "alimentation": "Gros insectes et chenilles de la canopée, fruits (cerises) en été.",
+    "reproduction": {
+      "typeNid": "Arboricole (nid suspendu)",
+      "nid": "Hamac tissé, suspendu à une fourche horizontale haut dans un arbre.",
+      "periode": "Mai à juillet",
+      "pontes": "1",
+      "oeufs": "3 à 5",
+      "incubation": "15 à 17 jours, surtout par la femelle",
+      "sejourNid": "14 à 17 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Arrive tard : un inventaire limité à avril le manque. L'Étourneau imite parfaitement son chant, d'où des erreurs fréquentes."
+  },
+  {
+    "id": "coucou-gris",
+    "nom": "Coucou gris",
+    "sci": "Cuculus canorus",
+    "en": "Common Cuckoo",
+    "photoCommons": "Cuckoo_(51169010335).jpg",
+    "ordre": "Cuculiformes",
+    "famille": "Cuculidés",
+    "mesures": {
+      "longueur": "32–36 cm",
+      "envergure": "54–60 cm",
+      "poids": "105–130 g"
+    },
+    "identification": [
+      "Gris, ventre finement barré, longue queue arrondie tachée de blanc.",
+      "Ailes pointues souvent tombantes ; silhouette proche d'un épervier en vol.",
+      "Certaines femelles sont rousses et barrées (forme « hépatique »)."
+    ],
+    "confusions": [
+      "Épervier d'Europe : bec crochu, ailes plus larges et arrondies, vol plané alterné."
+    ],
+    "sons": {
+      "chant": "Le célèbre « cou-cou » du mâle, répété. La femelle émet un trille bouillonnant.",
+      "cris": "Notes rauques et étouffées près de la femelle."
+    },
+    "statut": "Nicheur migrateur transsaharien, en déclin.",
+    "phenologie": "Présent d'avril à août.",
+    "habitat": "Très varié : roselières, bocage, lisières, landes, bois clairs.",
+    "urbain": "Non.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Chenilles, y compris poilues, délaissées par la plupart des oiseaux.",
+    "reproduction": {
+      "typeNid": "Parasite de couvée",
+      "nid": "Aucun : la femelle pond un œuf dans le nid d'une autre espèce (Rousserolle effarvatte, Accenteur mouchet, bergeronnettes, pipits…).",
+      "periode": "Mai à juillet",
+      "pontes": "Un œuf par nid hôte, 10 à 20 dans la saison",
+      "oeufs": "1 par nid",
+      "incubation": "11 à 13 jours, par l'hôte",
+      "sejourNid": "17 à 21 jours ; le jeune coucou éjecte les œufs de l'hôte",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Chaque femelle se spécialise sur une espèce hôte dont elle imite les œufs. Sa présence dépend donc de celle des hôtes."
+  },
+  {
+    "id": "chouette-hulotte",
+    "nom": "Chouette hulotte",
+    "sci": "Strix aluco",
+    "en": "Tawny Owl",
+    "ordre": "Strigiformes",
+    "famille": "Strigidés",
+    "mesures": {
+      "longueur": "37–39 cm",
+      "envergure": "81–96 cm",
+      "poids": "400–600 g"
+    },
+    "identification": [
+      "Chouette trapue à grosse tête ronde, sans aigrettes, yeux noirs.",
+      "Plumage roux ou gris, strié et vermiculé.",
+      "Disque facial clair bordé de sombre."
+    ],
+    "confusions": [
+      "Hibou moyen-duc : aigrettes, yeux orange.",
+      "Effraie des clochers : face blanche en cœur, dessous blanc."
+    ],
+    "sons": {
+      "chant": "Hululement du mâle : « hou… » puis, après une pause, un « hou-hou-hou-houuu » chevrotant.",
+      "cris": "« Kiwitt » aigu, surtout de la femelle ; les jeunes émettent des « tsi-wiip » sifflés."
+    },
+    "statut": "Nicheuse sédentaire commune ; le rapace nocturne le plus répandu.",
+    "phenologie": "Présente toute l'année ; chante surtout en automne et de janvier à mars.",
+    "habitat": "Forêts, parcs, bocage avec vieux arbres, villes arborées.",
+    "urbain": "Oui, y compris dans les grands parcs parisiens.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Petits rongeurs, oiseaux, amphibiens, gros insectes, vers.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Arbre creux, nichoir, bâtiment, ancien nid de rapace.",
+      "periode": "Février à juin (ponte dès février-mars)",
+      "pontes": "1",
+      "oeufs": "2 à 4",
+      "incubation": "28 à 30 jours, par la femelle",
+      "sejourNid": "28 à 37 jours ; les jeunes quittent le nid avant de voler (« branchement »)",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Recensée par écoute nocturne et repasse en fin d'hiver. Les jeunes « branchés » au sol en mai ne sont pas abandonnés : il faut les laisser sur place."
+  },
+  {
+    "id": "fauvette-grisette",
+    "nom": "Fauvette grisette",
+    "sci": "Curruca communis",
+    "en": "Common Whitethroat",
+    "ordre": "Passériformes",
+    "famille": "Sylviidés",
+    "mesures": {
+      "longueur": "13–15 cm",
+      "envergure": "18–23 cm",
+      "poids": "12–18 g"
+    },
+    "identification": [
+      "Gorge blanche bien contrastée, souvent gonflée quand elle chante.",
+      "Mâle à tête grise ; ailes à larges bordures rousses.",
+      "Longue queue aux bords blancs."
+    ],
+    "confusions": [
+      "Fauvette babillarde : tête plus sombre (« masque »), pas de roux à l'aile, chant différent."
+    ],
+    "sons": {
+      "chant": "Chant court, rêche et précipité, souvent lancé en vol chanté vertical depuis un buisson.",
+      "cris": "« Tchèrr » grinçant, « vèd-vèd-vèd »."
+    },
+    "statut": "Nicheuse migratrice transsaharienne commune.",
+    "phenologie": "Présente d'avril à septembre.",
+    "habitat": "Haies basses, friches, ronciers, bords de champs, coupes forestières.",
+    "urbain": "Non, sauf friches périurbaines.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Insectes, puis baies à la fin de l'été.",
+    "reproduction": {
+      "typeNid": "Arbustif (bas)",
+      "nid": "Coupe près du sol dans des ronces, des orties ou un buisson bas.",
+      "periode": "Mai à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 5",
+      "incubation": "11 à 13 jours, par les deux parents",
+      "sejourNid": "10 à 12 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Typique des friches et lisières basses, souvent touchées par les projets d'aménagement. Le vol chanté est un bon indice de cantonnement."
+  },
+  {
+    "id": "rougequeue-a-front-blanc",
+    "nom": "Rougequeue à front blanc",
+    "sci": "Phoenicurus phoenicurus",
+    "en": "Common Redstart",
+    "ordre": "Passériformes",
+    "famille": "Muscicapidés",
+    "mesures": {
+      "longueur": "13–14,5 cm",
+      "envergure": "20,5–24 cm",
+      "poids": "11–23 g"
+    },
+    "identification": [
+      "Queue rousse frémissante dans les deux sexes.",
+      "Mâle : front blanc, face et gorge noires, poitrine orange vif, dos gris.",
+      "Femelle brun-chamois, ventre plus clair que chez le Rougequeue noir."
+    ],
+    "confusions": [
+      "Rougequeue noir : mâle sombre sans orange ; femelle plus grise et plus sombre dessous."
+    ],
+    "sons": {
+      "chant": "Courte strophe mélancolique : une note sifflée, deux ou trois notes descendantes, puis une fin variable et gazouillée.",
+      "cris": "« Huit » sifflé suivi de « tic-tic »."
+    },
+    "statut": "Nicheur migrateur transsaharien.",
+    "phenologie": "Présent d'avril à septembre.",
+    "habitat": "Vieux vergers, parcs, bois clairs, bocage à vieux arbres, jardins.",
+    "urbain": "Parfois, dans les quartiers pavillonnaires arborés.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Insectes capturés au sol ou en vol depuis un perchoir.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Cavité d'arbre, trou de mur, nichoir.",
+      "periode": "Mai à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "5 à 7 (bleu clair)",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "14 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Indicateur des vergers traditionnels et des vieux arbres à cavités, deux milieux souvent menacés par l'urbanisation."
+  },
+  {
+    "id": "tourterelle-des-bois",
+    "nom": "Tourterelle des bois",
+    "sci": "Streptopelia turtur",
+    "en": "European Turtle Dove",
+    "ordre": "Columbiformes",
+    "famille": "Columbidés",
+    "mesures": {
+      "longueur": "26–28 cm",
+      "envergure": "47–53 cm",
+      "poids": "100–170 g"
+    },
+    "identification": [
+      "Petite tourterelle au dos écailleux roux et noir.",
+      "Plaque rayée de noir et de blanc sur le côté du cou.",
+      "Queue sombre bordée de blanc ; vol rapide et nerveux."
+    ],
+    "confusions": [
+      "Tourterelle turque : uniforme beige, collier noir sur la nuque."
+    ],
+    "sons": {
+      "chant": "Ronronnement grave et doux « turrr-turrr », d'où son nom latin turtur.",
+      "cris": "Peu de cris ; claquement d'ailes à l'envol."
+    },
+    "statut": "Nicheuse migratrice transsaharienne en fort déclin en Europe.",
+    "phenologie": "Présente de fin avril-mai à septembre.",
+    "habitat": "Bocage, haies hautes, lisières, friches arbustives, bosquets.",
+    "urbain": "Non.",
+    "repartition": "Toute la France ; Europe moyenne et méridionale.",
+    "alimentation": "Graines de plantes sauvages (fumeterre, renouées), céréales.",
+    "reproduction": {
+      "typeNid": "Arbustif (plate-forme)",
+      "nid": "Plate-forme légère de brindilles dans un buisson ou une haie.",
+      "periode": "Mai à août",
+      "pontes": "1 à 2",
+      "oeufs": "2",
+      "incubation": "13 à 14 jours, par les deux parents",
+      "sejourNid": "18 à 20 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Espèce chassable, mais chasse suspendue en France depuis 2021 (quota nul ; à vérifier chaque saison).",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "VU (vulnérable) ; également VU au niveau mondial"
+    },
+    "terrain": "Espèce à fort enjeu malgré son statut de gibier. Son ronronnement discret se perd facilement dans le bruit : écouter attentivement les haies en mai-juin."
+  },
+  {
+    "id": "moineau-friquet",
+    "nom": "Moineau friquet",
+    "sci": "Passer montanus",
+    "en": "Eurasian Tree Sparrow",
+    "ordre": "Passériformes",
+    "famille": "Passéridés",
+    "mesures": {
+      "longueur": "12,5–14 cm",
+      "envergure": "20–22 cm",
+      "poids": "19–25 g"
+    },
+    "identification": [
+      "Calotte entièrement brun chocolat.",
+      "Joue blanche marquée d'une tache noire, collier blanc presque complet.",
+      "Sexes semblables, plus petit et plus net que le domestique."
+    ],
+    "confusions": [
+      "Moineau domestique : calotte grise chez le mâle, joue grise sans tache noire."
+    ],
+    "sons": {
+      "chant": "Pépiements proches de ceux du domestique, un peu plus aigus.",
+      "cris": "« Tèk-tèk » sec en vol, plus métallique que le domestique."
+    },
+    "statut": "Nicheur sédentaire en très fort déclin, devenu rare en Île-de-France.",
+    "phenologie": "Présent toute l'année ; petites bandes en hiver.",
+    "habitat": "Bocage, vergers, lisières, fermes, villages ruraux.",
+    "urbain": "Très rare en ville.",
+    "repartition": "Toute la France mais de façon morcelée ; Europe et Asie.",
+    "alimentation": "Graines ; insectes pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Cavité d'arbre, trou de mur, nichoir, parfois sous un nid de rapace.",
+      "periode": "Avril à août",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 14 jours, par les deux parents",
+      "sejourNid": "15 à 18 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "EN (en danger)"
+    },
+    "terrain": "Une observation de friquet en Île-de-France est un vrai enjeu à documenter. Bien vérifier la joue : beaucoup de jeunes domestiques sont pris pour des friquets."
+  },
+  {
+    "id": "alouette-des-champs",
+    "nom": "Alouette des champs",
+    "sci": "Alauda arvensis",
+    "en": "Eurasian Skylark",
+    "ordre": "Passériformes",
+    "famille": "Alaudidés",
+    "mesures": {
+      "longueur": "16–18 cm",
+      "envergure": "30–36 cm",
+      "poids": "33–45 g"
+    },
+    "identification": [
+      "Brun beige finement strié, petite huppe érectile.",
+      "Bords de queue blancs et liseré blanc au bord arrière de l'aile en vol.",
+      "Marche au sol dans les cultures."
+    ],
+    "confusions": [
+      "Alouette lulu : queue courte, sourcils qui se rejoignent sur la nuque, tache noir et blanc au poignet.",
+      "Pipits : plus fins, bec plus fin."
+    ],
+    "sons": {
+      "chant": "Chant long, continu et vibrant, lancé en vol stationnaire très haut, pendant plusieurs minutes.",
+      "cris": "« Prrrit » roulé en vol."
+    },
+    "statut": "Nicheuse commune mais en déclin ; migratrice partielle, nombreux hivernants.",
+    "phenologie": "Présente toute l'année ; chante de février à juillet.",
+    "habitat": "Grandes cultures, prairies, friches rases, aérodromes.",
+    "urbain": "Non.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Graines, jeunes pousses ; insectes pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Coupe d'herbes dans une petite dépression au sol, dans les cultures ou l'herbe.",
+      "periode": "Avril à juillet",
+      "pontes": "2 à 3",
+      "oeufs": "3 à 5",
+      "incubation": "11 à 12 jours, par la femelle",
+      "sejourNid": "8 à 10 jours ; les jeunes quittent le nid avant de savoir voler",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexe II (espèce chassable).",
+      "listeRougeFrance": "NT (quasi menacée)"
+    },
+    "terrain": "Espèce phare des plaines de Beauce, Brie et Vexin. Les travaux sur parcelles agricoles au printemps peuvent détruire les nids au sol."
+  },
+  {
+    "id": "bruant-jaune",
+    "nom": "Bruant jaune",
+    "sci": "Emberiza citrinella",
+    "en": "Yellowhammer",
+    "photoCommons": "Yellowhammer (Emberiza citrinella) male Drenthe.jpg",
+    "ordre": "Passériformes",
+    "famille": "Emberizidés",
+    "mesures": {
+      "longueur": "15,5–17 cm",
+      "envergure": "23–29,5 cm",
+      "poids": "25–36 g"
+    },
+    "identification": [
+      "Mâle à tête et dessous jaune vif, peu marqués de sombre.",
+      "Croupion roux, bien visible à l'envol.",
+      "Femelle plus terne et plus striée, avec du jaune."
+    ],
+    "confusions": [
+      "Bruant zizi : face jaune barrée de noir chez le mâle, croupion gris-olive (pas roux)."
+    ],
+    "sons": {
+      "chant": "Série de notes identiques terminée par une note plus longue : « ti-ti-ti-ti-ti-tiii-tuuu ».",
+      "cris": "« Tsik » ou « tsuk » sec."
+    },
+    "statut": "Nicheur sédentaire en déclin, rejoint par des hivernants.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Bocage, haies, lisières, bords de cultures, coupes forestières.",
+    "urbain": "Non.",
+    "repartition": "Toute la France sauf le pourtour méditerranéen ; Europe.",
+    "alimentation": "Graines, céréales ; insectes pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Au sol ou bas",
+      "nid": "Coupe au sol au pied d'une haie ou bas dans un buisson.",
+      "periode": "Avril à août",
+      "pontes": "2 à 3",
+      "oeufs": "3 à 5",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "11 à 13 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Bon indicateur de la qualité du bocage : l'arrachage de haies le fait disparaître. Chante du haut des haies, facile à recenser."
+  },
+  {
+    "id": "bruant-zizi",
+    "nom": "Bruant zizi",
+    "sci": "Emberiza cirlus",
+    "en": "Cirl Bunting",
+    "photoCommons": "Bruant zizi.jpg",
+    "ordre": "Passériformes",
+    "famille": "Emberizidés",
+    "mesures": {
+      "longueur": "15–16,5 cm",
+      "envergure": "22–25,5 cm",
+      "poids": "21–28 g"
+    },
+    "identification": [
+      "Mâle : face jaune barrée d'un bandeau noir à l'œil et d'une gorge noire, bandeau pectoral olive.",
+      "Croupion gris-olive (roux chez le Bruant jaune).",
+      "Femelle striée, proche de la femelle de Bruant jaune."
+    ],
+    "confusions": [
+      "Bruant jaune : croupion roux, tête jaune sans noir chez le mâle."
+    ],
+    "sons": {
+      "chant": "Trille sec, métallique et monotone sur une seule note, « zi-zi-zi-zi-zi-zi », d'où son nom.",
+      "cris": "« Zit » fin et aigu."
+    },
+    "statut": "Nicheur sédentaire, en progression vers le nord.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Bocage chaud, vergers, vignes, villages, coteaux bien exposés.",
+    "urbain": "Parfois, dans les villages et jardins.",
+    "repartition": "Surtout la moitié sud et l'ouest de la France ; plus localisé en Île-de-France.",
+    "alimentation": "Graines ; insectes (sauterelles) pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Arbustif (bas)",
+      "nid": "Coupe bas dans un buisson, une haie ou du lierre.",
+      "periode": "Avril à août",
+      "pontes": "2 à 3",
+      "oeufs": "3 à 4",
+      "incubation": "11 à 13 jours, par la femelle",
+      "sejourNid": "11 à 13 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Son trille peut être confondu avec celui de la Fauvette babillarde ou du Pouillot de Bonelli : bien écouter la sécheresse métallique."
+  },
+  {
+    "id": "faucon-crecerelle",
+    "nom": "Faucon crécerelle",
+    "sci": "Falco tinnunculus",
+    "en": "Common Kestrel",
+    "ordre": "Falconiformes",
+    "famille": "Falconidés",
+    "mesures": {
+      "longueur": "31–37 cm",
+      "envergure": "68–78 cm",
+      "poids": "190–300 g"
+    },
+    "identification": [
+      "Mâle : tête et queue gris-bleu, dos roux tacheté de noir, bande noire au bout de la queue.",
+      "Femelle rousse, barrée de sombre, queue barrée.",
+      "Vol stationnaire caractéristique (« fait le Saint-Esprit »)."
+    ],
+    "confusions": [
+      "Faucon hobereau : dos ardoise, moustache noire, « culotte » rousse, ne fait pas de surplace.",
+      "Épervier : ailes arrondies, ne fait pas de vol stationnaire."
+    ],
+    "sons": {
+      "chant": "Pas de chant au sens strict.",
+      "cris": "« Ki-ki-ki-ki » aigu et répété près du nid."
+    },
+    "statut": "Nicheur sédentaire commun, en déclin.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Milieux ouverts : cultures, prairies, bords de routes ; villes (grands bâtiments, églises).",
+    "urbain": "Oui, niche sur les monuments parisiens.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Surtout campagnols ; aussi gros insectes, lézards, petits oiseaux.",
+    "reproduction": {
+      "typeNid": "Rupestre ou arboricole (sans nid propre)",
+      "nid": "Ne construit pas : ancien nid de corvidé, cavité, corniche de bâtiment, nichoir.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "27 à 31 jours, surtout par la femelle",
+      "sejourNid": "27 à 32 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Bon indicateur de la disponibilité en petits rongeurs. Les bords de route enherbés lui servent de terrain de chasse."
+  },
+  {
+    "id": "buse-variable",
+    "nom": "Buse variable",
+    "sci": "Buteo buteo",
+    "en": "Common Buzzard",
+    "ordre": "Accipitriformes",
+    "famille": "Accipitridés",
+    "mesures": {
+      "longueur": "51–57 cm",
+      "envergure": "113–128 cm",
+      "poids": "600–1 100 g (femelle plus lourde)"
+    },
+    "identification": [
+      "Rapace trapu au plumage très variable, du presque blanc au brun sombre.",
+      "Souvent une bande claire en travers de la poitrine ; tête ronde, cou court.",
+      "Plane en cercles, ailes larges légèrement relevées, queue courte."
+    ],
+    "confusions": [
+      "Bondrée apivore : tête fine de « pigeon », queue plus longue à bandes, ailes tenues à plat.",
+      "Busards : ailes et queue longues et étroites, vol bas en V."
+    ],
+    "sons": {
+      "chant": "Pas de chant au sens strict.",
+      "cris": "« Hiiiéh » miaulé et plaintif, souvent imité par le Geai."
+    },
+    "statut": "Nicheuse sédentaire commune ; le rapace diurne le plus répandu. Hivernants du nord en plus.",
+    "phenologie": "Présente toute l'année ; parades en vol au début du printemps.",
+    "habitat": "Bocage, lisières, cultures avec bosquets ; souvent perchée sur les poteaux.",
+    "urbain": "Non, sauf en périphérie.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Campagnols, mais aussi lombrics, amphibiens, reptiles, charognes.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Grand nid de branches dans un grand arbre, souvent en lisière, garni de rameaux verts.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "2 à 4",
+      "incubation": "33 à 38 jours, surtout par la femelle",
+      "sejourNid": "50 à 55 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les aires (nids) sont réutilisées plusieurs années : à localiser avant tout abattage en lisière. Sensible aux éoliennes."
+  },
+  {
+    "id": "heron-cendre",
+    "nom": "Héron cendré",
+    "sci": "Ardea cinerea",
+    "en": "Grey Heron",
+    "photoCommons": "Grey Heron in winterly setting 01 cropped.jpg",
+    "ordre": "Pélécaniformes",
+    "famille": "Ardéidés",
+    "mesures": {
+      "longueur": "90–98 cm",
+      "envergure": "175–195 cm",
+      "poids": "1–2 kg"
+    },
+    "identification": [
+      "Grand échassier gris, cou blanc strié de noir, bec jaune en poignard.",
+      "Bandeau noir au-dessus de l'œil prolongé par une fine huppe.",
+      "Vole lentement, cou replié en S et pattes dépassant de la queue."
+    ],
+    "confusions": [
+      "Héron pourpré : plus sombre et roux, cou fin ; migrateur, rare en Île-de-France.",
+      "Grande Aigrette : entièrement blanche."
+    ],
+    "sons": {
+      "chant": "Pas de chant. Claquements de bec et cris variés dans les colonies.",
+      "cris": "« Kraak » rauque et puissant, souvent en vol."
+    },
+    "statut": "Nicheur commun, sédentaire, rejoint l'hiver par des oiseaux du nord.",
+    "phenologie": "Présent toute l'année ; colonies occupées dès février.",
+    "habitat": "Zones humides, rivières, étangs, mais aussi prairies et cultures où il chasse les campagnols.",
+    "urbain": "Oui, au bord de la Seine et des plans d'eau des parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Poissons, amphibiens, petits rongeurs, insectes aquatiques.",
+    "reproduction": {
+      "typeNid": "Colonial (arboricole)",
+      "nid": "Grande plate-forme de branches, en colonie (héronnière) au sommet de grands arbres.",
+      "periode": "Février à juin",
+      "pontes": "1",
+      "oeufs": "3 à 5",
+      "incubation": "25 à 27 jours, par les deux parents",
+      "sejourNid": "50 à 55 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les héronnières sont des sites à fort enjeu, à cartographier et à protéger du dérangement en période de reproduction."
+  },
+  {
+    "id": "grande-aigrette",
+    "nom": "Grande Aigrette",
+    "sci": "Ardea alba",
+    "en": "Great Egret",
+    "ordre": "Pélécaniformes",
+    "famille": "Ardéidés",
+    "mesures": {
+      "longueur": "85–102 cm",
+      "envergure": "140–170 cm",
+      "poids": "1–1,5 kg"
+    },
+    "identification": [
+      "Grand héron entièrement blanc, à long cou en S.",
+      "Bec jaune hors reproduction, pattes noires.",
+      "Taille d'un Héron cendré."
+    ],
+    "confusions": [
+      "Aigrette garzette : bien plus petite, bec noir, doigts jaunes.",
+      "Héron garde-bœufs : petit, trapu, bec court jaune."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« Krrrah » rauque, rarement entendu."
+    },
+    "statut": "Surtout hivernante et migratrice en Île-de-France, de plus en plus nombreuse ; niche localement ailleurs en France.",
+    "phenologie": "Surtout d'août à avril en Île-de-France.",
+    "habitat": "Zones humides, bords d'étangs, prairies humides et même cultures, où elle chasse les rongeurs.",
+    "urbain": "Non.",
+    "repartition": "En forte expansion en France et en Europe depuis les années 1990.",
+    "alimentation": "Poissons, amphibiens, campagnols, insectes.",
+    "reproduction": {
+      "typeNid": "Colonial",
+      "nid": "Plate-forme dans une roselière ou un arbre, en colonie souvent mêlée à d'autres hérons.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "3 à 5",
+      "incubation": "25 à 26 jours, par les deux parents",
+      "sejourNid": "Environ 42 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "NT (quasi menacée) comme nicheuse"
+    },
+    "terrain": "Espèce de l'annexe I : sa présence régulière en hivernage sur un site est à signaler, même si elle n'y niche pas."
+  },
+  {
+    "id": "grand-cormoran",
+    "nom": "Grand Cormoran",
+    "sci": "Phalacrocorax carbo",
+    "en": "Great Cormorant",
+    "ordre": "Suliformes",
+    "famille": "Phalacrocoracidés",
+    "mesures": {
+      "longueur": "80–100 cm",
+      "envergure": "121–149 cm",
+      "poids": "2–3 kg"
+    },
+    "identification": [
+      "Grand oiseau noir à reflets bronze, face et gorge blanches, bec crochu.",
+      "Nage très bas sur l'eau, plonge souvent ; sèche ses ailes déployées sur un perchoir.",
+      "Vol en ligne ou en V, cou tendu."
+    ],
+    "confusions": [
+      "Cormoran huppé : côtier, plus petit, sans blanc à la face.",
+      "Oies en vol : cou plus court et plumage plus clair."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "Croassements rauques dans les colonies et dortoirs."
+    },
+    "statut": "Hivernant nombreux et nicheur en progression à l'intérieur des terres (sous-espèce sinensis).",
+    "phenologie": "Présent toute l'année ; maximum en hiver.",
+    "habitat": "Grands plans d'eau, gravières, fleuves ; dortoirs dans les arbres au bord de l'eau.",
+    "urbain": "Oui, sur la Seine et les plans d'eau.",
+    "repartition": "Côtes et grandes zones humides de France ; Europe.",
+    "alimentation": "Poissons, pêchés en plongée.",
+    "reproduction": {
+      "typeNid": "Colonial (arboricole)",
+      "nid": "Nid de branches en colonie dans des arbres ou sur des îlots.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "3 à 4",
+      "incubation": "27 à 31 jours, par les deux parents",
+      "sejourNid": "Environ 50 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009), mais des tirs de régulation sont autorisés par dérogation pour protéger les piscicultures.",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce conflictuelle (pêche, pisciculture). Ses dortoirs sont comptés à la mi-janvier lors des recensements nationaux."
+  },
+  {
+    "id": "cygne-tubercule",
+    "nom": "Cygne tuberculé",
+    "sci": "Cygnus olor",
+    "en": "Mute Swan",
+    "ordre": "Ansériformes",
+    "famille": "Anatidés",
+    "mesures": {
+      "longueur": "125–160 cm",
+      "envergure": "200–240 cm",
+      "poids": "8–12 kg"
+    },
+    "identification": [
+      "Très grand oiseau blanc, cou gracieux en S.",
+      "Bec orange avec un tubercule noir à la base (plus gros chez le mâle).",
+      "Jeunes gris-brun la première année."
+    ],
+    "confusions": [
+      "Cygne chanteur et Cygne de Bewick (hivernants rares) : bec jaune et noir, sans tubercule, cou droit."
+    ],
+    "sons": {
+      "chant": "Pas de chant ; assez silencieux malgré son nom anglais (« muet »).",
+      "cris": "Sifflements et souffles de menace ; vrombissement sonore des ailes en vol."
+    },
+    "statut": "Nicheur sédentaire ; population en grande partie issue d'oiseaux introduits ou semi-domestiques.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Étangs, lacs, rivières lentes, parcs.",
+    "urbain": "Oui, plans d'eau des parcs.",
+    "repartition": "Toute la France, surtout le nord et l'est ; Europe.",
+    "alimentation": "Plantes aquatiques, broutées en plongeant le cou.",
+    "reproduction": {
+      "typeNid": "Au sol (bord de l'eau)",
+      "nid": "Énorme tas de végétaux au bord de l'eau ou sur un îlot.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "5 à 7",
+      "incubation": "35 à 41 jours, surtout par la femelle",
+      "sejourNid": "Les jeunes quittent le nid en 1 à 2 jours ; envol vers 4 à 5 mois",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "Statut à vérifier : population en grande partie d'origine introduite"
+    },
+    "terrain": "Peu d'enjeu en général, mais les couples nicheurs sont très territoriaux : prudence lors des relevés en bord d'étang."
+  },
+  {
+    "id": "canard-colvert",
+    "nom": "Canard colvert",
+    "sci": "Anas platyrhynchos",
+    "en": "Mallard",
+    "ordre": "Ansériformes",
+    "famille": "Anatidés",
+    "mesures": {
+      "longueur": "50–65 cm",
+      "envergure": "81–98 cm",
+      "poids": "750–1 500 g"
+    },
+    "identification": [
+      "Mâle : tête vert bouteille, fin collier blanc, poitrine brun pourpré, bec jaune.",
+      "Femelle brune mouchetée, bec orange taché de sombre.",
+      "Miroir bleu bordé de blanc dans les deux sexes."
+    ],
+    "confusions": [
+      "Femelles d'autres canards de surface (Chipeau, Pilet) : miroir différent.",
+      "Hybrides avec des canards domestiques, très fréquents en ville."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "Femelle : « coin-coin-coin » décroissant ; mâle : « rhaeb » étouffé."
+    },
+    "statut": "Nicheur sédentaire très commun ; nombreux hivernants ; lâchers pour la chasse.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Toutes les zones humides, même petites : mares, fossés, rivières, bassins.",
+    "urbain": "Oui, très commun.",
+    "repartition": "Toute la France ; hémisphère nord.",
+    "alimentation": "Plantes aquatiques, graines, invertébrés.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Cuvette garnie de duvet dans la végétation, parfois loin de l'eau ou dans un arbre têtard.",
+      "periode": "Mars à juillet",
+      "pontes": "1",
+      "oeufs": "8 à 12",
+      "incubation": "27 à 28 jours, par la femelle",
+      "sejourNid": "Les canetons suivent la mère dès l'éclosion ; envol vers 50 à 60 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexes II et III.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "En été, les mâles prennent un plumage d'éclipse terne, proche de celui des femelles : vérifier le bec, jaune chez le mâle."
+  },
+  {
+    "id": "bernache-du-canada",
+    "nom": "Bernache du Canada",
+    "sci": "Branta canadensis",
+    "en": "Canada Goose",
+    "ordre": "Ansériformes",
+    "famille": "Anatidés",
+    "mesures": {
+      "longueur": "90–110 cm",
+      "envergure": "160–175 cm",
+      "poids": "3,5–5 kg"
+    },
+    "identification": [
+      "Grande oie brune, cou et tête noirs.",
+      "Large mentonnière blanche qui remonte sur les joues.",
+      "Souvent en groupes sur les pelouses près de l'eau."
+    ],
+    "confusions": [
+      "Bernache nonnette : plus petite, face entièrement blanche, poitrine noire."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« A-honk » trompettant et sonore, souvent en vol."
+    },
+    "statut": "Espèce introduite d'Amérique du Nord, en forte expansion ; considérée comme exotique envahissante.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Plans d'eau avec pelouses : parcs, gravières, golfs.",
+    "urbain": "Oui, parcs et bases de loisirs.",
+    "repartition": "En expansion en France, notamment en Île-de-France ; Europe du Nord-Ouest.",
+    "alimentation": "Herbe, plantes aquatiques, céréales.",
+    "reproduction": {
+      "typeNid": "Au sol (bord de l'eau)",
+      "nid": "Cuvette de végétaux et de duvet près de l'eau, souvent sur un îlot.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "5 à 7",
+      "incubation": "28 à 30 jours, par la femelle",
+      "sejourNid": "Les jeunes quittent le nid dès l'éclosion ; envol vers 40 à 48 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable, dont la population est régulée.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "NA (non applicable : espèce introduite)"
+    },
+    "terrain": "À mentionner dans un inventaire comme espèce exotique : elle peut dégrader les berges et entrer en concurrence avec les espèces indigènes."
+  },
+  {
+    "id": "foulque-macroule",
+    "nom": "Foulque macroule",
+    "sci": "Fulica atra",
+    "en": "Eurasian Coot",
+    "ordre": "Gruiformes",
+    "famille": "Rallidés",
+    "mesures": {
+      "longueur": "36–38 cm",
+      "envergure": "70–80 cm",
+      "poids": "600–900 g"
+    },
+    "identification": [
+      "Oiseau d'eau noir et rond.",
+      "Bec et plaque frontale blanc pur.",
+      "Doigts lobés (non palmés) gris-vert ; plonge souvent."
+    ],
+    "confusions": [
+      "Gallinule poule-d'eau : bec rouge et jaune, ligne blanche sur le flanc."
+    ],
+    "sons": {
+      "chant": "Pas de chant au sens strict.",
+      "cris": "« Kôk » sonore et sec, « pitt » aigu, très bruyante."
+    },
+    "statut": "Nicheuse sédentaire commune ; nombreux hivernants.",
+    "phenologie": "Présente toute l'année ; grands rassemblements hivernaux.",
+    "habitat": "Étangs, lacs, gravières, rivières lentes avec végétation.",
+    "urbain": "Oui, plans d'eau des parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Plantes aquatiques, invertébrés.",
+    "reproduction": {
+      "typeNid": "Flottant",
+      "nid": "Plate-forme de végétaux flottante ou ancrée dans la végétation aquatique.",
+      "periode": "Mars à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "6 à 9",
+      "incubation": "21 à 24 jours, par les deux parents",
+      "sejourNid": "Les poussins, à la tête rouge orangé, quittent le nid en quelques jours ; envol vers 55 à 60 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexes II et III.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Très territoriale au printemps : ses bagarres bruyantes trahissent les couples cantonnés."
+  },
+  {
+    "id": "gallinule-poule-d-eau",
+    "nom": "Gallinule poule-d'eau",
+    "sci": "Gallinula chloropus",
+    "en": "Common Moorhen",
+    "ordre": "Gruiformes",
+    "famille": "Rallidés",
+    "mesures": {
+      "longueur": "32–35 cm",
+      "envergure": "50–55 cm",
+      "poids": "250–400 g"
+    },
+    "identification": [
+      "Sombre, gris ardoise et brun ; bec rouge à pointe jaune.",
+      "Ligne blanche le long du flanc ; sous-caudales blanches, montrées en hochant la queue.",
+      "Longs doigts verts, non lobés."
+    ],
+    "confusions": [
+      "Foulque macroule : bec et front blancs.",
+      "Râle d'eau : plus discret, bec long et rouge, flancs barrés."
+    ],
+    "sons": {
+      "chant": "Pas de chant au sens strict.",
+      "cris": "« Kreuk » explosif et roulé, « kik-kik-kik »."
+    },
+    "statut": "Nicheuse sédentaire commune.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Mares, fossés, étangs, cours d'eau lents, même très petits, avec végétation des berges.",
+    "urbain": "Oui, bassins et plans d'eau des parcs.",
+    "repartition": "Toute la France ; presque tout l'Ancien Monde.",
+    "alimentation": "Omnivore : plantes, graines, invertébrés.",
+    "reproduction": {
+      "typeNid": "Au sol (berge)",
+      "nid": "Coupe de végétaux dans la végétation de berge ou sur une branche basse au-dessus de l'eau.",
+      "periode": "Avril à août",
+      "pontes": "2 à 3",
+      "oeufs": "5 à 9",
+      "incubation": "19 à 22 jours, par les deux parents",
+      "sejourNid": "Les poussins quittent le nid en quelques jours ; envol vers 45 à 50 jours",
+      "developpement": "Nidifuge",
+      "remarque": "Les jeunes des premières nichées aident souvent à nourrir les suivants."
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Présente sur la moindre mare : bonne indicatrice de la qualité des petites zones humides, souvent menacées par les aménagements."
+  },
+  {
+    "id": "grebe-huppe",
+    "nom": "Grèbe huppé",
+    "sci": "Podiceps cristatus",
+    "en": "Great Crested Grebe",
+    "ordre": "Podicipédiformes",
+    "famille": "Podicipédidés",
+    "mesures": {
+      "longueur": "46–51 cm",
+      "envergure": "59–73 cm",
+      "poids": "0,8–1,4 kg"
+    },
+    "identification": [
+      "Long cou blanc élancé, bec rose en poignard.",
+      "En plumage nuptial, huppe noire et collerette rousse et noire.",
+      "Nage bas et plonge longuement."
+    ],
+    "confusions": [
+      "Grèbe castagneux : petit et rond, sans huppe.",
+      "Grèbe à cou noir : plus petit, tête noire et aigrettes dorées."
+    ],
+    "sons": {
+      "chant": "Pas de chant, mais parades nuptiales spectaculaires (face à face, « danse des herbes »).",
+      "cris": "« Kraa » rauque, « ker-ker-ker »."
+    },
+    "statut": "Nicheur assez commun, rejoint l'hiver par des migrateurs.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Grands étangs, lacs, gravières des vallées de la Seine et de la Marne.",
+    "urbain": "Parfois, grands plans d'eau.",
+    "repartition": "Toute la France sauf en montagne ; Europe.",
+    "alimentation": "Poissons, capturés en plongée.",
+    "reproduction": {
+      "typeNid": "Flottant",
+      "nid": "Plate-forme de végétaux flottante, ancrée dans la végétation.",
+      "periode": "Avril à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "3 à 5",
+      "incubation": "27 à 29 jours, par les deux parents",
+      "sejourNid": "Les poussins rayés sont transportés sur le dos des parents ; envol vers 70 à 80 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les gravières réaménagées accueillent souvent des couples : un enjeu à prendre en compte dans leur gestion et leurs usages de loisirs."
+  },
+  {
+    "id": "mouette-rieuse",
+    "nom": "Mouette rieuse",
+    "sci": "Chroicocephalus ridibundus",
+    "en": "Black-headed Gull",
+    "photoCommons": "Chroicocephalus ridibundus 2012a.jpg",
+    "ordre": "Charadriiformes",
+    "famille": "Laridés",
+    "mesures": {
+      "longueur": "34–37 cm",
+      "envergure": "86–99 cm",
+      "poids": "200–350 g"
+    },
+    "identification": [
+      "Petite mouette au dos gris clair, bec et pattes rouges.",
+      "Capuchon brun chocolat en été ; simple tache sombre derrière l'œil en hiver.",
+      "Bord avant de l'aile blanc, très visible en vol."
+    ],
+    "confusions": [
+      "Mouette mélanocéphale : capuchon noir intense, ailes sans noir.",
+      "Jeunes goélands : bien plus grands et bruns."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« Kriièh » grinçant et nasal, très bruyante en groupe."
+    },
+    "statut": "Nicheuse coloniale localisée ; hivernante abondante en Île-de-France.",
+    "phenologie": "Présente toute l'année ; très nombreuse d'octobre à mars.",
+    "habitat": "Étangs, fleuves, décharges, champs labourés ; villes en hiver.",
+    "urbain": "Oui, très commune en hiver sur la Seine.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Omnivore : invertébrés, vers des labours, déchets, petits poissons.",
+    "reproduction": {
+      "typeNid": "Colonial (au sol)",
+      "nid": "Coupe de végétaux au sol, en colonie, sur des îlots ou des berges.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "2 à 3",
+      "incubation": "22 à 26 jours, par les deux parents",
+      "sejourNid": "Les jeunes restent près du nid ; envol vers 35 jours",
+      "developpement": "Semi-nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "NT (quasi menacée) comme nicheuse"
+    },
+    "terrain": "Les colonies sur îlots de gravières sont sensibles au dérangement. Les grands dortoirs hivernaux font l'objet de comptages."
+  },
+  {
+    "id": "goeland-argente",
+    "nom": "Goéland argenté",
+    "sci": "Larus argentatus",
+    "en": "European Herring Gull",
+    "ordre": "Charadriiformes",
+    "famille": "Laridés",
+    "mesures": {
+      "longueur": "55–67 cm",
+      "envergure": "123–148 cm",
+      "poids": "0,7–1,5 kg"
+    },
+    "identification": [
+      "Grand goéland au dos gris clair, extrémité des ailes noire à taches blanches.",
+      "Pattes roses ; bec jaune avec une tache rouge.",
+      "Jeunes bruns tachetés ; plumage adulte à 4 ans."
+    ],
+    "confusions": [
+      "Goéland leucophée : pattes jaunes, dos un peu plus sombre.",
+      "Goéland brun : dos gris ardoise à noirâtre, pattes jaunes."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« Kyaou » sonore et longs « rires » en série."
+    },
+    "statut": "Surtout côtier ; hivernant et nicheur en progression à l'intérieur, notamment sur les toits.",
+    "phenologie": "Présent toute l'année, surtout en hiver.",
+    "habitat": "Côtes, décharges, fleuves, grandes villes.",
+    "urbain": "Oui, toits des villes.",
+    "repartition": "Côtes de la Manche et de l'Atlantique ; Europe du Nord-Ouest.",
+    "alimentation": "Omnivore et opportuniste.",
+    "reproduction": {
+      "typeNid": "Au sol ou sur les toits",
+      "nid": "Amas de végétaux au sol, sur une falaise ou sur un toit plat.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "2 à 3",
+      "incubation": "28 à 30 jours, par les deux parents",
+      "sejourNid": "Les jeunes restent près du nid ; envol vers 35 à 40 jours",
+      "developpement": "Semi-nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009), avec des dérogations possibles en ville.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "L'identification des goélands (âges, espèces proches) est une spécialité : commencer par bien connaître l'argenté adulte."
+  },
+  {
+    "id": "martin-pecheur-d-europe",
+    "nom": "Martin-pêcheur d'Europe",
+    "sci": "Alcedo atthis",
+    "en": "Common Kingfisher",
+    "ordre": "Coraciiformes",
+    "famille": "Alcédinidés",
+    "mesures": {
+      "longueur": "16–17 cm (dont 4 cm de bec)",
+      "envergure": "24–26 cm",
+      "poids": "35–45 g"
+    },
+    "identification": [
+      "Dos bleu turquoise éclatant, dessous orange.",
+      "Long bec en poignard ; la femelle a la base de la mandibule inférieure orange.",
+      "Vol rapide et rasant au-dessus de l'eau ; plonge depuis un perchoir."
+    ],
+    "confusions": [
+      "Aucune : silhouette et couleurs uniques."
+    ],
+    "sons": {
+      "chant": "Pas de chant au sens strict.",
+      "cris": "« Tiiit » aigu et perçant, lancé en vol : c'est souvent ainsi qu'on le repère."
+    },
+    "statut": "Nicheur sédentaire, sensible aux hivers rigoureux qui font chuter ses effectifs.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Cours d'eau et étangs aux eaux claires, riches en petits poissons, avec perchoirs et berges abruptes.",
+    "urbain": "Parfois, rivières et étangs des parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Petits poissons, insectes aquatiques.",
+    "reproduction": {
+      "typeNid": "Terrier",
+      "nid": "Terrier de 50 à 100 cm creusé dans une berge verticale de terre meuble.",
+      "periode": "Mars à août",
+      "pontes": "2 à 3",
+      "oeufs": "6 à 7",
+      "incubation": "19 à 21 jours, par les deux parents",
+      "sejourNid": "23 à 27 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Les berges verticales nues sont ses sites de nid : l'enrochement ou le reprofilage des berges les détruit. Enjeu fréquent des travaux en rivière."
+  },
+  {
+    "id": "rousserolle-effarvatte",
+    "nom": "Rousserolle effarvatte",
+    "sci": "Acrocephalus scirpaceus",
+    "en": "Common Reed Warbler",
+    "photoCommons": "Common Reed Warbler (Acrocephalus scirpaceus).jpg",
+    "ordre": "Passériformes",
+    "famille": "Acrocéphalidés",
+    "mesures": {
+      "longueur": "12,5–14 cm",
+      "envergure": "17–21 cm",
+      "poids": "10–15 g"
+    },
+    "identification": [
+      "Brun roussâtre uni dessus, dessous clair, sans marques.",
+      "Front fuyant, bec fin et assez long, sourcil discret.",
+      "Grimpe le long des roseaux."
+    ],
+    "confusions": [
+      "Rousserolle verderolle : presque identique ; chant fait d'imitations variées ; milieux plus secs (friches à reine-des-prés).",
+      "Phragmite des joncs : sourcil crème très marqué, dos strié."
+    ],
+    "sons": {
+      "chant": "Bavardage rythmé et régulier, fait de motifs répétés deux ou trois fois : « tiri-tiri-tiri, tret-tret, tchè-tchè ».",
+      "cris": "« Tcharr » rauque."
+    },
+    "statut": "Nicheuse migratrice transsaharienne commune.",
+    "phenologie": "Présente de fin avril à septembre-octobre.",
+    "habitat": "Roselières à phragmites, même petites, bords d'étangs et de fossés.",
+    "urbain": "Parfois, roselières des parcs.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Insectes et araignées des roseaux.",
+    "reproduction": {
+      "typeNid": "Roselière (suspendu)",
+      "nid": "Coupe profonde tissée autour de plusieurs tiges de roseaux.",
+      "periode": "Mai à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "3 à 5",
+      "incubation": "11 à 12 jours, par les deux parents",
+      "sejourNid": "10 à 12 jours",
+      "developpement": "Nidicole",
+      "remarque": "Principal hôte du Coucou gris dans les zones humides."
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Le faucardage (coupe) des roselières au printemps détruit ses nids : à programmer en hiver."
+  },
+  {
+    "id": "faisan-de-colchide",
+    "nom": "Faisan de Colchide",
+    "sci": "Phasianus colchicus",
+    "en": "Common Pheasant",
+    "ordre": "Galliformes",
+    "famille": "Phasianidés",
+    "mesures": {
+      "longueur": "Mâle 70–90 cm, femelle 55–70 cm (longue queue)",
+      "envergure": "70–90 cm",
+      "poids": "0,9–1,4 kg"
+    },
+    "identification": [
+      "Mâle cuivré flamboyant, tête vert foncé avec caroncules rouges, souvent un collier blanc.",
+      "Très longue queue pointue barrée.",
+      "Femelle brun chamois tacheté, queue plus courte."
+    ],
+    "confusions": [
+      "Femelle parfois confondue avec une Perdrix grise : plus grande, longue queue pointue."
+    ],
+    "sons": {
+      "chant": "« Kok-kok » sonore et rauque du mâle, suivi d'un bref battement d'ailes.",
+      "cris": "Caquètements à l'envol, envol bruyant."
+    },
+    "statut": "Espèce introduite d'Asie depuis l'Antiquité, très largement soutenue par des lâchers pour la chasse.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Cultures avec haies et bosquets, lisières, friches.",
+    "urbain": "Non.",
+    "repartition": "Toute la France de plaine ; Europe.",
+    "alimentation": "Graines, céréales, baies, insectes.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Cuvette sommaire au sol dans la végétation.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "8 à 12",
+      "incubation": "23 à 25 jours, par la femelle",
+      "sejourNid": "Les poussins suivent la mère dès l'éclosion ; premiers vols vers 12 à 14 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexes II et III.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Peu d'enjeu patrimonial, mais à noter : les fortes densités d'oiseaux lâchés peuvent influencer la faune locale."
+  },
+  {
+    "id": "perdrix-grise",
+    "nom": "Perdrix grise",
+    "sci": "Perdix perdix",
+    "en": "Grey Partridge",
+    "ordre": "Galliformes",
+    "famille": "Phasianidés",
+    "mesures": {
+      "longueur": "29–31 cm",
+      "envergure": "45–48 cm",
+      "poids": "350–450 g"
+    },
+    "identification": [
+      "Gallinacé rond, gris finement vermiculé, face orange.",
+      "Flancs barrés de roux ; tache brune en fer à cheval sur le ventre (surtout le mâle).",
+      "Queue rousse visible à l'envol."
+    ],
+    "confusions": [
+      "Perdrix rouge : bec et pattes rouges, collier noir, flancs rayés de noir et de blanc."
+    ],
+    "sons": {
+      "chant": "« Kirr-ik » grinçant et répété, surtout au crépuscule.",
+      "cris": "Caquètements à l'envol, ailes bruyantes."
+    },
+    "statut": "Nicheuse sédentaire ; populations naturelles en fort déclin, soutenues par des lâchers.",
+    "phenologie": "Présente toute l'année ; en compagnies (groupes familiaux) de l'automne à l'hiver.",
+    "habitat": "Grandes plaines cultivées avec bordures enherbées, chaumes, friches : Beauce, Brie, Vexin.",
+    "urbain": "Non.",
+    "repartition": "Surtout la moitié nord de la France ; Europe.",
+    "alimentation": "Graines, feuilles ; insectes indispensables aux poussins.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Cuvette au sol dans une bordure herbeuse ou une culture.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "10 à 20",
+      "incubation": "23 à 25 jours, par la femelle",
+      "sejourNid": "Les poussins quittent le nid dès l'éclosion ; premiers vols vers 15 à 16 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégée : espèce chassable.",
+      "directiveOiseaux": "Annexes II et III.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce indicatrice de la qualité des plaines agricoles. Les bandes enherbées et les jachères sont essentielles à la survie des poussins."
+  },
+  {
+    "id": "vanneau-huppe",
+    "nom": "Vanneau huppé",
+    "sci": "Vanellus vanellus",
+    "en": "Northern Lapwing",
+    "ordre": "Charadriiformes",
+    "famille": "Charadriidés",
+    "mesures": {
+      "longueur": "28–31 cm",
+      "envergure": "82–87 cm",
+      "poids": "150–300 g"
+    },
+    "identification": [
+      "Dos vert à reflets métalliques, longue huppe fine et recourbée.",
+      "Plastron noir, ventre blanc, sous-caudales rousses.",
+      "Ailes larges et arrondies, vol souple et « papillonnant »."
+    ],
+    "confusions": [
+      "Peu de confusion ; de loin, en vol, les bandes noires et blanches et les ailes rondes le signalent."
+    ],
+    "sons": {
+      "chant": "En parade, cris variés pendant des vols acrobatiques avec culbutes et vrombissement d'ailes.",
+      "cris": "« Pi-ouit » plaintif, très caractéristique."
+    },
+    "statut": "Nicheur localisé et en déclin ; hivernant très abondant, en grandes bandes dans les plaines.",
+    "phenologie": "Nicheurs de mars à juillet ; hivernants d'octobre à mars.",
+    "habitat": "Cultures de printemps, prairies humides, labours, bords d'étangs.",
+    "urbain": "Non.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Vers et insectes du sol.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Simple cuvette au sol, dans une culture ou une prairie rase.",
+      "periode": "Mars à juin",
+      "pontes": "1 (ponte de remplacement possible)",
+      "oeufs": "4",
+      "incubation": "26 à 28 jours, par les deux parents",
+      "sejourNid": "Les poussins quittent le nid dès l'éclosion ; envol vers 35 à 40 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Les parents défendent vivement le nid : des cris et des vols d'alarme au-dessus d'une parcelle signalent une nichée. Les travaux agricoles printaniers sont sa principale menace."
+  },
+  {
+    "id": "oedicneme-criard",
+    "nom": "Œdicnème criard",
+    "sci": "Burhinus oedicnemus",
+    "en": "Eurasian Stone-curlew",
+    "photoCommons": "Eurasian stone-curlew (Burhinus oedicnemus) Dobruja.jpg",
+    "ordre": "Charadriiformes",
+    "famille": "Burhinidés",
+    "mesures": {
+      "longueur": "40–44 cm",
+      "envergure": "77–85 cm",
+      "poids": "400–500 g"
+    },
+    "identification": [
+      "Échassier terrestre brun-beige strié, au mimétisme parfait.",
+      "Grand œil jaune, bec court jaune à pointe noire.",
+      "Barres blanches et noires sur l'aile pliée ; longues pattes jaunes."
+    ],
+    "confusions": [
+      "Courlis cendré : bec très long et courbé, milieux humides."
+    ],
+    "sons": {
+      "chant": "Sifflements plaintifs et puissants « kur-li », proches de ceux du courlis, surtout au crépuscule et la nuit.",
+      "cris": "Variantes du même sifflement, souvent en chœur."
+    },
+    "statut": "Nicheur migrateur, assez localisé.",
+    "phenologie": "Présent de mars à octobre ; rassemblements postnuptiaux de dizaines d'oiseaux en septembre.",
+    "habitat": "Plaines cultivées caillouteuses (cultures de printemps : maïs, tournesol), friches sèches, carrières, terrains nus.",
+    "urbain": "Non, mais parfois sur des friches industrielles ou des zones d'activités en chantier.",
+    "repartition": "Surtout le centre et l'ouest de la France ; présent dans les plaines d'Île-de-France.",
+    "alimentation": "Gros insectes, escargots, vers, petits vertébrés, chassés la nuit.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Simple cuvette sur sol nu ou caillouteux.",
+      "periode": "Avril à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "2",
+      "incubation": "24 à 27 jours, par les deux parents",
+      "sejourNid": "Les poussins quittent le nid dès l'éclosion ; envol vers 36 à 42 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce à fort enjeu en Île-de-France, fréquente dans les dossiers de carrières et de zones d'activités. Recensement au crépuscule, par écoute et repasse."
+  },
+  {
+    "id": "busard-saint-martin",
+    "nom": "Busard Saint-Martin",
+    "sci": "Circus cyaneus",
+    "en": "Hen Harrier",
+    "ordre": "Accipitriformes",
+    "famille": "Accipitridés",
+    "mesures": {
+      "longueur": "45–55 cm",
+      "envergure": "97–118 cm",
+      "poids": "300–600 g (femelle plus lourde)"
+    },
+    "identification": [
+      "Mâle gris pâle, extrémité des ailes noire (cinq plumes), croupion blanc.",
+      "Femelle brune et barrée, croupion blanc bien marqué.",
+      "Vol bas et chaloupé au-dessus des cultures, ailes relevées en V."
+    ],
+    "confusions": [
+      "Busard cendré : plus fin ; mâle avec une barre noire sur l'aile ; femelle à croupion blanc plus étroit. Migrateur.",
+      "Busard des roseaux : plus massif, brun, sans croupion blanc."
+    ],
+    "sons": {
+      "chant": "Pas de chant ; parades aériennes ondulantes au printemps.",
+      "cris": "« Tchouk-ouk-ouk » près du nid ; « piih » de la femelle."
+    },
+    "statut": "Nicheur sédentaire ou migrateur partiel ; hivernants nombreux venus du nord.",
+    "phenologie": "Présent toute l'année ; dortoirs collectifs en hiver.",
+    "habitat": "Grandes cultures (céréales), landes, jeunes plantations et coupes forestières.",
+    "urbain": "Non.",
+    "repartition": "Surtout la moitié nord et le centre de la France ; Europe.",
+    "alimentation": "Surtout campagnols ; petits oiseaux.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Nid de végétaux au sol, dans les céréales (blé, orge) ou une coupe forestière.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "29 à 31 jours, par la femelle",
+      "sejourNid": "32 à 42 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les moissons détruisent beaucoup de nichées : des bénévoles localisent et protègent les nids avec les agriculteurs. Enjeu majeur des plaines céréalières."
+  },
+  {
+    "id": "bergeronnette-printaniere",
+    "nom": "Bergeronnette printanière",
+    "sci": "Motacilla flava",
+    "en": "Western Yellow Wagtail",
+    "ordre": "Passériformes",
+    "famille": "Motacillidés",
+    "mesures": {
+      "longueur": "15–16 cm",
+      "envergure": "23–27 cm",
+      "poids": "15–22 g"
+    },
+    "identification": [
+      "Dessous jaune vif, dos vert olive, queue plus courte que les autres bergeronnettes.",
+      "Mâle de la sous-espèce flava : tête gris-bleu et sourcil blanc ; d'autres sous-espèces ont la tête jaune ou noire.",
+      "Femelle plus terne."
+    ],
+    "confusions": [
+      "Bergeronnette des ruisseaux : dos gris, queue très longue, liée aux cours d'eau."
+    ],
+    "sons": {
+      "chant": "Chant simple, court et grinçant.",
+      "cris": "« Psiit » ou « tsri » en vol, caractéristique."
+    },
+    "statut": "Nicheuse migratrice transsaharienne ; nombreux migrateurs au printemps et en fin d'été.",
+    "phenologie": "Présente d'avril à septembre.",
+    "habitat": "Grandes cultures (colza, céréales, betteraves), prairies humides pâturées.",
+    "urbain": "Non.",
+    "repartition": "Toute la France de plaine ; Europe.",
+    "alimentation": "Insectes, souvent capturés autour du bétail.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Coupe au sol, cachée dans une culture ou une prairie.",
+      "periode": "Mai à juillet",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 13 jours, surtout par la femelle",
+      "sejourNid": "11 à 13 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce typique des cultures : souvent présente sur les emprises des projets en plaine. Son cri de vol permet de suivre la migration."
+  },
+  {
+    "id": "linotte-melodieuse",
+    "nom": "Linotte mélodieuse",
+    "sci": "Linaria cannabina",
+    "en": "Common Linnet",
+    "ordre": "Passériformes",
+    "famille": "Fringillidés",
+    "mesures": {
+      "longueur": "13–14 cm",
+      "envergure": "21–25 cm",
+      "poids": "15–22 g"
+    },
+    "identification": [
+      "Mâle nuptial : front et poitrine rouge carmin, tête grise, dos brun chaud.",
+      "Femelle et jeune bruns et striés.",
+      "Bordures blanches des plumes de l'aile et de la queue, visibles en vol."
+    ],
+    "confusions": [
+      "Sizerin flammé : calotte rouge et menton noir.",
+      "Femelle à ne pas confondre avec celle du Serin, qui a un croupion jaune."
+    ],
+    "sons": {
+      "chant": "Gazouillis varié, mélodieux et rapide, souvent en chœur.",
+      "cris": "« Tett-tett-tett » nasillards en vol."
+    },
+    "statut": "Nicheuse commune en déclin marqué ; grands groupes en hiver.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Friches, haies basses, landes, talus, bords de cultures.",
+    "urbain": "Rare, friches périurbaines.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Petites graines de plantes sauvages.",
+    "reproduction": {
+      "typeNid": "Arbustif (bas)",
+      "nid": "Coupe dans un buisson bas : ajonc, aubépine, ronce, jeune conifère.",
+      "periode": "Avril à août",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 6",
+      "incubation": "11 à 13 jours, par la femelle",
+      "sejourNid": "11 à 14 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "VU (vulnérable)"
+    },
+    "terrain": "Espèce des friches, milieux souvent sacrifiés par l'urbanisation : son statut VU en fait un enjeu fréquent des études d'impact."
+  },
+  {
+    "id": "bruant-proyer",
+    "nom": "Bruant proyer",
+    "sci": "Emberiza calandra",
+    "en": "Corn Bunting",
+    "ordre": "Passériformes",
+    "famille": "Emberizidés",
+    "mesures": {
+      "longueur": "16–19 cm",
+      "envergure": "26–32 cm",
+      "poids": "38–55 g"
+    },
+    "identification": [
+      "Gros bruant brun-beige strié, très terne, sans blanc à la queue.",
+      "Bec épais et fort.",
+      "S'envole souvent les pattes pendantes ; chante perché sur un piquet ou un fil."
+    ],
+    "confusions": [
+      "Alouette des champs : bords de queue blancs, petite huppe.",
+      "Femelles d'autres bruants : plus petites, avec du blanc à la queue."
+    ],
+    "sons": {
+      "chant": "Cliquetis sec qui accélère, comme un trousseau de clés secoué.",
+      "cris": "« Tic » sec."
+    },
+    "statut": "Nicheur sédentaire, en déclin.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Grandes plaines céréalières, prairies, avec quelques perchoirs.",
+    "urbain": "Non.",
+    "repartition": "Toute la France de plaine, morcelé ; Europe.",
+    "alimentation": "Graines, céréales ; insectes pour les jeunes.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Coupe au sol dans une culture ou une prairie.",
+      "periode": "Mai à août",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 5",
+      "incubation": "12 à 14 jours, par la femelle",
+      "sejourNid": "9 à 12 jours",
+      "developpement": "Nidicole",
+      "remarque": "Polygynie fréquente : un mâle peut avoir plusieurs femelles."
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses postes de chant (piquets, fils) facilitent le comptage des mâles cantonnés dans les plaines."
+  },
+  {
+    "id": "tarier-patre",
+    "nom": "Tarier pâtre",
+    "sci": "Saxicola rubicola",
+    "en": "European Stonechat",
+    "ordre": "Passériformes",
+    "famille": "Muscicapidés",
+    "mesures": {
+      "longueur": "11,5–13 cm",
+      "envergure": "18–21 cm",
+      "poids": "13–17 g"
+    },
+    "identification": [
+      "Mâle : tête noire, demi-collier blanc, poitrine orange.",
+      "Femelle brune, plus terne, avec un peu d'orange.",
+      "Toujours perché au sommet d'un buisson ou d'une tige, en agitant la queue."
+    ],
+    "confusions": [
+      "Tarier des prés : sourcil blanc marqué, queue blanche à la base ; migrateur, de passage."
+    ],
+    "sons": {
+      "chant": "Chant court, grinçant et précipité.",
+      "cris": "« Huit, trac-trac » : comme deux cailloux qu'on frappe, très typique."
+    },
+    "statut": "Nicheur commun, migrateur partiel.",
+    "phenologie": "Présent toute l'année, surtout de mars à octobre.",
+    "habitat": "Friches, landes, talus, bords de chemins et de voies ferrées.",
+    "urbain": "Non, sauf friches.",
+    "repartition": "Toute la France ; Europe occidentale et méridionale.",
+    "alimentation": "Insectes capturés au sol depuis un perchoir.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Coupe au sol, cachée au pied d'un buisson ou d'une touffe.",
+      "periode": "Mars à juillet",
+      "pontes": "2 à 3",
+      "oeufs": "4 à 6",
+      "incubation": "13 à 15 jours, par la femelle",
+      "sejourNid": "13 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "NT (quasi menacé)"
+    },
+    "terrain": "Facile à contacter : perché en évidence, il signale tout de suite une friche ou un talus favorable."
+  },
+  {
+    "id": "pie-grieche-ecorcheur",
+    "nom": "Pie-grièche écorcheur",
+    "sci": "Lanius collurio",
+    "en": "Red-backed Shrike",
+    "photoCommons": "Red-backed shrike.jpg",
+    "ordre": "Passériformes",
+    "famille": "Laniidés",
+    "mesures": {
+      "longueur": "16–18 cm",
+      "envergure": "24–27 cm",
+      "poids": "25–35 g"
+    },
+    "identification": [
+      "Mâle : tête grise, masque noir, dos roux, gorge blanche.",
+      "Femelle brune, dessous finement barré (écailleux).",
+      "Bec crochu ; guette perchée au sommet des buissons."
+    ],
+    "confusions": [
+      "Pie-grièche grise et à tête rousse : plus rares, plumages différents."
+    ],
+    "sons": {
+      "chant": "Chant discret, mêlé d'imitations.",
+      "cris": "« Tchèk » rauque et répété."
+    },
+    "statut": "Nicheuse migratrice transsaharienne, localisée en Île-de-France.",
+    "phenologie": "Présente de mai à août.",
+    "habitat": "Prairies pâturées avec haies épineuses, friches, landes buissonnantes.",
+    "urbain": "Non.",
+    "repartition": "Surtout l'est et le centre de la France ; Europe moyenne.",
+    "alimentation": "Gros insectes (bourdons, coléoptères), petits vertébrés, qu'elle empale sur des épines (« lardoir »).",
+    "reproduction": {
+      "typeNid": "Arbustif",
+      "nid": "Coupe dans un buisson épineux (aubépine, prunellier, églantier).",
+      "periode": "Mai à juillet",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "14 à 16 jours, par la femelle",
+      "sejourNid": "14 à 16 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "NT (quasi menacée)"
+    },
+    "terrain": "Espèce de l'annexe I, indicatrice des prairies bocagères riches en gros insectes. Repérable à ses lardoirs."
+  },
+  {
+    "id": "pic-mar",
+    "nom": "Pic mar",
+    "sci": "Dendrocoptes medius",
+    "en": "Middle Spotted Woodpecker",
+    "ordre": "Piciformes",
+    "famille": "Picidés",
+    "mesures": {
+      "longueur": "20–22 cm",
+      "envergure": "33–34 cm",
+      "poids": "50–80 g"
+    },
+    "identification": [
+      "Calotte entièrement rouge dans les deux sexes.",
+      "Joues blanches, sans trait noir rejoignant la nuque.",
+      "Flancs finement striés, sous-caudales rose pâle (rouge vif chez l'épeiche)."
+    ],
+    "confusions": [
+      "Pic épeiche : calotte noire (tache rouge à la nuque chez le mâle), sous-caudales rouge vif ; le juvénile d'épeiche a une calotte rouge !"
+    ],
+    "sons": {
+      "chant": "Au printemps, série de « kouèk-kouèk » nasaux et miaulés. Tambourine très rarement.",
+      "cris": "« Kik » plus faible que l'épeiche, « kètt-kètt » en série."
+    },
+    "statut": "Nicheur sédentaire, assez localisé.",
+    "phenologie": "Présent toute l'année ; chante surtout de février à avril.",
+    "habitat": "Vieilles chênaies aux arbres à écorce crevassée ; aussi charmaies et frênaies âgées. Présent dans les grands massifs franciliens.",
+    "urbain": "Non, sauf très grands parcs boisés anciens.",
+    "repartition": "Surtout la moitié nord de la France ; Europe moyenne.",
+    "alimentation": "Insectes recherchés dans les crevasses de l'écorce, plutôt qu'en creusant.",
+    "reproduction": {
+      "typeNid": "Cavernicole primaire",
+      "nid": "Loge creusée dans du bois tendre ou mort.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "4 à 7",
+      "incubation": "11 à 14 jours, par les deux parents",
+      "sejourNid": "20 à 23 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Indicateur des vieilles forêts de chênes. Recensement par écoute et repasse en fin d'hiver. La conservation d'îlots de vieux bois lui est favorable."
+  },
+  {
+    "id": "pic-noir",
+    "nom": "Pic noir",
+    "sci": "Dryocopus martius",
+    "typeChantXenoCanto": "drumming",
+    "en": "Black Woodpecker",
+    "ordre": "Piciformes",
+    "famille": "Picidés",
+    "mesures": {
+      "longueur": "40–46 cm",
+      "envergure": "67–73 cm",
+      "poids": "250–370 g"
+    },
+    "identification": [
+      "Le plus grand pic d'Europe, entièrement noir.",
+      "Calotte rouge entière chez le mâle, seulement à l'arrière de la tête chez la femelle.",
+      "Œil clair, bec ivoire puissant."
+    ],
+    "confusions": [
+      "Corneille noire en vol : le vol du pic noir est plus irrégulier et peu onduleux, la silhouette différente."
+    ],
+    "sons": {
+      "chant": "Tambourinage puissant et long (2 à 3 secondes), qui porte très loin.",
+      "cris": "« Kriu-kriu-kriu » en vol ; « kliiiéh » long et plaintif posé."
+    },
+    "statut": "Nicheur sédentaire en expansion vers l'ouest depuis le XXe siècle.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Grandes forêts avec gros arbres : hêtraies, chênaies, pinèdes.",
+    "urbain": "Non.",
+    "repartition": "Montagnes et plaines boisées de France ; Europe.",
+    "alimentation": "Fourmis charpentières et larves xylophages, extraites des troncs et des souches.",
+    "reproduction": {
+      "typeNid": "Cavernicole primaire",
+      "nid": "Grande loge à l'entrée ovale, creusée dans un gros hêtre ou un pin.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "3 à 5",
+      "incubation": "12 à 14 jours, par les deux parents",
+      "sejourNid": "24 à 28 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses loges sont réutilisées par des espèces à enjeu (Pigeon colombin, chouettes, chauves-souris forestières) : les arbres à loges de pic noir sont à préserver en priorité."
+  },
+  {
+    "id": "pigeon-colombin",
+    "nom": "Pigeon colombin",
+    "sci": "Columba oenas",
+    "en": "Stock Dove",
+    "ordre": "Columbiformes",
+    "famille": "Columbidés",
+    "mesures": {
+      "longueur": "32–34 cm",
+      "envergure": "63–69 cm",
+      "poids": "250–350 g"
+    },
+    "identification": [
+      "Pigeon gris-bleu uniforme, reflet vert au cou, sans aucun blanc.",
+      "Deux courtes barres noires sur l'aile ; bords des ailes sombres en vol.",
+      "Œil sombre."
+    ],
+    "confusions": [
+      "Pigeon ramier : plus grand, blanc au cou et à l'aile.",
+      "Pigeon biset : croupion blanc, barres alaires plus longues."
+    ],
+    "sons": {
+      "chant": "« Hou-hou » sourd en deux syllabes, répété (« ou-ouh, ou-ouh »).",
+      "cris": "Claquement d'ailes en vol nuptial."
+    },
+    "statut": "Nicheur assez commun, migrateur partiel.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Vieilles forêts et alignements d'arbres à cavités, en lisière de cultures ; grands parcs.",
+    "urbain": "Parfois, grands parcs anciens.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Graines et jeunes pousses dans les champs.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité : loge de Pic noir, arbre creux, nichoir, parfois bâtiment.",
+      "periode": "Mars à septembre",
+      "pontes": "2 à 4",
+      "oeufs": "2",
+      "incubation": "16 à 18 jours, par les deux parents",
+      "sejourNid": "20 à 30 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé : espèce chassable.",
+      "directiveOiseaux": "Annexe II.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Seul pigeon cavernicole : sa présence révèle des arbres à grosses cavités. Son chant est discret, à connaître pour ne pas le rater."
+  },
+  {
+    "id": "bondree-apivore",
+    "nom": "Bondrée apivore",
+    "sci": "Pernis apivorus",
+    "en": "European Honey Buzzard",
+    "ordre": "Accipitriformes",
+    "famille": "Accipitridés",
+    "mesures": {
+      "longueur": "52–60 cm",
+      "envergure": "113–135 cm",
+      "poids": "500–1 000 g"
+    },
+    "identification": [
+      "Rapace de la taille d'une buse, à tête fine et cou saillant (« tête de pigeon »).",
+      "Queue plus longue que la buse, avec deux bandes près de la base et une au bout.",
+      "Plumage très variable ; ailes tenues à plat en vol plané."
+    ],
+    "confusions": [
+      "Buse variable : tête ronde, cou court, ailes relevées en V, queue courte finement barrée."
+    ],
+    "sons": {
+      "chant": "Pas de chant ; parade avec claquements d'ailes au-dessus du dos.",
+      "cris": "« Kiu-iiih » plaintif, plus mélodieux que la buse."
+    },
+    "statut": "Nicheuse migratrice transsaharienne.",
+    "phenologie": "Présente de mai à septembre ; migration visible fin août-début septembre.",
+    "habitat": "Grands massifs forestiers avec clairières, bocage boisé.",
+    "urbain": "Non.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Larves de guêpes et de bourdons, dont elle déterre les nids ; ses plumes de la face, courtes et serrées, la protègent des piqûres.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Nid de branches dans un grand arbre, souvent un ancien nid réutilisé, garni de rameaux verts.",
+      "periode": "Mai à août",
+      "pontes": "1",
+      "oeufs": "1 à 3 (souvent 2)",
+      "incubation": "30 à 35 jours, par les deux parents",
+      "sejourNid": "40 à 45 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Très discrète en période de nidification : souvent sous-détectée. Les parades de fin mai-juin sont le meilleur moment pour la repérer."
+  },
+  {
+    "id": "epervier-d-europe",
+    "nom": "Épervier d'Europe",
+    "sci": "Accipiter nisus",
+    "en": "Eurasian Sparrowhawk",
+    "ordre": "Accipitriformes",
+    "famille": "Accipitridés",
+    "mesures": {
+      "longueur": "28–38 cm",
+      "envergure": "60–80 cm",
+      "poids": "110–350 g (femelle bien plus grande)"
+    },
+    "identification": [
+      "Petit rapace aux ailes courtes et arrondies, longue queue barrée.",
+      "Mâle : dessus gris-bleu, dessous barré de roux ; femelle plus grande, gris-brun, barrée de gris.",
+      "Vol battu rapide entrecoupé de glissades."
+    ],
+    "confusions": [
+      "Autour des palombes : bien plus grand et massif, sourcil blanc marqué.",
+      "Faucon crécerelle : ailes pointues, vol stationnaire."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« Kiu-kiu-kiu » répété près du nid."
+    },
+    "statut": "Nicheur sédentaire commun ; hivernants du nord.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Forêts, bocage, parcs et jardins (chasse aux mangeoires).",
+    "urbain": "Oui, y compris à Paris.",
+    "repartition": "Toute la France ; Europe.",
+    "alimentation": "Presque exclusivement de petits oiseaux, capturés par surprise.",
+    "reproduction": {
+      "typeNid": "Arboricole",
+      "nid": "Plate-forme de brindilles dans un arbre, souvent un conifère, contre le tronc.",
+      "periode": "Avril à juillet",
+      "pontes": "1",
+      "oeufs": "4 à 6",
+      "incubation": "32 à 35 jours, par la femelle",
+      "sejourNid": "24 à 30 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listé en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les cris d'alarme des passereaux (« tsiii » aigus) signalent souvent son passage. Les plumées (restes de proies) trahissent sa présence."
+  },
+  {
+    "id": "engoulevent-d-europe",
+    "nom": "Engoulevent d'Europe",
+    "sci": "Caprimulgus europaeus",
+    "en": "European Nightjar",
+    "ordre": "Caprimulgiformes",
+    "famille": "Caprimulgidés",
+    "mesures": {
+      "longueur": "26–28 cm",
+      "envergure": "54–60 cm",
+      "poids": "65–100 g"
+    },
+    "identification": [
+      "Plumage gris-brun vermiculé, imitant parfaitement l'écorce ou le sol.",
+      "Grosse tête plate, bec minuscule mais bouche immense.",
+      "Taches blanches aux ailes et à la queue chez le mâle ; actif au crépuscule."
+    ],
+    "confusions": [
+      "En vol au crépuscule, silhouette de petit faucon ou de coucou, mais vol souple et silencieux."
+    ],
+    "sons": {
+      "chant": "Ronronnement mécanique continu (« rrrrrrrr ») pendant plusieurs minutes, avec des changements de tonalité, à la tombée de la nuit.",
+      "cris": "« Kouik » en vol, claquement des ailes."
+    },
+    "statut": "Nicheur migrateur transsaharien, localisé.",
+    "phenologie": "Présent de mai à septembre.",
+    "habitat": "Landes, coupes forestières, clairières sableuses, pinèdes claires (massifs de Fontainebleau et de Rambouillet).",
+    "urbain": "Non.",
+    "repartition": "Toute la France, de façon morcelée ; Europe.",
+    "alimentation": "Papillons de nuit et autres insectes, capturés en vol au crépuscule.",
+    "reproduction": {
+      "typeNid": "Au sol",
+      "nid": "Aucun : les œufs sont pondus à même le sol, entre les débris végétaux.",
+      "periode": "Mai à août",
+      "pontes": "1 à 2",
+      "oeufs": "2",
+      "incubation": "17 à 21 jours, par les deux parents",
+      "sejourNid": "Les jeunes se déplacent vite autour du nid ; envol vers 16 à 19 jours",
+      "developpement": "Semi-nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ne se recense qu'au crépuscule, en juin-juillet, par écoute des mâles chanteurs. Les coupes forestières lui créent des habitats temporaires."
+  },
+  {
+    "id": "cheveche-d-athena",
+    "nom": "Chevêche d'Athéna",
+    "sci": "Athene noctua",
+    "en": "Little Owl",
+    "ordre": "Strigiformes",
+    "famille": "Strigidés",
+    "mesures": {
+      "longueur": "21–23 cm",
+      "envergure": "54–58 cm",
+      "poids": "160–200 g"
+    },
+    "identification": [
+      "Petite chouette trapue à tête aplatie, sans aigrettes.",
+      "Yeux jaunes surmontés de sourcils blancs, qui lui donnent un air sévère.",
+      "Brune tachetée de blanc ; souvent visible de jour, perchée, en hochant la tête."
+    ],
+    "confusions": [
+      "Chouette hulotte : bien plus grande, yeux noirs.",
+      "Petit-duc scops : aigrettes, chant « tiou » monotone, très rare en Île-de-France."
+    ],
+    "sons": {
+      "chant": "« Kiou » ou « gouuk » miaulé et montant, répété.",
+      "cris": "« Kif-kif » aigus d'alarme."
+    },
+    "statut": "Nicheuse sédentaire en déclin.",
+    "phenologie": "Présente toute l'année ; chante surtout de février à avril.",
+    "habitat": "Bocage, vergers haute-tige, prairies pâturées avec arbres têtards, vieux bâtiments agricoles.",
+    "urbain": "Parfois, en lisière des villages.",
+    "repartition": "Toute la France de plaine ; Europe.",
+    "alimentation": "Gros insectes, vers de terre, campagnols.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Cavité d'arbre (saules têtards, vieux fruitiers), trou de mur, nichoir.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "3 à 5",
+      "incubation": "28 à 29 jours, par la femelle",
+      "sejourNid": "30 à 35 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Espèce emblématique des vergers et du bocage, qui fait l'objet de programmes de nichoirs en Île-de-France. Recensement par repasse en fin d'hiver."
+  },
+  {
+    "id": "effraie-des-clochers",
+    "nom": "Effraie des clochers",
+    "sci": "Tyto alba",
+    "en": "Western Barn Owl",
+    "ordre": "Strigiformes",
+    "famille": "Tytonidés",
+    "mesures": {
+      "longueur": "33–39 cm",
+      "envergure": "80–95 cm",
+      "poids": "250–350 g"
+    },
+    "identification": [
+      "Face blanche en forme de cœur, yeux noirs.",
+      "Dessus doré moucheté de gris, dessous blanc à roussâtre.",
+      "Paraît toute blanche de nuit, dans les phares."
+    ],
+    "confusions": [
+      "Hibou des marais : yeux jaunes, plumage plus strié, chasse aussi de jour."
+    ],
+    "sons": {
+      "chant": "Pas de hululement : chuintement strident « chhhhhh » et cris rauques.",
+      "cris": "Les jeunes émettent des chuintements continus au nid ; claquements de bec."
+    },
+    "statut": "Nicheuse sédentaire en déclin.",
+    "phenologie": "Présente toute l'année.",
+    "habitat": "Campagne ouverte avec prairies, villages, fermes, clochers.",
+    "urbain": "Rare, en périphérie.",
+    "repartition": "Toute la France de plaine ; presque cosmopolite.",
+    "alimentation": "Micromammifères (campagnols, musaraignes, mulots).",
+    "reproduction": {
+      "typeNid": "Bâti (cavité)",
+      "nid": "Aucun nid construit : œufs pondus dans un clocher, une grange, un pigeonnier ou un nichoir.",
+      "periode": "Mars à octobre (variable selon les rongeurs)",
+      "pontes": "1 à 2",
+      "oeufs": "4 à 7",
+      "incubation": "30 à 32 jours, par la femelle",
+      "sejourNid": "50 à 60 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Non listée en annexe.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Ses pelotes de réjection, accumulées sous les perchoirs, permettent d'inventorier les micromammifères d'un secteur : une méthode classique en bureau d'études. Victime majeure des collisions routières."
+  },
+  {
+    "id": "perruche-a-collier",
+    "nom": "Perruche à collier",
+    "sci": "Psittacula krameri",
+    "en": "Rose-ringed Parakeet",
+    "ordre": "Psittaciformes",
+    "famille": "Psittaculidés",
+    "mesures": {
+      "longueur": "37–43 cm (longue queue)",
+      "envergure": "42–48 cm",
+      "poids": "95–140 g"
+    },
+    "identification": [
+      "Perruche vert vif à très longue queue effilée.",
+      "Bec rouge crochu.",
+      "Mâle avec un fin collier noir et rose ; vol rapide et direct, en groupes bruyants."
+    ],
+    "confusions": [
+      "Conure veuve (autre perruche échappée, plus rare) : face et poitrine grises."
+    ],
+    "sons": {
+      "chant": "Pas de vrai chant.",
+      "cris": "« Kii-ak » perçant et répété, très bruyante en groupe."
+    },
+    "statut": "Espèce exotique introduite (Asie, Afrique), installée en Île-de-France depuis les années 1970 à partir d'oiseaux échappés ; en forte expansion.",
+    "phenologie": "Présente toute l'année ; grands dortoirs.",
+    "habitat": "Parcs, jardins et alignements d'arbres urbains.",
+    "urbain": "Oui, surtout dans le sud et l'ouest parisiens.",
+    "repartition": "Grandes agglomérations (Île-de-France, Marseille, Lille…) ; plusieurs villes européennes.",
+    "alimentation": "Fruits, graines, bourgeons, mangeoires.",
+    "reproduction": {
+      "typeNid": "Cavernicole secondaire",
+      "nid": "Dans une cavité d'arbre, souvent une ancienne loge de pic.",
+      "periode": "Janvier à juin (niche tôt)",
+      "pontes": "1",
+      "oeufs": "3 à 4",
+      "incubation": "22 à 24 jours, par la femelle",
+      "sejourNid": "40 à 50 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégée (espèce introduite).",
+      "directiveOiseaux": "Non concernée (espèce non indigène).",
+      "listeRougeFrance": "NA (non applicable : espèce introduite)"
+    },
+    "terrain": "À citer comme espèce exotique : elle occupe tôt dans la saison les cavités convoitées par la Sittelle, l'Étourneau ou les chauves-souris (Noctules)."
+  },
+  {
+    "id": "pigeon-biset",
+    "nom": "Pigeon biset (forme domestique)",
+    "sci": "Columba livia",
+    "en": "Rock Dove (feral)",
+    "ordre": "Columbiformes",
+    "famille": "Columbidés",
+    "mesures": {
+      "longueur": "31–34 cm",
+      "envergure": "63–70 cm",
+      "poids": "250–400 g"
+    },
+    "identification": [
+      "Forme sauvage : gris, cou à reflets verts et pourpres, deux barres noires sur l'aile, croupion blanc.",
+      "Pigeons des villes : plumages très variables (blanc, roux, noir, écaillé).",
+      "Vit en groupes sur les bâtiments et les places."
+    ],
+    "confusions": [
+      "Pigeon colombin : pas de croupion blanc, barres alaires courtes.",
+      "Pigeon ramier : blanc au cou et à l'aile."
+    ],
+    "sons": {
+      "chant": "Roucoulement « rou-cou-cou » grave, accompagné de parades (gonflement du cou, courbettes).",
+      "cris": "Claquement d'ailes à l'envol."
+    },
+    "statut": "Population urbaine issue de pigeons domestiques retournés à l'état sauvage. Le Biset réellement sauvage niche sur les falaises du littoral et du sud.",
+    "phenologie": "Présent toute l'année ; niche presque toute l'année.",
+    "habitat": "Villes, gares, ponts, places.",
+    "urbain": "Oui, typiquement urbain.",
+    "repartition": "Partout dans les villes ; quasi cosmopolite.",
+    "alimentation": "Graines, pain et déchets.",
+    "reproduction": {
+      "typeNid": "Bâti (corniches)",
+      "nid": "Nid sommaire sur un rebord, une corniche ou une poutre de bâtiment.",
+      "periode": "Toute l'année",
+      "pontes": "3 à 6",
+      "oeufs": "2",
+      "incubation": "17 à 19 jours, par les deux parents",
+      "sejourNid": "25 à 32 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Non protégé. Le Biset sauvage est chassable ; les pigeons des villes relèvent surtout de la réglementation municipale (nourrissage, régulation).",
+      "directiveOiseaux": "Annexe II (Biset sauvage).",
+      "listeRougeFrance": "Non évalué pour la forme domestique"
+    },
+    "terrain": "Peu d'enjeu, mais à savoir distinguer des autres pigeons, notamment du Colombin, plus discret et chassable lui aussi."
+  },
+  {
+    "id": "faucon-pelerin",
+    "nom": "Faucon pèlerin",
+    "sci": "Falco peregrinus",
+    "en": "Peregrine Falcon",
+    "ordre": "Falconiformes",
+    "famille": "Falconidés",
+    "mesures": {
+      "longueur": "36–48 cm",
+      "envergure": "89–113 cm",
+      "poids": "600–1 300 g (femelle plus lourde)"
+    },
+    "identification": [
+      "Faucon puissant au dos gris ardoise, large moustache noire sur joue blanche.",
+      "Dessous blanc crème finement barré.",
+      "Ailes pointues assez larges à la base ; piqués spectaculaires."
+    ],
+    "confusions": [
+      "Faucon hobereau : plus petit et plus fin, « culotte » rousse.",
+      "Faucon crécerelle : dos roux, fait du surplace."
+    ],
+    "sons": {
+      "chant": "Pas de chant.",
+      "cris": "« Kèk-kèk-kèk » rauques et répétés près de l'aire."
+    },
+    "statut": "Nicheur sédentaire en reconquête depuis l'interdiction du DDT ; installé dans plusieurs villes, dont Paris.",
+    "phenologie": "Présent toute l'année.",
+    "habitat": "Falaises, carrières ; en ville, grands édifices (cathédrales, tours, cheminées industrielles).",
+    "urbain": "Oui, sur les monuments et tours.",
+    "repartition": "Toute la France, surtout les massifs montagneux et les villes ; presque cosmopolite.",
+    "alimentation": "Oiseaux capturés en vol (pigeons, étourneaux, mouettes).",
+    "reproduction": {
+      "typeNid": "Rupestre (corniche)",
+      "nid": "Aucun nid construit : simple aire sur une corniche ou dans un nichoir posé sur un bâtiment.",
+      "periode": "Mars à juin",
+      "pontes": "1",
+      "oeufs": "3 à 4",
+      "incubation": "29 à 32 jours, surtout par la femelle",
+      "sejourNid": "35 à 42 jours",
+      "developpement": "Nidicole"
+    },
+    "reglementation": {
+      "protection": "Protégé (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "LC (préoccupation mineure)"
+    },
+    "terrain": "Les travaux sur les grands bâtiments (ravalement, toitures) peuvent concerner des aires de pèlerin : à vérifier avant de planifier un chantier en hauteur."
+  },
+  {
+    "id": "grue-cendree",
+    "nom": "Grue cendrée",
+    "sci": "Grus grus",
+    "en": "Common Crane",
+    "ordre": "Gruiformes",
+    "famille": "Gruidés",
+    "mesures": {
+      "longueur": "110–120 cm",
+      "envergure": "200–230 cm",
+      "poids": "4–6 kg"
+    },
+    "identification": [
+      "Très grand échassier gris, tête et cou noirs barrés de blanc, petite calotte rouge.",
+      "« Panache » de plumes retombantes à l'arrière du corps.",
+      "Vole cou et pattes tendus, en grandes formations en V."
+    ],
+    "confusions": [
+      "Héron cendré : vole le cou replié, seul ou en petit nombre, silhouette différente."
+    ],
+    "sons": {
+      "chant": "Duos trompettants du couple sur les sites de nidification.",
+      "cris": "« Krou-krou » trompettant, audible de très loin, bien avant de voir les oiseaux."
+    },
+    "statut": "En Île-de-France, uniquement migratrice de passage. Hiverne en Champagne (lac du Der) et dans le sud-ouest ; nicheuse très rare en France.",
+    "phenologie": "Passages en octobre-novembre et en février-mars.",
+    "habitat": "Hors migration : grandes zones humides, cultures (maïs) pour s'alimenter ; nidification dans les marais et tourbières du nord de l'Europe.",
+    "urbain": "Non, mais passe souvent au-dessus de Paris.",
+    "repartition": "Niche surtout en Scandinavie et en Europe de l'Est ; traverse la France en diagonale nord-est / sud-ouest.",
+    "alimentation": "Graines (maïs), plantes, invertébrés.",
+    "reproduction": {
+      "typeNid": "Au sol (marais)",
+      "nid": "Tas de végétaux dans un marais ou une tourbière.",
+      "periode": "Avril à juin",
+      "pontes": "1",
+      "oeufs": "2",
+      "incubation": "28 à 31 jours, par les deux parents",
+      "sejourNid": "Les poussins quittent le nid dès l'éclosion ; envol vers 65 à 70 jours",
+      "developpement": "Nidifuge"
+    },
+    "reglementation": {
+      "protection": "Protégée (arrêté du 29 octobre 2009).",
+      "directiveOiseaux": "Annexe I.",
+      "listeRougeFrance": "CR (en danger critique) comme nicheuse en France, avec très peu de couples"
+    },
+    "terrain": "Ses grands passages font l'objet de suivis de la migration. Sensible aux collisions avec les lignes électriques et les éoliennes sur ses couloirs migratoires."
   }
 ]

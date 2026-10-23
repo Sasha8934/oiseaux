@@ -66,7 +66,9 @@ export function vueFiche(id) {
       h('dl', { class: 'statuts' },
         h('dt', {}, 'Protection nationale'), h('dd', {}, r.protection),
         h('dt', {}, 'Directive Oiseaux'), h('dd', {}, r.directiveOiseaux),
-        h('dt', {}, 'Liste rouge France (nicheurs)'), h('dd', {}, r.listeRougeFrance))),
+        h('dt', {}, 'Liste rouge France (nicheurs)'), h('dd', {}, r.listeRougeFrance)),
+      h('p', { class: 'texte-doux petit' }, 'Liste rouge des oiseaux nicheurs de France métropolitaine (UICN France, MNHN, LPO, SEOF, ONCFS, 2016). '
+        + 'Pour une étude, vérifier aussi la dernière édition et la Liste rouge régionale d\'Île-de-France.')),
     h('aside', { class: 'encart' }, h('h2', {}, 'Sur le terrain'), h('p', {}, e.terrain)));
 }
 
